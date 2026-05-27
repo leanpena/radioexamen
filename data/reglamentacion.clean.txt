@@ -1,0 +1,2455 @@
+PREGUNTA: I.1 | ¿Cuál es el objeto del “Reglamento General de Radioaficionados”?
+
+A) Regular la actividad de los Radioaficionados, Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas.
+B) Atribuir y reglamentar el uso de las bandas de frecuencias para el Servicio de Aficionados y el Servicio de Aficionados por Satélite, teniendo en consideración las condiciones de diseño, instalación y operación de estaciones radioeléctricas en sus respectivas bandas de frecuencias, resultantes de los avances tecnológicos, a fin de facilitar el acceso y el desarrollo de la actividad.
+C) Establecer criterios técnicos para el diseño de equipamiento destinado a la actividad de los Radioaficionados.
+
+CORRECTA: A,B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635-E/2017, publicada en el Boletín Oficial), el reglamento cumple un doble eje: ordenar la actividad de personas y entidades del servicio (A) y definir el marco de frecuencias, modos y condiciones operativas (B). La alternativa (C) es incompleta porque reduce el objeto a solo criterios de equipamiento, sin cubrir la organización del servicio ni el uso del espectro como en (A) y (B).
+OPCION A: **Correcta (reglamentación):** el reglamento regula a radioaficionados, radio clubes e instituciones autorizadas o reconocidas como sujetos centrales del servicio.
+OPCION B: **Correcta (reglamentación):** el mismo cuerpo normativo atribuye y reglamenta bandas y condiciones de estaciones, alineado al plan nacional de frecuencias y al desarrollo técnico del aficionado.
+OPCION C: **Incorrecta:** los criterios de diseño de equipos son parte del marco técnico, pero no describen por sí solos el objeto completo del reglamento frente a lo dispuesto en (A) y (B).
+---
+
+PREGUNTA: I.2 | ¿Cuál es el alcance del “Reglamento General de Radioaficionados”?
+
+A) Servicio de Aficionados.
+B) Servicio de Aficionados por Satélite.
+C) Servicio de Aficionados y Servicio de Aficionados por Satélite.
+
+CORRECTA: C
+EXPLICACION:
+La reglamentación define al radioaficionado como alguien interesado en la técnica con fines personales y **sin interés de lucro** (A). Cualquier opción que mencione beneficios económicos o comerciales es contraria a la esencia del reglamento.
+---
+
+PREGUNTA: I.3 | ¿Cuál es la Autoridad de Aplicación para el “Reglamento General de Radioaficionados”?
+
+A) SECRETARÍA DE COMUNICACIONES (SC).
+B) COMISIÓN NACIONAL DE COMUNICACIONES (CNC).
+C) ENTE NACIONAL DE COMUNICACIONES (ENACOM).
+D) MINISTERIO DE COMUNICACIONES (MINCOM).
+
+CORRECTA: C
+EXPLICACION:
+El **ENACOM** (C) es la autoridad nacional encargada de aplicar el reglamento. Otros entes como la Secretaría (A) o la CNC (B) han sido reemplazados o tienen funciones distintas en la estructura actual del estado.
+---
+
+PREGUNTA: I.4 | A los fines del Reglamento vigente en la República Argentina, los términos “aficionados” y “aficionados por satélite” ¿son considerados equivalentes a “radioaficionados” y “radioaficionados por satélite”, respectivamente?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.5 | Defina “SERVICIO DE RADIOAFICIONADOS”:
+
+A) Servicio de radiocomunicación privado que tiene por objeto la instrucción de operadores comerciales.
+B) Servicio de radiocomunicación público que tiene por objeto los estudios técnicos efectuados por operadores comerciales.
+C) Servicio de radiocomunicación que tiene por objeto la instrucción individual, la intercomunicación y los estudios técnicos efectuados por Radioaficionados.
+D) Servicio de radiocomunicación privado que tiene por objeto la instrucción de operadores de radiodifusión.
+
+CORRECTA: C
+EXPLICACION:
+La **Señal Distintiva** (C) es el nombre único asignado a cada estación. El prefijo (A) es solo una parte de ella y el nombre del titular (B) no es la identificación oficial en las ondas.
+---
+
+PREGUNTA: I.6 | Defina “SERVICIO DE RADIOAFICIONADOS POR SATÉLITE”:
+
+A) Servicio de radiocomunicación privado que tiene por objeto la instrucción de operadores comerciales.
+B) Servicio de radiocomunicación que utiliza estaciones espaciales situadas en satélites. artificiales de la Tierra para los mismos fines que el Servicio de Radioaficionados.
+C) Servicio de radiocomunicación privado que tiene por objeto la instrucción de operadores de radiodifusión.
+D) Servicio de radiocomunicación en el cual las señales emitidas o retransmitidas por estaciones espaciales están destinadas a la recepción directa por el público en general.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.7 | Defina “RADIOAFICIONADO”:
+
+A) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente individual, sin fines de lucro y que realiza con su estación actividades de instrucción, de intercomunicación y estudios técnicos.
+B) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente comercial, con fines de lucro y que realiza con su estación actividades de instrucción, de intercomunicación y estudios técnicos.
+C) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente individual, con fines de lucro y que realiza con su estación actividades de instrucción, de intercomunicación y estudios técnicos.
+D) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente individual, sin fines de lucro y que realiza con su estación actividades de intercomunicación con fines particulares.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.8 | Defina “RADIO CLUB”:
+
+A) Asociación Civil, integrada por cualquier operador de radio habilitado, cuyos objetivos fundamentales se apoyan en la agrupación de los mismos para propender a la difusión y fomento de la actividad radial.
+B) Asociación Civil, integrada por entidades que agrupan a operadores de radio, cuyos objetivos fundamentales se basan en la enseñanza y práctica de la actividad comercial.
+C) Persona Jurídica de Orden Privado cuya composición se tipifica dentro de la figura de Asociación Civil sin fines de lucro y sus objetivos fundamentales se apoyan en la agrupación de los Radioaficionados para fomentar el ingreso, enseñanza, difusión y práctica de la actividad.
+D) Asociación Civil, integrada por usuarios del Servicios de Banda Ciudadana cuyos objetivos fundamentales se apoyan en la agrupación de los mismos para propender a la difusión y fomento de la actividad radial.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.9 | Defina “INSTITUCIÓN AUTORIZADA”:
+
+A) Aquella institución, distinta de los Radio Clubes y de las Instituciones Reconocidas, autorizada por la Autoridad de Aplicación para dictar cursos sobre técnica, reglamentación y ética operativa, telegrafía y todo otro curso afín a la actividad, como así también, tomar exámenes para ingreso y ascenso de categorías de Radioaficionados.
+B) Aquella institución, distinta de los Radio Clubes, autorizada por la Autoridad de Aplicación para fomentar el ingreso, difusión y práctica de la actividad, a través de Prácticas Operativas
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.10 | Defina “INSTITUCIÓN RECONOCIDA”:
+
+A) Aquella institución, distinta de los Radio Clubes y de las Instituciones Autorizadas, reconocida por la Autoridad de Aplicación para fomentar el ingreso, difusión y práctica de la actividad, a través de Prácticas Operativas
+B) Aquella institución, distinta de los Radio Clubes, autorizada por la Autoridad de Aplicación para dictar cursos sobre técnica, reglamentación y ética operativa, telegrafía y todo otro curso afín a la actividad, como así también, tomar exámenes para ingreso y ascenso de categorías de Radioaficionados.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.11 | Defina “LICENCIA DE RADIOAFICIONADO”:
+
+A) Autorización que otorga un Radio Club reconocido a todas aquellas personas físicas o jurídicas que han cumplido con los requisitos reglamentarios.
+B) Autorización que otorga la Autoridad de Aplicación a todas aquellas personas jurídicas que hayan cumplido con los requisitos reglamentarios para obtener licencia, no facultando a instalar y operar estaciones del Servicio de Radioaficionados.
+C) Autorización que otorga la Autoridad de Aplicación a todas aquellas personas físicas y jurídicas que han cumplido con los requisitos establecidos en el Reglamento. Su otorgamiento las faculta a instalar y operar estaciones en sus respectivas bandas de frecuencia, categorías y condiciones.
+D) Autorización que otorga la Autoridad de Aplicación a todas aquellas personas jurídicas que han cumplido con los requisitos reglamentarios para obtener licencia y lo faculta para instalar y operar estaciones de Radioaficionado.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.12 | ¿Cuál es la sigla del PERMISO INTERNACIONAL DE RADIOAFICIONADOS?
+
+A) I.A.R.P.
+B) P.I.R.A.
+C) I.R.P.A.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.13 | Defina “PERMISO INTERNACIONAL DE RADIOAFICIONADOS”:
+
+A) Autorización extendida por la Autoridad de Aplicación de acuerdo con lo previsto en la Ley 24.730 y la Resolución 3745 SC/1997.
+B) Autorización extendida por la Autoridad de Aplicación de acuerdo con lo previsto en la Resolución SC 50/1998.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.14 | Defina “SEÑAL DISTINTIVA”:
+
+A) Identificación otorgada por la Autoridad de Aplicación a un Radioaficionado, Radio Club, Institución Autorizada o Institución Reconocida.
+B) Identificación otorgada por IARU a un Radioaficionado, Radio Club, Institución Autorizada o Institución Reconocida.
+C) Código que representa una clase de emisión, compuesta por el tipo de modulación, anchura de banda y naturaleza de la información.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.15 | Defina “CATEGORÍA” de Radioaficionado:
+
+A) Es el nivel de calificación que otorga la Autoridad de Aplicación a los titulares de licencias comerciales que hayan cumplido con los requisitos establecidos.
+B) Es el nivel de calificación que otorgan los a los titulares de licencia de Radioaficionado que hayan cumplido con los requisitos que para cada una de ellas se exige.
+C) Nivel de calificación que otorga la Autoridad de Aplicación a aquel Radioaficionado que cumpla con los requisitos establecidos en el Reglamento. Cada categoría conlleva derechos y obligaciones asociados a la misma.
+D) Es el nivel de calificación que otorga la Autoridad de Aplicación a los titulares de licencia de radiodifusión.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.16 | Defina “CONTACTO DE DX”:
+
+A) Se conviene en denominar así a aquellos comunicados de duración ilimitada en donde se intercambian datos, comentarios técnicos y nombre de los operadores.
+B) Comunicados entre estaciones que, por la distancia que las separa, inaccesibilidad geográfica, u otro factor de dificultad, no resulte frecuente la comunicación. Se realizan en los segmentos de bandas en que los contactos DX tienen prioridad y se limitan exclusivamente a intercambios de comunicación mínima e indispensable, con el objeto de facilitar la mayor cantidad de contactos posibles.
+C) Se conviene en denominar así a aquellos comunicados con varios Radioaficionados a la vez, en los que se intercambian datos técnicos, nombre de los operadores, domicilios y números de orden.
+D) Se conviene en denominar así a aquellos comunicados en los que se intercambian datos, comentarios generales, nombre de los operadores y datos de las estaciones.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.17 | Defina “ESTACIÓN REPETIDORA DE AFICIONADO”:
+
+A) Estación destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados, reservada únicamente al titular de la misma.
+B) Estación destinada a la transmisión de comunicaciones que se realicen en la actividad comercial de radio y abierta a todos los usuarios.
+C) Estación fija, destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados y abierta al tráfico general de los mismos, caracterizada por la señal distintiva del titular de la estación, posición geográfica, sub-tono y frecuencia asignada.
+D) Estación destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados, reservada únicamente a los Radio Clubes titulares de la misma.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.18 | Defina “REPETIDOR DIGITAL (Digipeater)”:
+
+A) Estación capaz de recibir y retransmitir información digital por paquete (Packet - Radio), en tiempo real, en la misma frecuencia, con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+B) Estación capaz de recibir información digital, en distinta frecuencia, con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+C) Estación capaz de recibir y retransmitir información emitida en cualquier modo, en tiempo real, en la misma frecuencia y con capacidad para enlazar varias estaciones a la vez.
+D) Estación capaz de recibir información analógica, en distinta frecuencia con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+
+CORRECTA: A
+EXPLICACION:
+La identificación debe hacerse al **comienzo, fin y cada 10 minutos** (D) para cumplir con las normas de supervisión del espectro. Identificaciones menos frecuentes o solo al final (A, B, C) son insuficientes según la norma.
+---
+
+PREGUNTA: I.19 | Defina “CONTROLADOR NODO TERMINAL (TNC)”:
+
+A) Es una unidad o programa que permite la conexión radial entre transceptores para el envío de datos analógicos. Se identifica con la señal distintiva del titular.
+B) Unidad o programa que permite la conexión entre computadoras y equipos de radio, para la recepción y transmisión de datos digitales mediante un módem, en las bandas y modos atribuidos al Servicio de Radioaficionados. Se identifica con la señal distintiva del titular.
+C) Es un equipo que permite la retransmisión automática de mensajes analógicos emitidos desde un radioaficionado a otro.
+D) Es un transceptor que permite la retransmisión automática de mensajes analógicos emitidos desde un radioaficionado a otro.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.20 | Defina “SISTEMA DE BOLETINES Y BASE DE DATOS (BBS)”:
+
+A) Sistema automático, compuesto por computadoras, equipos radioeléctricos y Controladores Nodo Terminal que permite el almacenamiento y la distribución de mensajes y archivos de Radioaficionados. El ingreso y utilización del mismo por parte de los Radioaficionados es sin ningún tipo de limitación de acceso o de impedimento de uso. Su responsable es el titular de la licencia y se identifica con la señal distintiva del mismo.
+B) Sistema manual, compuesto de transceptor y computadora, que agiliza el tránsito de paquetes digitales y distribuye información relativa a la actividad.
+C) Sistema automático, atendido o no, compuesto de uno o más equipos, que permite el contacto entre dos estaciones que emiten comunicaciones analógicas.
+D) Sistema manual, compuesto de transceptor y antena, que agiliza el tránsito de paquetes analógicos y distribuye información relativa a la actividad.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.21 | Defina “SISTEMA DE MENSAJES PERSONALES (PMS/PBBS)”:
+
+A) Controlador Nodo Terminal (CNT) para almacenamiento de mensajes personales. Realiza correo electrónico y se identifica con la señal distintiva del titular.
+B) Transceptor que posibilita el envío de mensajes generales dentro del correo electrónico entre Radioaficionados.
+C) TNC para almacenamiento de mensajes abiertos al tráfico general del correo electrónico de radioescuchas.
+D) Transceptor que posibilita el envío de mensajes en general dentro del correo electrónico entre estaciones de banda ciudadana.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.22 | Defina “DISTRIBUCIÓN DE MENSAJES (Forwarding)”:
+
+A) Mecanismo utilizado por los BBS´s para la distribución de mensajes con otros BBS´s
+B) Mecanismo utilizado por los digipeaters y TNC´s para almacenar mensajes.
+C) Mecanismo utilizado por las repetidoras del Servicio de Radioaficionados para distribuir y almacenar mensajes analógicos.
+D) Mecanismo utilizado por los Nodos para almacenar mensajes personales.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.23 | Defina “TARJETA QSL”:
+
+A) Confirmación (postal o virtual) que intercambian los Radioaficionados por sus comunicados realizados y los Radioescuchas por los comunicados recepcionados.
+B) Confirmación que intercambian los Radioaficionados en todos sus comunicados realizados y los radioescuchas por los comunicados recepcionados de estaciones de Radioaficionados.
+C) Confirmación que intercambian los Radioaficionados en todos sus comunicados realizados y los radioescuchas por los comunicados bilaterales con estaciones de Radioaficionados.
+D) Confirmación que intercambian los Radioaficionados por sus primeros comunicados realizados y los radioescuchas por los comunicados bilaterales con estaciones de Radioaficionado.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.24 | Defina “INSTRUCTORES”:
+
+A) Miembros del Radio Club que tomará los exámenes y que se desempeñaron como Instructores de cursos. No podrán intervenir, junto con los miembros de comisión directiva y veedores en la evaluación de los exámenes.
+B) Radioaficionado nombrado por el Radio Club, Institución Autorizada o Institución Reconocida, que por su capacidad, experiencia y estudio acredita la competencia necesaria para el dictado de cursos y/o coordinación de Prácticas Operativas, y que estará presente durante la toma y evaluación de los exámenes, según corresponda.
+C) Miembros de otro Radio Club que, pese a no haber actuado como instructores, podrán intervenir junto con los miembros de comisión directiva en la evaluación de los exámenes.
+D) Miembros de otro Radio Club que, pese a no haberse desempeñado como Instructores, podrán intervenir, junto con los Veedores Voluntarios en la evaluación de los exámenes.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.25 | Defina “CÓDIGO MORSE”:
+
+A) Comunicados entre estaciones que, por la distancia que las separa, inaccesibilidad geográfica, u otro factor de dificultad, no resulte frecuente la comunicación. Se realizan en los segmentos de bandas en que los contactos DX tienen prioridad y se limitan exclusivamente a intercambios de comunicación mínima e indispensable, con el objeto de facilitar la mayor cantidad de contactos posibles.
+B) Sistema de escritura, estandarizado conforme a la Recomendación UIT-R M.1677-1 o sucesivas, que representa las letras del alfabeto, números y otros signos mediante una combinación de sonidos cortos (“puntos”), sonidos largos (“rayas”) y silencios (“espacios”).
+C) Condición de operación en que la estación transmite con una potencia máxima de 5 W (CINCO WATTS) (CW) o de 10 W (DIEZ WATTS) (SSB).
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.26 | Defina “ESTACIÓN DEL SERVICIO DE RADIOAFICIONADO”:
+
+A) Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados. La misma podrá ser “Fija”, instalada en un domicilio, o cuando no tenga capacidad de trasladarse mientras se encuentra en operación; “Móvil”, instalada y con capacidad de operación en un vehículo terrestre, marítimo o aéreo; "Móvil de mano", cuando sea transportable manualmente, con fuente de alimentación autónoma y antena incorporada, con capacidad de operación.
+B) Estación fija, destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados y abierta al tráfico general de los mismos, caracterizada por la señal distintiva del titular de la estación, posición geográfica, sub-tono y frecuencia asignada.
+C) Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados por Satélite. La misma podrá ser “Terrena”, situada en la superficie de la Tierra, con sus variantes “Fija” y “Móvil”, o “Espacial”, situada a bordo de satélites artificiales cuyo cuerpo de referencia es la Tierra.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.27 | Defina “RADIOBALIZA (RADIOFARO)”:
+
+A) Estación capaz de recibir y retransmitir información digital por paquetes (Packet - Radio), en tiempo real, en la misma frecuencia, con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+B) Estación transmisora del Servicio de Radioaficionados, utilizada para determinar las condiciones de propagación y/o ajuste de antenas, etc., que emite a intervalos regulares y en una única frecuencia fija, su señal distintiva y datos referidos, entre otros, a su potencia, antena y altura.
+C) Estación fija, destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados y abierta al tráfico general de los mismos, caracterizada por la señal distintiva del titular de la estación, posición geográfica, sub-tono y frecuencia asignada.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.28 | Defina	“ESTACIÓN	DEL	SERVICIO	DE	RADIOAFICIONADO	POR SATÉLITE”:
+
+A) Estación fija, destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados y abierta al tráfico general de los mismos, caracterizada por la señal distintiva del titular de la estación, posición geográfica, sub-tono y frecuencia asignada.
+B) Estación capaz de recibir y retransmitir información digital por paquetes (Packet - Radio), en tiempo real, en la misma frecuencia, con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+C) Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados por Satélite. La misma podrá ser “Terrena”, situada en la superficie de la Tierra, con sus variantes “Fija” y “Móvil”, o “Espacial”, situada a bordo de satélites artificiales cuyo cuerpo de referencia es la Tierra.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.29 | Defina “PROYECTO INTERNACIONAL DE BALIZAS (IBP)”:
+
+A) Autorización extendida por la Autoridad de Aplicación de acuerdo con lo previsto en la Ley 24.730 y la Resolución 3745 SC/1997.
+B) Red mundial de radiofaros en alta frecuencia (HF) organizado por IARU, compartiendo en la misma única frecuencia por banda entre las transmisoras (en 20, 17, 15, 12 y 10 metros).
+C) Método de comunicación empleado por los Radioaficionados, en el que se utiliza la superficie lunar como elemento reflector de ondas de radio.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.30 | Defina “DESASTRE”:
+
+A) Interacción entre una amenaza y una población vulnerable que, por su magnitud, crea una interrupción en el funcionamiento de una sociedad y/o sistema a partir de una desproporción entre los medios necesarios para superarla y aquellos medios a disposición de la comunidad afectada conforme a Ley Nº 27.287, Artículo 2º.
+B) Situación, daño provocado por un evento adverso de origen natural o provocado por los seres humanos que, por su magnitud, puede ser atendida por los medios disponibles localmente, conforme a Ley Nº 27.287, Artículo 2º.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.31 | Defina “EMERGENCIA”:
+
+A) Interacción entre una amenaza y una población vulnerable que, por su magnitud, crea una interrupción en el funcionamiento de una sociedad y/o sistema a partir de una desproporción entre los medios necesarios para superarla y aquellos medios a disposición de la comunidad afectada conforme a Ley Nº 27.287, Artículo 2º.
+B) Situación, daño provocado por un evento adverso de origen natural o provocado por los seres humanos que, por su magnitud, puede ser atendida por los medios disponibles localmente, conforme a Ley Nº 27.287, Artículo 2º.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.32 | Defina “CONCURSO”:
+
+A) Evento nacional y/o internacional en donde se ponen a prueba las habilidades de los Radioaficionados. Sus bases y condiciones son informadas mediante los boletines y revistas de los Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas.
+B) Comunicados entre estaciones que, por la distancia que las separa, inaccesibilidad geográfica, u otro factor de dificultad, no resulte frecuente la comunicación. Se realizan en los segmentos de bandas en que los contactos DX tienen prioridad y se limitan exclusivamente a intercambios de comunicación mínima e indispensable, con el objeto de facilitar la mayor cantidad de contactos posibles.
+C) Sistema de escritura, estandarizado conforme a la Recomendación UIT-R M.1677-1 o sucesivas, que representa las letras del alfabeto, números y otros signos mediante una combinación de sonidos cortos (“puntos”), sonidos largos (“rayas”) y silencios (“espacios”).
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.33 | Defina “ÉTICA OPERATIVA”:
+
+A) Es el conjunto de deberes, obligaciones, conductas y principios establecidos en el Reglamento y en las disposiciones, recomendaciones y procedimientos fijados por la Unión Internacional de Radioaficionados (IARU), que rigen el normal desenvolvimiento de la actividad de los Radioaficionados.
+B) Es el conjunto de símbolos, alfabetos y códigos establecidos en el Reglamento y en las disposiciones, recomendaciones y procedimientos fijados por la Unión Internacional de Radioaficionados (IARU), que rigen el normal desenvolvimiento de la actividad de los Radioaficionados.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.34 | Defina “VEEDOR”:
+
+A) Radioaficionado nombrado por el Radio Club, Institución Autorizada o Institución Reconocida, que por su capacidad, experiencia y estudio acredita la competencia necesaria para el dictado de cursos y/o coordinación de Prácticas Operativas, y que estará presente durante la toma y evaluación de los exámenes, según corresponda.
+B) Radioaficionado de categoría GENERAL o SUPERIOR, designado por un Radio Club o Institución Autorizada, para estar presente en la sesión de exámenes, firmar las actas y certificados correspondientes e informar anormalidades si las hubiere.
+C) Responsable de evaluar a los aspirantes al ingreso y ascenso de categorías de conformidad con los procedimientos y condiciones establecidas en el presente Reglamento.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.35 | La licencia habilita a su titular a instalar y/u operar estaciones de:
+
+A) Servicio de Radioaficionados.
+B) Servicio de Radioaficionados por Satélite.
+C) Servicio de Radioaficionados y Radioaficionados por Satélite.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.36 | Las estaciones del Servicio de Radioaficionados y de Radioaficionados por Satélite que operen actualmente y las que se autoricen e instalen en el futuro, dentro o fuera de las zonas de protección de las actuales o futuras Estaciones de Comprobación Técnica de Emisiones, estarán sujetas a lo dispuesto por:
+
+A) Resolución SC 329/2000 o aquellas que la reemplacen o modifiquen.
+B) LEY N° 27078.
+C) Resolución SC 50/1998 o aquellas que la reemplacen o modifiquen.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.37 | En qué circunstancias las estaciones las estaciones del Servicio de Radioaficionados y de Radioaficionados por Satélite estarán autorizadas a conectar inductiva o acústicamente, o por cualquier otro medio disponible, sus equipos radioeléctricos a las líneas telefónicas.
+
+A) Exclusivamente ante emergencias.
+B) En situaciones de interés comunitario.
+C) En eventos propios de la actividad.
+D) En ninguna circunstancia.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.38 | ¿Cuál es la vigencia de la licencia de radioaficionados?
+
+A) 1 año.
+B) 5 años.
+C) 10 años.
+D) Depende de la categoría.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.39 | ¿Por qué período de tiempo se puede renovar la licencia de radioaficionados y en qué condiciones?
+
+A) 5 años, con renovación automática.
+B) Indefinido.
+C) 5 años, al realizar el trámite de renovación, rehabilitación o exámen de ascenso de categoría.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.40 | ¿Cuál es la vigencia de la autorización de una Estación Repetidora?
+
+A) 1 año.
+B) 5 años.
+C) 5 años o hasta la cancelación o caducidad de la licencia del titular.
+D) Depende de la categoría.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.41 | ¿Con qué intervalo de tiempo un Radioaficionado debe transmitir su señal distintiva?
+
+A) 5 minutos.
+B) 10 minutos.
+C) 30 minutos.
+D) Cuando lo desee.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.42 | ¿En qué frecuencias y bajo qué condiciones se permite el funcionamiento de redes de Emergencia y/o Desastre?
+
+A) En todas las bandas, en aquellos casos y en los plazos que determine la Autoridad competente en materia de protección pública, defensa civil y operaciones de socorro.
+B) En las frecuencias designadas a tal fin, en aquellos casos y en los plazos que determine la Autoridad competente en materia de protección pública, defensa civil y operaciones de socorro
+C) En las frecuencias designadas a tal fin, cuando el Radioaficionado lo considere necesario.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.43 | ¿Cuál es el plazo en que un radioaficionado deberá desinstalar en su totalidad las estaciones radioeléctricas y/o Repetidoras que pudiera poseer instaladas, una vez producida la caducidad de su licencia?
+
+A) 30 días.
+B) 60 días.
+C) 90 días.
+D) 1 año.
+E) Sin plazo, ante requerimiento de la Autoridad de Aplicación.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.44 | ¿Cuál es el plazo en que un radioaficionado deberá desinstalar en su totalidad las estaciones radioeléctricas y/o Repetidoras que pudiera poseer instaladas, ante la cancelación de su licencia?
+
+A) 10 días.
+B) 30 días.
+C) 90 días.
+D) 1 año.
+E) Sin plazo, ante requerimiento de la Autoridad de Aplicación.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.45 | ¿De acuerdo al documento “Ética y Procedimientos Operativos para el Radioaficionado” de IARU, cuáles son los principios básicos que rigen el Código de Conducta del Radioaficionado?
+
+A) Sentido social y espíritu fraternal.
+B) Lealtad.
+C) Comprensión.
+D) No discriminación.
+E) Buenos modales.
+F) Objetividad.
+G) Tolerancia.
+
+CORRECTA: A,C,E,G
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.46 | ¿Cuál es la organización de Radioaficionados que representa sus intereses ante los foros internacionales?
+
+A) American Radio Relay League (A.R.R.L.).
+B) International Telecommunicationsc Union (I.T.U.).
+C) International Amateur Radio Union (I.A.R.U.).
+D) Comisión Interamericana de Telecomunicaciones (C.I.T.E.L.).
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: I.47 | ¿Qué orden de observancia tiene la siguiente reglamentación para los Radioaficionados de la República Argentina?
+
+A) Reglamento General de Radioaficionados - Disposiciones, recomendaciones y procedimientos de la Unión Internacional de Radioaficionados (IARU). Reglamentación UIT.
+B) Disposiciones, recomendaciones y procedimientos de la Unión Internacional de Radioaficionados (IARU). Reglamento General de Radioaficionados, y Reglamentación UIT.
+C) Reglamentación UIT, Disposiciones, recomendaciones y procedimientos de la Unión Internacional de Radioaficionados (IARU).y Reglamento General de Radioaficionados.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación vigente (Resolución ENACOM 3635/17), esta norma busca asegurar el uso correcto, ético y ordenado del espectro radioeléctrico por parte de los aficionados en Argentina.
+---
+
+PREGUNTA: II.1 | Son facultades de la Autoridad de Aplicación:
+
+A) Limitar, denegar, suspender o cancelar la licencia de Radioaficionado.
+B) Asignar o modificar las señales distintivas.
+C) Tomar exámenes de ingreso y ascenso de categorías.
+D) Dictar cursos y fomentar la actividad a través de Prácticas Operativas.
+
+CORRECTA: A,B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.1 | ¿Qué categoría se le otorga a los Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas?
+
+A) Novicio
+B) General
+C) Superior
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.2 | ¿Cómo debe identificarse el Radioaficionado cuando opere en forma personal la estación del Radio Club?
+
+A) Señal distintiva del Radio Club y señal distintiva propia.
+B) Señal distintiva propia y señal distintiva del Radio Club.
+C) Señal distintiva propia.
+D) Señal distintiva del Radio Club.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III. 3 | Cuando el Radioaficionado opere en forma personal la estación del Radio Club, ¿en qué bandas puede operar?
+
+A) En las bandas autorizadas a su categoría.
+B) En las bandas correspondientes a la categoría Superior.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.4 | En condiciones de Práctica Operativa por parte de aspirantes a obtener licencia, ¿cómo se deben identificar?
+
+A) Con señal distintiva del Radio Club, aclarando “en Práctica Operativa”.
+B) Con señal distintiva del Instructor.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.5 | ¿Quiénes podrán otorgar Certificados de Radioescuchas?
+
+A) Radio Clubes.
+B) Instituciones Autorizadas.
+C) Instituciones Reconocidas.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.6 | ¿El Radioaficionado puede realizar trámites en forma personal ante la Autoridad de Aplicación?
+
+A) Sí.
+B) No.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.7 | ¿El Radio Club podrá poseer filiales?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.8 | ¿Bajo qué condiciones la Autoridad de Aplicación podrá autorizar filiales a un Radio Club?
+
+A) En localidades dentro de la misma provincia en las que no hubiera Radio Club.
+B) En localidades de otra provincia en las que no hubiera Radio Club.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.9 | ¿Qué categoría debe tener el Radioaficionado a cargo de la filial?
+
+A) Novicio
+B) General
+C) Superior
+
+CORRECTA: B,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.10 | ¿El Radioaficionado a cargo de la filial debe estar habilitado en el Libro de Actas del Radio Club?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.11 | ¿Cómo debe operarse la estación en una filial de un Radio Club?
+
+A) Señal distintiva del Radio Club, agregando una barra, la palabra “filial” y el nombre de la localidad.
+B) Señal distintiva del Radioaficionado, agregando una barra, la palabra “filial” y el nombre de la localidad.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.12 | ¿Podrán las filiales de los Radio Clubes efectuar algún tipo de trámite ante la Autoridad de Aplicación?
+
+A) Sí.
+B) No.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.13 | ¿Las Instituciones Autorizadas están habilitadas por la Autoridad de Aplicación para dictar cursos sobre técnica, reglamentación y ética operativa, telegrafía y todo otro curso afín a la actividad, como así también tomar exámenes para ingreso y ascenso de categorías de Radioaficionados.?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.14 | ¿Las Instituciones Reconocidas están autorizadas por la Autoridad de Aplicación para dictar cursos sobre técnica, reglamentación y ética operativa, telegrafía y todo otro curso afín a la actividad?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.15 | ¿Las Instituciones Reconocidas están autorizadas por la Autoridad de Aplicación para tomar exámenes para ingreso y ascenso de categorías de Radioaficionados?
+
+A) Sí.
+B) No.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: III.16 | ¿Las Instituciones Autorizadas pueden gestionar ante la Autoridad de Aplicación la documentación para ingreso y ascenso de categorías de Radioaficionados?
+
+C) Sí.
+D) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IV.1 | Identifique	las	categorías	de	radioaficionados	de	acuerdo	a	la	nueva reglamentación:
+
+A) Inicial
+B) Novicio
+C) Intermedia
+D) General
+E) Superior
+F) Especial
+
+CORRECTA: B,D,E,F
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IV.2 | ¿Quién tramita ante el ENACOM?
+
+A) Radio Clubes
+B) Radioaficionados
+C) Instituciones Reconocidas
+D) Instituciones Autorizadas
+
+CORRECTA: A,D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IV.3 | ¿Cuál es la edad mínima para la categoría Novicio?
+
+A) 12 años
+B) 9 años
+C) 18 años
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IV.4 | ¿Cuál es la edad mínima para la categoría General?
+
+A) 13 años
+B) 16 años
+C) 18 años
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IV.5 | ¿Cuál es la potencia de RF máxima permitida para la categoría Novicio?
+
+A) 50 vatios.
+B) 100 vatios.
+C) 150 vatios.
+D) 200 vatios.
+
+CORRECTA: D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IV.6 | Cuántos años de actividad en forma ininterrumpida en categoría NOVICIO hay que acreditar para ascender a categoría GENERAL?
+
+A) 2 años.
+B) 1 año.
+C) 5 años.
+D) 3 años.
+
+CORRECTA: D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IV.7 | ¿Cada cuántos años debe renovarse la licencia de Radioaficionado?
+
+A) 2 años.
+B) 4 años.
+C) 5 años.
+D) 10 años.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IV.8 | ¿Cuáles son los requerimientos para obtener la categoría ESPECIAL?
+
+E) Categoría Superior con 60 años de actividad ininterrumpida.
+F) Categoría Superior con 20 años de actividad ininterrumpida
+G) Categoría Superior con 50 años de actividad ininterrumpida.
+H) Categoría Superior con 50 años de antigüedad.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IV.9 | Transcurridos 5 (CINCO) años a partir de la fecha del otorgamiento de la licencia, renovación, rehabilitación o ascenso de categoría, de qué plazo dispondrá el Radioaficionado para solicitar la renovación de la licencia por un nuevo período de 5 (CINCO) años.
+
+A) 3 meses
+B) 12 meses
+C) 6 meses
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: V.1 | Defina RADIOESCUCHA:
+
+A) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente personal y sin fines de lucro, y que realiza actividades de instrucción, de intercomunicación y estudios técnicos. En el presente Reglamento, se asimila el término “Radioaficionado” al que internacionalmente se conoce como “Aficionado”, conforme al Reglamento de Radiocomunicaciones (RR) (Edición de 2016) de la Unión Internacional de Telecomunicaciones (UIT).
+B) Persona física autorizada exclusivamente a la recepción de emisiones en las bandas de frecuencia atribuidas a los Servicios de Radioaficionados y de Radioaficionados por Satélite. Para acceder a dicha autorización no es necesario contar con una Licencia de Radioaficionado.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: V.2 | En el momento en que un Radioescucha tramita y obtiene su licencia de radioaficionado, ¿qué ocurre con su Certificado de Radioescucha?
+
+A) Continúa teniendo vigencia.
+B) Automáticamente queda dado de baja.
+C) Le será requerido para el ascenso de categoría.
+D) Ninguna es correcta.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VI.1 | Los Radioaficionados extranjeros “en tránsito” o con “residencia temporaria” en la República Argentina, ¿ante quién deben gestionar la autorización para operar desde nuestro país?
+
+A) Ante los RADIO CLUBES.
+B) Directamente ante la Autoridad de Aplicación.
+C) La Sociedad Nacional miembro de I.A.R.U.
+D) El Comité Federal de Radiodifusión.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VI.2 | ¿Qué radioaficionado extranjero se encuentra exceptuado de gestionar la autorización para operar en el territorio nacional?
+
+A) Los que pertenecen a algún país signatario del IARP.
+B) Cualquier radioaficionado extranjero.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VII.1 | ¿Qué es el Permiso Internacional de Aficionado (I.A.R.P.)?
+
+A) Un documento que permite a su tenedor operar sin restricciones en todos los países del mundo.
+B) Un documento que faculta a su tenedor operar en los países de América signatarios del Convenio Interamericano sobre el IARP.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VII.2 | ¿En cuántas Clases se emite el I.A.R.P. de acuerdo a la Resolución SC 3745/1997?
+
+A) Una Clase.
+B) Dos Clases.
+C) Tres Clases.
+D) Cuatro Clases.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VII.3 | ¿Qué categoría de Radioaficionado se debe tener para poder obtener el IARP de acuerdo a la Resolución SC 3745/1997?
+
+A) Sólo Superior.
+B) General y Superior.
+C) Intermedia, General y Superior.
+D) No hay restricciones.
+
+CORRECTA: D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VII.4 | El IARP de Clase 1 faculta a operar:
+
+A) Sólo en bandas por sobre 30 MHz.
+B) Sólo en bandas de 10, 15 y 20 metros.
+C) En todas las bandas.
+D) Sólo en bandas por debajo de 30 MHz.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VII.5 | El IARP de Clase 2 faculta a operar:
+
+A) En todas las bandas.
+B) Sólo en bandas por sobre 30 MHz.
+C) En todas las bandas.
+D) En bandas de 80, 40 y 20 metros.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.1 | ¿En la señal distintiva a qué corresponde el prefijo?
+
+A) Al país.
+B) A la provincia.
+C) A la categoría del radioaficionado.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.2 | ¿Cuál es el prefijo correspondiente a la República Argentina?
+
+A) LU/LW.
+B) CX.
+C) PY.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.3 | La/s primera/s letras del sufijo de la señal distintiva corresponden a:
+
+A) País.
+B) Provincia.
+C) Categoría.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.4 | ¿Cuál es el criterio de asignación por parte de la Autoridad de Aplicación del sufijo de la señal distintiva en caso de poseer sólo estaciones móviles?
+
+A) Domicilio de emplazamiento de la estación fija.
+B) Domicilio indicado en el DNI del Radioaficionado.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.5 | ¿Cuál es el criterio de asignación por parte de la Autoridad de Aplicación del sufijo de la señal distintiva en caso de poseer estación fija y móviles?
+
+A) Domicilio de emplazamiento de la estación fija.
+B) Domicilio del DNI del Radioaficionado.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.6 | ¿A qué categoría se le puede asignar una señal distintiva con un sufijo de 2 letras?
+
+A) Categoría General.
+B) Categoría Superior y Especial.
+C) Cualquier categoría.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.7 | ¿En qué otro caso a lo planteado en la pregunta VIII.6 se puede asignar una señal distintiva con un sufijo de 2 letras?
+
+A) Por fallecimiento del titular, a un familiar que la reclame.
+B) Por pedido del titular hacia un tercero.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.8 | ¿Por cuánto tiempo queda reservada la señal distintiva por fallecimiento del titular?
+
+A) 2 años.
+B) 1 año.
+C) 5 años.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.9 | ¿Por cuánto tiempo se otorga la Señal Distintiva Especial?
+
+A) 2 años.
+B) 1 año.
+C) 5 años.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.10 | ¿Quiénes podrán solicitar Señales Distintivas Especiales?
+
+A) Radioaficionados categoría General o Superior.
+B) Radio Clubes, Instituciones Autorizadas, Instituciones Reconocidas.
+C) Radioaficionados categoría Novicio.
+
+CORRECTA: A,B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.11 | ¿En ocasión de eventos que requieran de Señal Distintiva Especial, puede un radioaficionado de cualquier categoría que forme parte de un equipo de operación, operar en todas las bandas autorizadas al titular del equipo?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.12 | ¿Cuáles son las condiciones que deberá acreditar el Radioaficionado para solicitar una Señal Distintiva Especial?
+
+A) Haber participado en tres concursos distintos con su señal distintiva propia.
+B) Haber realizado en cada uno de ellos un mínimo de 500 contactos.
+C) Haber sido titular de equipo de operación .
+
+CORRECTA: A,B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: VIII.13 | ¿Se pueden tener dos o más Señales Distintivas Especiales vigentes al mismo tiempo?
+
+A) Sí.
+B) No.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX.1 | ¿En qué casos los titulares de licencia de Radioaficionado están autorizados a instalar y operar estaciones móviles?
+
+A) Sólo en caso de emergencias.
+B) Sólo en período de vacaciones.
+C) Cuando posea licencia de conductor.
+D) No hay restricciones.
+
+CORRECTA: D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX.2 | ¿Quién puede operar una estación radioeléctrica correspondiente al Servicio de Radioaficionado y al Servicio de Radioaficionado por Satélite?
+
+A) Su titular u otro Radioaficionado que él mismo autorice.
+B) Cualquier Radioaficionado.
+C) Ningún Radioaficionado distinto a su titular.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX.3 | Cuando un Radioaficionado opera una estación radioeléctrica de la cual no es titular, ¿cómo se debe identificar?
+
+A) Haciendo mención de la señal distinta del titular y de la propia, en ese orden, seguido de una barra y la letra correspondiente a la división política.
+B) Haciendo mención de la señal distinta propia y la del titular, en ese orden, seguido de una barra y la letra correspondiente a la división política.
+C) Haciendo mención de la señal distinta propia.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX.4 | Cuando un Radioaficionado opera una estación radioeléctrica de la cual no es titular, ¿en qué bandas lo hace?
+
+A) En las permitidas según la categoría del Titular.
+B) En las permitidas según la categoría del Operador.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX.5 | ¿Quiénes podrán operar simultáneamente múltiples estaciones de su titularidad durante el dictado de cursos, Práctica Operativa, toma de exámenes, contactos DX o concursos, según corresponda a sus competencias?
+
+A) Radioaficionados.
+B) Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX.6 | En caso que el Radioaficionado posea más de una estación fija, ¿es necesario declararlas a todas?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX.7 | ¿En caso de trasladar una estación fija por un período mayor a 120 días corridos, se deberá solicitar el cambio de domicilio de emplazamiento?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX. 8 | Con relación a la altura de la estructura soporte de antenas que pretende instalar el Radioaficionado, ¿ante qué Organismo debe realizar el trámite pertinente de autorización?
+
+A) ENACOM.
+B) ANAC.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX. 9 | ¿Cómo se debe operar una estación móvil?
+
+A) Se deberá mencionar su señal distintiva, su ubicación geográfica y su condición de móvil.
+B) Se deberá mencionar su señal distintiva, su ubicación geográfica.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX.10 | ¿Qué categoría debe poseer el titular de la licencia de Radioaficionado que deseara diseñar, construir, lanzar y/o constituirse como responsable primario de una estación espacial del Servicio de Radioaficionados por Satélite?
+
+A) GENERAL o SUPERIOR.
+B) ESPECIAL.
+C) NOVICIO.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: IX.11 | En caso de poseer Estaciones Terrenas pertenecientes al Servicio de Radioaficionados por Satélite, ¿es necesario registrarlas ante la Autoridad de Aplicación?
+
+A) Sí.
+B) No.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.1 | ¿La Estación Repetidora tiene que estar autorizada ante la Autoridad de Aplicación?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.2 | ¿Se podrá solicitar autorización para una Estación Repetidora para que opere en bandas cruzadas VHF/UHF?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.3 | ¿En qué circunstancias la Autoridad de Aplicación podrá otorgar la autorización para el uso de una Estación Repetidora en bandas cruzadas VHF/UHF?
+
+A) En determinadas zonas geográficas.
+B) Cuando no haya disponibilidad espectral.
+C) Cuando el solicitante sea un Radioaficionado de categoría Superior.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.4 | ¿Cuál es el plazo máximo para poner en funcionamiento una Estación Repetidora ya autorizada por la Autoridad de Aplicación?
+
+A) 72 horas.
+B) 30 días.
+C) 60 días.
+D) 90 días.
+
+CORRECTA: D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.5 | En el caso en que una Estación Repetidora autorizada se encuentra totalmente fuera de servicio, ¿cuál es el plazo máximo en que puede permanecer inactiva, antes que se produzca su caducidad automática?
+
+A) 72 horas.
+B) 30 días.
+C) 60 días.
+D) 90 días.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X. 6 | ¿Puede haber en nuestro país Estaciones Repetidoras del Servicio de Radioaficionados con acceso codificado mediante subtonos?
+
+A) No, porque la Reglamentación lo prohibe.
+B) No, porque los equipos para Radioaficionados no disponen de subtonos.
+C) Sí, siempre que el código sea aprobado previamente por la Autoridad de Aplicación y sea de conocimiento público.
+D) Sí, si el código es únicamente de conocimiento previo de la Autoridad de Aplicación.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.7 | ¿Cómo se identifican las Estaciones Repetidoras?
+
+A) Con la señal distintiva del titular y la localidad del emplazamiento de la Estación Repetidora.
+B) Con la señal distintiva del titular.
+C) Con la señal distintiva del titular, la localidad de emplazamiento de la estación fija y la localidad del emplazamiento de la Estación Repetidora.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.8 | ¿De cuánto tiempo dispone el titular de la Estación repetidora para comunicar a la Autoridad de Aplicación el inicio de su operación?
+
+A) 15 días corridos.
+B) 30 días corridos.
+C) 60 días corridos.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.9 | ¿Ante qué casos caducará la autorización de una Estación Repetidora?
+
+A) No haber informado dentro de los 15 días corridos, el inicio de su operación.
+B) Inactividad comprobada en un período mayor a los 60 días corridos
+C) No haber renovado la licencia del titular o la autorización de la Estación Repetidora en el período estipulado en el Reglamento vigente.
+D) Cuando el titular reciba un apercibimiento por parte de la Autoridad de Aplicación por infracción en el uso de la Estación Repetidora.
+
+CORRECTA: A,B,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.10 | ¿Para dar de baja una Estación Repetidora de cuánto tiempo se dispone desde el cese de las emisiones?
+
+A) 15 días corridos.
+B) 30 días corridos.
+C) 60 días corridos.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X. 11 | ¿Cuando se solicita la baja de una Estación Repetidora, se deben desmantelar las instalaciones radioeléctricas?
+
+A) Siempre.
+B) Sólo cuando la Autoridad de Aplicación lo requiera.
+C) Nunca.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.12 | ¿Qué se requiere para la autorización de un enlace de 2 o más Estaciones Repetidoras por parte de la Autoridad de Aplicación?
+
+A) La conformidad por escrito de los titulares de las Estaciones Repetidoras.
+B) Sólo el estudio técnico del cálculo de enlace.
+C) El estudio técnico del cálculo de enlace y la conformidad por escrito de los titulares de las Estaciones Repetidoras.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.13 | ¿Es obligatorio contar con un sistema de apagado de la Estación Repetidora?
+
+A) Sí
+B) No
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.14 | En caso de optarse por control remoto de la Estación Repetidora mediante vínculo radioeléctrico, ¿éste deberá contar con la autorización de la Autoridad de Aplicación?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: X.15 | ¿La frecuencia de transmisión para el control remoto de una Estación Repetidora mediante vínculo radioeléctrico, podrá encontrarse dentro de una banda de radioaficionados?
+
+A) Sí
+B) No
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XI.1 | ¿Qué  categoría se requiere para instalar y poner en funcionamiento una Radiobaliza (Radiofaro)?
+
+A) Novicio.
+B) General.
+C) Superior.
+D) No se requiere una categoría determinada.
+
+CORRECTA: D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XI.2 | ¿Cuántas señales de Radiobalizas pueden emitirse desde el mismo lugar de emplazamiento?
+
+A) Sólo una.
+B) Dos.
+C) Tres.
+D) No hay limitaciones.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XI.3 | ¿Con cuántos días de anticipación a la instalación el Radioaficionado deberá notificar a la Autoridad de Aplicación la puesta en funcionamiento de la Radiobaliza, en forma fehaciente, la frecuencia de operación, el domicilio de emplazamiento y potencia de transmisión?
+
+A) 10 días.
+B) 15 días
+C) 30 días.
+D) No se necesita notificar.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.1 | ¿Quiénes podrán dictar cursos y/o tomar examen para ingreso y ascenso de categoría?
+
+A) Radio Clubes.
+B) Instituciones Autorizadas.
+C) Instituciones Reconocidas.
+
+CORRECTA: A,B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.2 | ¿Se podrá rendir examen en condición de libre, sin realizar cursos en Radio Clubes e Instituciones Autorizadas?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.3 | ¿Cómo deberán tomarse los exámenes para ingreso o ascenso de categoría?
+
+A) En forma escrita únicamente.
+B) En forma oral únicamente.
+C) En forma escrita, y para aspirantes no videntes o imposibilitados para escribir, en forma oral.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.4 | ¿Quiénes están autorizados a dar prácticas operativas?
+
+A) Radio Clubes.
+B) Instituciones Autorizadas.
+C) Instituciones Reconocidas.
+
+CORRECTA: A,B,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.5 | ¿Quién supervisa las prácticas operativas?
+
+A) Veedor.
+B) Instructor.
+C) Autoridades del Radio Club, Institución Autorizada y/o Instituciones Reconocidas.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.6 | El Instructor designado por el Radio Club, Institución Autorizada o Institución Reconocida, ¿debe estar registrado en el Libro de Actas y debe dar fe por medio de un certificado que el aspirante cumplió con los requisitos solicitados durante la práctica operativa?
+
+A) Sí
+B) No
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.7 | ¿Las prácticas operativas destinadas a recepción deben cumplirse por cuántas horas?
+
+A) 6 hs.
+B) 12 hs.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.8 | ¿Las prácticas operativas deben asentarse en el Libro de Guardia?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.9 | ¿En caso de mediar distancias excesivas o dificultades geográficas para acceder a un Radio Club, Institución Autorizada o Institución Reconocida, las prácticas operativas podrán realizarse en las filiales de los Radio Clubes o en el domicilio de un Instructor?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.10 | ¿Con qué señal distintiva operará el Instructor a distancia?
+
+A) Señal distintiva del Radio Club
+B) Señal distintiva propia del Instructor
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.11 | ¿La autorización del Radio Club, Institución Autorizada o Institución Reconocida al Instructor a distancia deberá estar plasmada en el Libro de Actas (con validez expresamente detallada)?
+
+A) Sí.
+B) No.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.12 | ¿Cuáles son las funciones de Instructor?
+
+A) Dictar cursos.
+B) Tomar exámenes.
+C) Coordinar las prácticas operativas.
+D) Organizar concursos.
+E) Firmar los Certificados de Aprobación de Examen.
+
+CORRECTA: A,B,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.13 | ¿Qué categoría mínima debe tener el Instructor?
+
+A) Novicio.
+B) General.
+C) Superior.
+D) Especial.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.14 | ¿Puede un Radioaficionado que ha sido sancionado alguna vez por la Autoridad de Aplicación ser instructor?
+
+A) Sí.
+B) No.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.15 | ¿Puede un instructor tomar examen a familiares directos?
+
+A) Sí.
+B) No.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.16 | Ante un requerimiento de una Institución Autorizada a un Radio Club para formar parte de la mesa examinadora, el Radio Club debe designar a un radioaficionado de categoría mínima:
+
+A) General
+B) Superior
+C) Especial
+
+CORRECTA: A,B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.17 | ¿Cuántos meses de validez tiene el Certificado de Aprobación de examen firmado por las autoridades del Radio Club o Institución Autorizada para ser presentado ante la Autoridad de Aplicación?
+
+A) 3 meses.
+B) 6 meses.
+C) 12 meses.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.18 | ¿Toda certificación de aprobación de examen autoriza a un aspirante a instalar y poner en funcionamiento equipos radioeléctricos, hasta tanto la Autoridad de Aplicación otorgue la licencia correspondiente?
+
+A) Sí.
+B) No.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.19 | Para la categoría Novicio, el examen de telegrafía será:
+
+A) Teórico.
+B) Práctico.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.20 | ¿En el examen de Telegrafía, ¿cuántos caracteres se consideran una palabra?
+
+A) 5.
+B) 10.
+C) Más de 10.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.21 | En el examen de Telegrafía, ¿cuántos caracteres se consideran una letra de la A a la Z?
+
+A) 1.
+B) 2.
+C) Más de 2.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.22 | En el examen de Telegrafía, ¿cuántos caracteres se consideran un número y signo de puntuación?
+
+A) 1.
+B) 2.
+C) Más de 2.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.23 | En el Libro de Guardia se deberá consignar:
+
+A) Fecha, hora de comienzo y finalización del comunicado.
+B) Clase de emisión empleada.
+C) Potencia transmitida.
+D) Señal distintiva de la estación corresponsal.
+
+CORRECTA: A,B,D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.24 | ¿Cuál es la función de un veedor?
+
+A) Participar en la confección del examen.
+B) Firmar el acta de examen.
+C) Firmar el certificado de aprobación de examen.
+D) Atender consultas de los examinados durante el examen.
+
+CORRECTA: B,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.25 | ¿Cuáles son los requisitos y obligaciones de un veedor?
+
+A) Ser Radioaficionado argentino o residente con cualquier categoría.
+B) No haber sido sancionado por la Autoridad de Aplicación.
+C) Ser designado por el Radio Club o Institución Autorizada.
+D) Abstenerse de participar en la toma de exámenes a familiares directos de primer grado.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XII.25 | ¿El veedor deberá pertenecer al mismo Radio Club o Institución Autorizada que toma el examen?
+
+A) Sí.
+B) No.
+C) Indistinto.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XIII.1 | Se consideran infracciones de carácter general:
+
+A) Operar la estación sin licencia vigente.
+B) Ceder el micrófono a otro Radioaficionado.
+C) Comunicar con estaciones no autorizadas.
+D) Grabar emisiones de terceros y retransmitirlas.
+E) Referirse a temas de índole política, religiosa o racial.
+F) Transmitir música.
+
+CORRECTA: A,C,E,F
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XIII.2 | Se consideran infracciones de identificación:
+
+A) Identificarse con una señal distintiva perteneciente a otro Radioaficionado.
+B) Omitir mencionar junto con la señal distintiva de la estación móvil, el lugar geográfico de su actual ubicación.
+C) Mencionar la señal distintiva del Radioaficionado titular y la propia cuando se utilice su estación.
+D) Utilizar una Señal Distintiva Especial vencida o no autorizada por la Autoridad de Aplicación.
+E) Mencionar la señal distintiva del Radio Club y la propia cuando se utilice la estación de dicho Radio Club.
+F) Omitir mencionar que se está operando en “Practica Operativa” cuando corresponda.
+
+CORRECTA: A,B,D,F
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XIII.3 | Se consideran infracciones operativas:
+
+A) Transmitir en frecuencia y/o potencia no autorizada para la categoría.
+B) Transmitir textos encriptados.
+C) Realizar o participar en concursos de Radioaficionados sobre frecuencias no autorizadas al efecto.
+D) Trasladar la estación fija por 90 días sin notificar a la Autoridad de Aplicación.
+
+CORRECTA: A,B,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XIII.4 | Se consideran infracciones relativas a Estaciones Repetidoras:
+
+A) No contar con dispositivos de identificación.
+B) Utilizar frecuencias diferentes a las autorizadas.
+C) Entrelazar Estaciones Repetidoras sin la autorización correspondiente.
+D) Ceder la autorización de una estación repetidora a otro Radioaficionado.
+
+CORRECTA: A,B,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XIII.5 | Se consideran infracciones relativas a Radiobalizas:
+
+A) Operar una Radiobaliza no notificada a la Autoridad de Aplicación.
+B) Emitir simultáneamente más de una Radiobaliza en la misma banda y desde el mismo emplazamiento.
+C) Operar con potencias superiores a las autorizadas en el Reglamento.
+D) Operar con una potencia de 50 W en la banda de 2 m.
+
+CORRECTA: A,B,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XIII.5 | Se consideran infracciones relativas a Radiobalizas:
+
+A) Operar una radiobaliza no notificada a la Autoridad de Aplicación.
+B) Emitir simultáneamente más de una radiobaliza en la misma banda y desde el mismo emplazamiento.
+C) Operar con potencias superiores a las autorizadas en el Reglamento.
+D) Operar con una potencia de 50 W en la banda de 2 m.
+
+CORRECTA: A,B,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: XIII.6 | El orden de las sanciones al cometer y reiterar infracciones es:
+
+A) Llamado de atención – Apercibimiento – Sanción económica – Suspensión – Cancelación de la licencia.
+B) Llamado de atención – Sanción económica – Suspensión – Cancelación de la licencia.
+C) Llamado de atención – Sanción económica – Cancelación de la licencia.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.1 | ¿Puede un Radioaficionado transmitir en los extremos de las bandas asignadas a su categoría, y por qué?
+
+A) Sí, porque está en una frecuencia autorizada de acuerdo a la clase de emisión.
+B) No, porque debido a la anchura de banda de la transmisión, saldría fuera del sector o banda autorizada.
+C) Sí, porque está en la banda autorizada para su categoría.
+D) Ninguna es correcta.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.2 | ¿A qué tipo/modulación corresponde la clase de emisión A3E?
+
+A) Telefonía. Amplitud Modulada. Doble Banda Lateral.
+B) Telefonía. Modulación de Frecuencia.
+C) Telefonía. Banda Lateral Única con Portadora Suprimida.
+D) Teletipo. Telegrafía por Desplazamiento de Frecuencia.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.3 | ¿A qué tipo/modulación corresponde la clase de emisión A1A?
+
+A) Telefonía. Modulación de Frecuencia.
+B) Teletipo. Telegrafía por Desplazamiento de Frecuencia.
+C) Telegrafía. Código Morse.
+D) Telefonía. Banda Lateral Única con Portadora Suprimida.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.4 | ¿A qué tipo/modulación corresponde la clase de emisión J3E?
+
+A) Telegrafía. Código Morse.
+B) Telefonía. Banda Lateral Única con Portadora Suprimida.
+C) Televisión. Modulación de Frecuencia.
+D) Televisión. Doble Banda Lateral.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.5 | ¿A qué tipo/modulación corresponde la clase de emisión F3E?
+
+A) Facsímil.
+B) Telegrafía. Código Morse.
+C) Telefonía. Modulación de Frecuencia. Doble Banda Lateral.
+D) Teletipo. Telegrafía por Desplazamiento de Frecuencia.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.6 | ¿A qué modo de emisión corresponde la clase J2D?
+
+A) AM.
+B) PACKET.
+C) CW.
+D) APRS.
+
+CORRECTA: B,D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.7 | ¿A qué modo de emisión corresponde la clase J3E?
+
+A) SSB.
+B) RTTY.
+C) SSTV.
+D) ATV.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.8 | ¿A qué modo de emisión corresponde la clase A1A?
+
+A) SSB.
+B) CW.
+C) RTTY.
+D) PACKET.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.9 | ¿A qué modo de emisión corresponde la clase F3E?
+
+A) ATV.
+B) FM.
+C) FAX.
+D) AM.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.10 | ¿A qué modo de emisión corresponde la clase F1B?
+
+A) FAX.
+B) CW.
+C) RTTY.
+D) PACKET.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.11 | ¿En qué caso puede una estación de Radioaficionado reclamar protección por interferencias perjudiciales en una banda atribuida con carácter secundario?
+
+A) Sólo si la interferencia proviene de una estación comercial.
+B) Sólo si la interferencia proviene de una estación de un servicio oficial.
+C) Sólo si la interferencia proviene de una estación del mismo servicio o de otros servicios con atribución también secundaria.
+D) Puede reclamar protección en cualquier caso.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PB.12 | Un	Radioaficionado	puede	efectuar	transmisiones	del	Servicio	de Radioaficionados por satélite:
+
+A) En todas las bandas de frecuencias atribuidas al Servicio de Radioaficionados.
+B) En cualquier frecuencia de las bandas atribuidas al Servicio de Radioaficionados por Satélite.
+C) En los segmentos autorizados para uso satelital dentro de las bandas atribuidas al Servicio de Radioaficionados por Satélite.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.1 | ¿En	cuál	de	las	siguientes	bandas	de	frecuencias	puede	operar	un Radioaficionado de categoría Novicio?
+
+A) 60 metros.
+B) 30 metros.
+C) 12 metros.
+D) 70 centímetros.
+
+CORRECTA: A,D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.2 | ¿En cuál de las siguientes frecuencias puede operar un Radioaficionado de categoría Novicio?
+
+A) 146000 kHz.
+B) 10135 kHz.
+C) 3550 kHz.
+D) 14235 kHz.
+
+CORRECTA: A,C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.3 | En la banda de 15 metros, un Radioaficionado de categoría Novicio:
+
+A) Puede emitir en todos los segmentos.
+B) Puede emitir sólo en algunos segmentos.
+C) No puede emitir en esta banda.
+D) Posee restricciones adicionales de potencia.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.4 | ¿En qué porción de la banda de 20 metros NO pueden operar los titulares de licencia de categoría Novicio?
+
+A) 14000 – 14070 kHz.
+B) 14070 – 14095 kHz.
+C) 14095 – 14099 kHz.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.5 | ¿Cuál es la potencia máxima autorizada para la categoría Novicio en la banda de 30 metros?
+
+A) 500 W.
+B) 250 W.
+C) No puede emitir en esta banda.
+D) La autorizada para la categoría.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.6 | ¿Cuál es la PIRE máxima autorizada para la categoría Novicio en la banda de 2200 metros?
+
+A) 1 W.
+B) 25 W.
+C) La autorizada para la categoría.
+D) No puede emitir en esta banda.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.7 | ¿Cuál es la PIRE máxima autorizada para la categoría Novicio en la banda de 630 metros?
+
+A) 1 W.
+B) 5 W.
+C) La autorizada para la categoría.
+D) No puede emitir en esta banda.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.8 | ¿Cuál es la PIRE máxima autorizada para la categoría Novicio en la banda de 60 metros?
+
+A) 25 W.
+B) 100 W.
+C) La autorizada para la categoría.
+D) No puede emitir en esta banda.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.9 | La banda de frecuencias de 80 metros:
+
+A) Está atribuida al Servicio de Radioaficionados con carácter primario.
+B) Está atribuida al Servicio de Radioaficionados con carácter secundario.
+C) Está atribuida al Servicio de Radioaficionados con carácter primario o secundario según el segmento de frecuencias.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.10 | ¿Cuál es la anchura de banda máxima para DIGIMODOS en la banda de 2 y 10 metros?
+
+A) < = 3 kHz.
+B) < = 16 kHz.
+C) > = 16 kHz.
+D) > = 3 kHz.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.11 | ¿Cuál es la anchura de banda máxima para DIGIMODOS en la banda de 40 y 80 metros?
+
+A) < = 3 kHz.
+B) < = 50 kHz.
+C) < = 100 kHz.
+D) < = 200 kHz.
+
+CORRECTA: A
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.12 | ¿Cuál es la única actividad permitida a un Radioaficionado de categoría Novicio en la banda de 17 metros?
+
+A) Emitir en RTTY.
+B) Emitir en SSB.
+C) Emitir una Radiobaliza.
+
+CORRECTA: C
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.13 | Una frecuencia indicada como de uso exclusivo para un modo de emisión puede utilizarse para:
+
+A) Emitir en un modo diferente sólo si se encuentra desocupada.
+B) Emitir únicamente en ese modo.
+C) Queda supeditado a la categoría del Radioaficionado.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.14 | ¿Puede un Radioaficionado de categoría Novicio efectuar transmisiones en AM en la banda de 3 centímetros?
+
+A) Siempre que se trate de emisiones con baja potencia.
+B) Siempre que se trate de emisiones de prueba.
+C) Siempre, sin restricciones.
+D) No están permitidas las emisiones en ese modo.
+
+CORRECTA: D
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBN.15 | ¿Puede un Radioaficionado de categoría Novicio efectuar transmisiones del Servicio de Radioaficionados por Satélite en la banda de 23 centímetros?
+
+A) Sólo en sentido espacio – tierra, en el rango 1260 – 1270 MHz.
+B) Sólo en sentido tierra – espacio, en el rango 1260 – 1270 MHz.
+C) Sí, en ambos sentidos, en el rango 1260 – 1270 MHz.
+D) No están permitidas.
+
+CORRECTA: B
+EXPLICACION:
+Explicación basada en la normativa oficial de ENACOM para el Servicio de Radioaficionados en Argentina.
+---
+
+PREGUNTA: PBG.1 | ¿En qué porción de la banda de 15 metros NO puede operar un Radioaficionado de categoría General?
+
+A) 21000 – 21070 kHz.
+B) 21125 – 21149 kHz.
+C) 21151 – 21250 kHz.
+D) 21.250 – 21.450 kHz.
+
+CORRECTA: D
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.2 | ¿En qué porción de la banda de 30 metros puede operar en CW un Radioaficionado de categoría General?
+
+A) 10100 – 10130 kHz.
+B) 10130 – 10140 kHz.
+C) 10140 – 10150 kHz.
+D) No puede operar en la banda de 30 metros.
+
+CORRECTA: D
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.3 | ¿Con qué potencia máxima puede operar en un Radioaficionado de categoría General en la banda de 30 metros?
+
+A) 1 W.
+B) 100 W.
+C) 250 W.
+D) La autorizada para la categoría.
+E) No puede operar en la banda de 30 metros.
+
+CORRECTA: E
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.4 | La banda de frecuencias de 80 metros:
+
+A) Está atribuida al Servicio de Radioaficionados con carácter primario.
+B) Está atribuida al Servicio de Radioaficionados con carácter secundario.
+C) Está atribuida al Servicio de Radioaficionados con carácter primario o secundario según el segmento de frecuencias.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.5 | ¿Cuál es la PIRE máxima autorizada para la categoría General en la banda de 2200 metros?
+
+A) 0,5 W.
+B) 1 W.
+C) La autorizada para la categoría.
+D) No puede emitir en esta banda.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.6 | ¿Cuáles son las condiciones de operación para la categoría General en la banda de 630 metros?
+
+A) Modos: AM y DIGIMODOS; PIRE: 1 W; Anchura de banda: 500 Hz.
+B) Modos: CW y DIGIMODOS; PIRE: 5 W; Anchura de banda: 500 Hz.
+C) Modos: CW y FM; PIRE: 5 W; Anchura de banda: 500 Hz.
+D) Modos: CW y DIGIMODOS; PIRE: 5 W; Anchura de banda: 200 Hz.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.7 | ¿Cuál es la frecuencia de llamada en FM en la banda de 6 metros?
+
+A) 50,11 MHz.
+B) 51,50 MHz.
+C) 52,00 MHz.
+D) 53,11 MHz.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.8 | ¿Qué porción de la banda de 6 metros es exclusiva para T.L.T.?
+
+A) 50,00 – 50,05 MHz.
+B) 50,05 – 50,10 MHz.
+C) 50,10 – 50,60 MHz.
+D) 51,00 – 51,10 MHz.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.9 | ¿Cuál es la frecuencia internacional de llamada en SSB en la banda de 6 metros?
+
+A) 50,11 MHz.
+B) 51,50 MHz.
+C) 52,00 MHz.
+D) 53,11 MHz.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.10 | ¿Qué porción de la banda de 6 metros es para uso exclusivo de radiofaros?
+
+A) 52,000 – 52,050 MHz.
+B) 50,050 – 50,100 MHz.
+C) 50,000 – 50,050 MHz.
+D) 50,060 – 51,000 MHz.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.11 | ¿En qué sector de la banda de 80 metros puede un Radioaficionado de categoría General operar en CW, prioridad DX?
+
+A) 3500 – 3515 kHz.
+B) 3515 – 3525 kHz.
+C) 3525 – 3570 kHz.
+D) 3570 – 3580 kHz.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.12 | ¿En qué porción de la banda de 20 metros puede operar en SSB un Radioaficionado de categoría General?
+
+A) 14000 – 14070 kHz.
+B) 14101 – 14119 kHz.
+C) 14119 – 14160 kHz.
+D) 14160 – 14350 kHz.
+
+CORRECTA: B,D
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.13 | ¿En qué porción de la banda de 20 metros puede operar en RTTY prioritario un Radioaficionado de categoría General?
+
+A) 14070 – 14095 kHz.
+B) 14095 – 14099 kHz.
+C) 14099 – 14101 kHz.
+D) 14160 – 14350 kHz.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.14 | ¿Puede un Radioaficionado de categoría General efectuar transmisiones en AM en la banda de 5 centímetros?
+
+A) Siempre que se trate de emisiones con baja potencia.
+B) Siempre que se trate de emisiones de prueba.
+C) Siempre, sin restricciones.
+D) No están permitidas las emisiones en ese modo en la banda de 5 centímetros.
+
+CORRECTA: D
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.15 | ¿Puede un Radioaficionado de categoría General efectuar transmisiones del Servicio de Radioaficionados por satélite en la banda de 23 centímetros?
+
+A) Sólo en sentido espacio – tierra, en el rango 1260 – 1270 MHz.
+B) Sólo en sentido tierra – espacio, en el rango 1260 – 1270 MHz.
+C) Sí, en ambos sentidos, en el rango 1260 – 1270 MHz.
+D) No están permitidas.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.16 | Los enlaces de repetidoras en la banda de 23 centímetros se autorizan:
+
+A) Sólo si operan en ambos sentidos en la misma banda.
+B) Sólo si operan en bandas cruzadas.
+C) Si operan tanto en la misma banda como en bandas cruzadas.
+D) No están permitidos.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.17 | ¿Cuál es el centro de actividad global de emergencias IARU en la banda de 20 metros?
+
+A) 14180 kHz.
+B) 14210 kHz.
+C) 14300 kHz.
+D) No hay centro de actividad global de emergencias IARU en esta banda.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBG.18 | La operación, por parte de un Radioaficionado de categoría General, del Servicio de Aficionados por Satélite en la banda de 15 metros:
+
+A) No puede reclamar protección ante interferencias por tratarse de una banda atribuida con carácter secundario.
+B) Puede reclamar protección ante interferencias por tratarse de una banda atribuida con carácter primario.
+C) Sólo puede realizarse en el segmento 21200 – 21310 kHz.
+D) Sólo puede realizarse en el segmento 21250 – 21450 kHz.
+
+CORRECTA: B,C
+EXPLICACION:
+Conforme a la reglamentación, las atribuciones de frecuencias para la categoría General están diseñadas para permitir una amplia experimentación, respetando los segmentos de modos específicos según el Plan Nacional de Atribución de Frecuencias.
+---
+
+PREGUNTA: PBS.1 | ¿En qué porción de la banda de 2 metros NO está permitido ningún tipo de emisión?
+
+A) 145 – 145,2 MHz.
+B) 145,79 – 145,8 MHz.
+C) 145,8 – 146 MHz.
+D) 147,4 – 147,6 MHz.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.2 | ¿Cuál es el destino del segmento 220 – 220,05 MHz de la banda de 1,25 metros?
+
+A) CW
+B) T.L.T y SSB.
+C) Radiofaros y T.L.T.
+D) DV.
+E) CW T.L.T exclusivo.
+
+CORRECTA: E
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.3 | ¿Con qué carácter se encuentra atribuida la banda de 70 cm?
+
+A) Servicio de Radioaficionados primario – Servicio de Radioaficionados por Satélite primario.
+B) Servicio de Radioaficionados primario – Servicio de Radioaficionados por Satélite secundario.
+C) Servicio de Radioaficionados secundario – Servicio de Radioaficionados por Satélite primario.
+D) Servicio de Radioaficionados secundario – Servicio de Radioaficionados por Satélite secundario.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.4 | Indique las bandas de frecuencias atribuidas al Servicio de Radioaficionados por Satélite:
+
+A) Banda de 160 m.
+B) Banda de 80 m.
+C) Banda de 15 m.
+D) Banda de 10 m.
+E) Banda de 6 m.
+F) Banda de 2 m.
+G) Banda de 23 cm.
+
+CORRECTA: C,D,F,G
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.5 | ¿Cuál es la PIRE máxima autorizada para la categoría Superior en la banda de 2200 metros?
+
+A) 0,5 W.
+B) 1 W.
+C) La autorizada para la categoría.
+D) No puede emitir en esta banda.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.6 | ¿Cuál es la PIRE máxima autorizada para la categoría Superior en la banda de 630 metros?
+
+A) 1 W.
+B) 5 W.
+C) La autorizada para la categoría.
+D) No puede emitir en esta banda.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.7 | ¿Cuáles son las condiciones de operación para la categoría Superior en la banda de 630 metros?
+
+A) Modos: AM y DIGIMODOS; PIRE: 1 W; Anchura de banda: 500 Hz.
+B) Modos: CW y DIGIMODOS; PIRE: 5 W; Anchura de banda: 500 Hz.
+C) Modos: CW y FM; PIRE: 5 W; Anchura de banda: 500 Hz.
+D) Modos: CW y DIGIMODOS; PIRE: 5 W; Anchura de banda: 200 Hz.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.8 | ¿Cuál es el centro de actividad QRP en la banda de 160 metros?
+
+A) 1810 kHz.
+B) 1900 kHz.
+C) 1910 kHz.
+D) 2000 kHz.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.9 | ¿Cuál es el centro de actividad para emergencias IARU en la banda de 80 metros?
+
+A) 3560 kHz.
+B) 3750 kHz.
+C) 3690 kHz.
+D) 3985 kHz.
+
+CORRECTA: B,D
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.10 | ¿En qué porciones de la banda de 10 metros, y en qué sentido, pueden utilizarse repetidoras?
+
+A) 29300 – 29510 MHz Entrada / 29510 – 29590 MHz Salida.
+B) 29510 – 29590 MHz Entrada / 29610 – 29700 MHz Salida.
+C) 29510 – 29590 MHz Salida / 29610 – 29700 MHz Entrada.
+D) 29590 – 29610 MHz Entrada / 29610 – 29700 MHz Salida.
+
+CORRECTA: B
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.11 | ¿Qué modo digital está permitido en el segmento 145,5 – 145,79 MHz en la banda de 2 metros?
+
+A) PACKET.
+B) FAX.
+C) RTTY.
+D) Todos.
+E) Ninguno.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.12 | ¿Qué sentido de transmisión está permitido en el segmento 5830 – 5850 MHz en la banda de 5 centímetros?
+
+A) Espacio - Tierra.
+B) Tierra - Espacio.
+C) Ambos sentidos.
+D) No es un segmento autorizado para el Servicio de Radioaficionados por Satélite.
+
+CORRECTA: A
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.13 | ¿En qué sector de la banda de 3 cm pueden operarse radiofaros?
+
+A) 10 – 10,45 GHz.
+B) 10,45 – 10,5 GHz.
+C) 10,3683 – 10,3684 GHz.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+
+PREGUNTA: PBS.14 | ¿Qué tienen en común las bandas de 13 cm, 5 cm y 1,2 cm?
+
+A) Han sido identificadas en el Reglamento de Radiocomunicaciones 2016 para la implantación de IMT.
+B) Están atribuidas al Servicio de Radioaficionados por Satélite con carácter primario.
+C) Han sido identificadas en el Reglamento de Radiocomunicaciones 2016 para la aplicaciones ICM.
+
+CORRECTA: C
+EXPLICACION:
+Conforme a la reglamentación, la categoría Superior cuenta con las mayores atribuciones de potencia y frecuencias, incluyendo bandas experimentales, siempre bajo el cumplimiento de las normativas técnicas de ENACOM.
+---
+

@@ -1,0 +1,345 @@
+#!/usr/bin/env node
+/**
+ * RadioExamen - Build Script
+ * Genera un index.html autocontenido con todo inline.
+ * Uso: node build.js
+ */
+'use strict';
+const fs = require('fs');
+const path = require('path');
+
+const BASE = __dirname;
+const { execSync } = require('child_process');
+
+try {
+    execSync('node data/build_reglamento_index.js', { cwd: BASE, stdio: 'inherit' });
+} catch (e) {
+    console.warn('⚠️ No se pudo regenerar reglamento-index.js:', e.message);
+}
+try {
+    execSync('node data/build_tecnica_explanations.js', { cwd: BASE, stdio: 'inherit' });
+} catch (e) {
+    console.warn('⚠️ No se pudo regenerar explicaciones técnicas:', e.message);
+}
+
+const css = fs.readFileSync(path.join(BASE, 'css', 'style.css'), 'utf8');
+const js = fs.readFileSync(path.join(BASE, 'js', 'app.js'), 'utf8');
+const questionsJs = fs.readFileSync(path.join(BASE, 'data', 'questions.js'), 'utf8');
+const reglamentoIdxPath = path.join(BASE, 'data', 'reglamento-index.js');
+const reglamentoIdx = fs.existsSync(reglamentoIdxPath)
+    ? fs.readFileSync(reglamentoIdxPath, 'utf8')
+    : 'const REGLEMENTO_INDEX = {};';
+const data = questionsJs + '\n' + reglamentoIdx;
+
+const html = `<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="description" content="Simulador para obtener la licencia de radioaficionados de Argentina">
+<title>RadioExamen Argentina — LU7DZL</title>
+<style>
+${css}
+</style>
+</head>
+<body>
+
+<div class="splash" id="splash"><div class="spin"></div><h1>📡 RadioExamen</h1></div>
+
+<div class="app">
+
+  <!-- HOME -->
+  <section id="s-home" class="screen active">
+    <header class="home-header">
+      <div class="brand">
+        <span class="brand-icon">📡</span>
+        <h1>RadioExamen <span>Argentina</span></h1>
+      </div>
+      <button id="btn-theme" class="icon-btn" title="Cambiar tema">🌙</button>
+    </header>
+    <div class="hero">
+      <h2>¡Preparate para rendir! 🎙️</h2>
+      <p>Simulador para obtener la licencia de radioaficionados de Argentina</p>
+    </div>
+    <div class="menu-grid">
+      <button class="menu-card primary" id="btn-practice">
+        <span class="card-emoji">📚</span>
+        <div class="card-info"><h3>Práctica Libre</h3><p>Estudia a tu ritmo</p></div>
+      </button>
+      <button class="menu-card accent" id="btn-exam">
+        <span class="card-emoji">📝</span>
+        <div class="card-info"><h3>Modo Examen</h3><p>Simulacro real · 30 preguntas</p></div>
+      </button>
+      <button class="menu-card" id="btn-daily">
+        <span class="card-emoji">🌟</span>
+        <div class="card-info"><h3>Desafío Diario</h3><p>10 preguntas del día</p></div>
+      </button>
+      <button class="menu-card" id="btn-review">
+        <span class="card-emoji">❌</span>
+        <div class="card-info"><h3>Repasar Errores</h3><p id="txt-errors">0 errores guardados</p></div>
+      </button>
+      <button class="menu-card" id="btn-favs">
+        <span class="card-emoji">⭐</span>
+        <div class="card-info"><h3>Mis Favoritos</h3><p id="txt-favs">0 preguntas favoritas</p></div>
+      </button>
+    </div>
+    <nav class="home-nav">
+      <button class="nav-btn" id="btn-stats"><span class="nb-icon">📊</span>Estadísticas</button>
+      <button class="nav-btn" id="btn-cfg"><span class="nb-icon">⚙️</span>Ajustes</button>
+    </nav>
+    <div class="credits">
+      Simulador para obtener la <strong>licencia de radioaficionados de Argentina</strong><br>
+      Realizado para el <a href="https://www.facebook.com/radioclub.miramar" target="_blank" rel="noopener" class="credits-link"><strong>Radio Club Miramar (LU7DZL)</strong></a> por <a href="mailto:leandropena@gmail.com" class="credits-link"><strong>Leandro Pena</strong></a>
+    </div>
+  </section>
+
+  <!-- PRACTICE SETUP -->
+  <section id="s-practice" class="screen">
+    <div class="screen-header">
+      <button class="back-btn">◀</button>
+      <h2>📚 Práctica Libre</h2>
+    </div>
+    <div class="form-block">
+      <span class="form-label">Categoría</span>
+      <div class="toggle-row">
+        <button class="toggle-opt active" data-cat="tecnica">🛠️ Técnica</button>
+        <button class="toggle-opt" data-cat="reglamentacion">⚖️ Reglamentación</button>
+      </div>
+    </div>
+    <div class="form-block" id="block-reg-tier" style="display:none">
+      <span class="form-label">Categoría de licencia a rendir</span>
+      <div class="toggle-row">
+        <button class="toggle-reg-tier active" data-reg-tier="novicio">Novicio</button>
+        <button class="toggle-reg-tier" data-reg-tier="general">General</button>
+        <button class="toggle-reg-tier" data-reg-tier="superior">Superior</button>
+      </div>
+      <p style="font-size:0.8rem;color:var(--muted,#6b7280);margin-top:0.5rem;line-height:1.4">Incluye capítulos I a XIII y preguntas PB. Novicio suma PBN; General suma PBN y PBG; Superior incluye todo (PBN, PBG y PBS).</p>
+    </div>
+    <div class="form-block">
+      <span class="form-label">Orden</span>
+      <div class="order-row">
+        <label class="radio-opt"><input type="radio" name="order" value="seq" checked><div class="radio-box">🔢 Secuencial</div></label>
+        <label class="radio-opt"><input type="radio" name="order" value="rnd"><div class="radio-box">🔀 Aleatorio</div></label>
+      </div>
+    </div>
+    <div class="form-block">
+      <span class="form-label">🔢 Cantidad de preguntas</span>
+      <div class="count-row">
+        <button class="count-pract active" data-n="all">Todas</button>
+        <button class="count-pract" data-n="10">10</button>
+        <button class="count-pract" data-n="20">20</button>
+        <button class="count-pract" data-n="30">30</button>
+        <button class="count-pract" data-n="50">50</button>
+      </div>
+    </div>
+    <button class="btn-main" id="btn-start-practice">Empezar ahora 🚀</button>
+  </section>
+
+  <!-- EXAM SETUP -->
+  <section id="s-exam-setup" class="screen">
+    <div class="screen-header">
+      <button class="back-btn">◀</button>
+      <h2>📝 Modo Examen</h2>
+    </div>
+    <p style="margin-bottom:1rem;color:var(--muted,#6b7280)">Simulacro: 15 preguntas técnicas + 15 de reglamentación según la categoría de licencia elegida.</p>
+    <div class="form-block">
+      <span class="form-label">Categoría de licencia a rendir</span>
+      <div class="toggle-row">
+        <button class="toggle-reg-tier-exam active" data-reg-tier="novicio">Novicio</button>
+        <button class="toggle-reg-tier-exam" data-reg-tier="general">General</button>
+        <button class="toggle-reg-tier-exam" data-reg-tier="superior">Superior</button>
+      </div>
+    </div>
+    <button class="btn-main" id="btn-start-exam">Comenzar examen 🚀</button>
+  </section>
+
+  <!-- REVIEW SETUP -->
+  <section id="s-review" class="screen">
+    <div class="screen-header">
+      <button class="back-btn">◀</button>
+      <h2>❌ Repasar Errores</h2>
+    </div>
+    <p style="margin-bottom:1.5rem;color:var(--muted,#6b7280)">¿Cuántos errores quieres repasar?</p>
+    <div class="form-block">
+      <div class="count-row">
+        <button class="count-opt" data-n="5">5</button>
+        <button class="count-opt" data-n="10">10</button>
+        <button class="count-opt" data-n="20">20</button>
+        <button class="count-opt active" data-n="all">Todas</button>
+      </div>
+    </div>
+    <button class="btn-main" id="btn-start-review">Comenzar Repaso 🔄</button>
+  </section>
+
+  <!-- QUIZ -->
+  <section id="s-quiz" class="screen">
+    <div class="quiz-bar">
+      <button class="icon-btn" id="quiz-quit" title="Salir">✖️</button>
+      <div class="progress-wrap">
+        <div class="progress-track"><div class="progress-fill" id="q-fill"></div></div>
+        <span class="progress-text" id="q-prog">1 / 10</span>
+      </div>
+      <span id="q-timer" style="font-size:0.85rem;font-weight:800;color:var(--muted,#6b7280)">00:00</span>
+      <button class="icon-btn" id="btn-fav" title="Favorito">☆</button>
+      <button class="icon-btn" id="btn-cfg-quiz" title="Ajustes">⚙️</button>
+    </div>
+    <div class="quiz-body">
+      <span class="q-cat" id="q-cat">---</span>
+      <h2 class="q-text" id="q-text">---</h2>
+      <div class="opts" id="q-opts"></div>
+    </div>
+    <div class="quiz-foot">
+      <div class="feedback-box" id="q-feedback">
+        <p class="fb-title" id="fb-title">---</p>
+        <p class="fb-text" id="fb-text">---</p>
+      </div>
+      <button class="btn-main" id="btn-confirm" style="display:none;margin-top:0.75rem">Confirmar Selección</button>
+      <button class="btn-main" id="btn-next" style="display:none;margin-top:0.75rem">Continuar →</button>
+    </div>
+  </section>
+
+  <!-- RESULTS -->
+  <section id="s-results" class="screen">
+    <div class="result-hero">
+      <div class="result-emoji" id="res-emoji">🏆</div>
+      <h1 class="result-title" id="res-title">¡Aprobado!</h1>
+      <p class="result-sub" id="res-sub">---</p>
+    </div>
+    <div class="result-cards">
+      <div class="r-card"><span class="val" id="res-pct">--</span><span class="lbl">Puntaje</span></div>
+      <div class="r-card"><span class="val" id="res-time">--</span><span class="lbl">Tiempo</span></div>
+      <div class="r-card"><span class="val" id="res-ok">--</span><span class="lbl">Correctas</span></div>
+    </div>
+    <button class="btn-main" id="btn-home-result">Volver al Inicio 🏠</button>
+    <button class="btn-sec" id="btn-retry">Reintentar 🔁</button>
+    <button class="btn-sec" id="btn-print-result" style="margin-top:0.5rem;display:none;">📄 Descargar PDF</button>
+  </section>
+
+  <!-- STATS -->
+  <section id="s-stats" class="screen">
+    <div class="screen-header">
+      <button class="back-btn">◀</button>
+      <h2>📊 Estadísticas</h2>
+    </div>
+    <div class="result-cards">
+      <div class="r-card"><span class="val" id="st-exams">0</span><span class="lbl">Exámenes</span></div>
+      <div class="r-card"><span class="val" id="st-avg">0%</span><span class="lbl">Promedio</span></div>
+      <div class="r-card"><span class="val" id="st-streak">0</span><span class="lbl">Racha</span></div>
+    </div>
+    <div class="tabs">
+      <button class="tab-btn active" data-tab="hist-exam-list">📝 Exámenes</button>
+      <button class="tab-btn" data-tab="hist-practice-list">📚 Prácticas</button>
+    </div>
+    <div id="hist-exam-list" class="tab-panel active"></div>
+    <div id="hist-practice-list" class="tab-panel"></div>
+    
+    <div style="padding:1rem; display:flex; gap:0.5rem; justify-content:center;">
+        <button class="btn-sec" onclick="clearAllHistory('exam')" style="font-size:0.75rem; padding:0.4rem 0.8rem; border-color:rgba(239, 68, 68, 0.3); color:#ef4444;">🗑️ Borrar Exámenes</button>
+        <button class="btn-sec" onclick="clearAllHistory('pract')" style="font-size:0.75rem; padding:0.4rem 0.8rem; border-color:rgba(239, 68, 68, 0.3); color:#ef4444;">🗑️ Borrar Prácticas</button>
+    </div>
+  </section>
+
+  <!-- FAVORITES -->
+  <section id="s-favs" class="screen">
+    <div class="screen-header">
+      <button class="back-btn">◀</button>
+      <h2>⭐ Mis Favoritos</h2>
+    </div>
+    <div id="fav-list"></div>
+  </section>
+
+</div><!-- /.app -->
+<div id="print-area" style="display:none;"></div>
+
+<!-- CONFIG SHEET -->
+<div class="config-overlay" id="cfg-overlay">
+  <div class="config-sheet">
+    <div class="config-title">
+      <span>⚙️ Ajustes</span>
+      <button class="icon-btn" id="cfg-close">✖️</button>
+    </div>
+    <div class="config-row">
+      <span class="config-label">🌙 Modo Oscuro</span>
+      <label class="sw"><input type="checkbox" id="sw-dark"><span class="sw-slider"></span></label>
+    </div>
+    <div class="config-row">
+      <span class="config-label">🔊 Sonidos</span>
+      <label class="sw"><input type="checkbox" id="sw-sound" checked><span class="sw-slider"></span></label>
+    </div>
+    <div class="config-row">
+      <span class="config-label">⏱️ Cronómetro</span>
+      <label class="sw"><input type="checkbox" id="sw-timer" checked><span class="sw-slider"></span></label>
+    </div>
+    <br>
+    <button class="btn-sec" id="btn-clear-errors" style="margin-top:0.5rem">🗑️ Borrar historial de errores</button>
+  </div>
+</div>
+
+<!-- Achievement Toast -->
+<div class="toast-ach" id="toast-ach">
+  <span style="font-size:1.5rem">🏅</span>
+  <div class="ta-text"><small>Logro desbloqueado</small><strong id="toast-title">---</strong></div>
+</div>
+
+<script>
+// DATA
+${data}
+</script>
+<script>
+// APP LOGIC
+${js}
+</script>
+</body>
+</html>`;
+
+
+fs.writeFileSync(path.join(BASE, 'index.html'), html, 'utf8');
+console.log('✅ index.html generado correctamente (autocontenido).');
+
+// ── UPDATE DIST FOLDER FOR DEPLOYMENT ─────────────────────────────────
+const DIST = path.join(BASE, 'dist');
+if (!fs.existsSync(DIST)) fs.mkdirSync(DIST);
+
+// 1. Generate Modular index.html for dist
+const modularIndex = `<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="description" content="Simulador de Examen para Radioaficionados de Argentina">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#4f46e5">
+<title>RadioExamen Argentina — LU7DZL</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+${html.split('<body>')[1].split('<script>')[0]}
+<script src="app.js"></script>
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js').catch(err => console.log('SW error:', err));
+    });
+  }
+</script>
+</body>
+</html>`;
+
+fs.writeFileSync(path.join(DIST, 'index.html'), modularIndex, 'utf8');
+
+// 2. Update dist/app.js (Concatenated questions.js + js/app.js)
+fs.writeFileSync(path.join(DIST, 'app.js'), data + '\n' + js, 'utf8');
+
+// 3. Update dist/style.css (at root for simplicity)
+fs.copyFileSync(path.join(BASE, 'css', 'style.css'), path.join(DIST, 'style.css'));
+
+// 4. Update sw.js and manifest.json
+if (fs.existsSync(path.join(BASE, 'sw.js'))) {
+    fs.copyFileSync(path.join(BASE, 'sw.js'), path.join(DIST, 'sw.js'));
+}
+if (fs.existsSync(path.join(BASE, 'manifest.json'))) {
+    fs.copyFileSync(path.join(BASE, 'manifest.json'), path.join(DIST, 'manifest.json'));
+}
+
+console.log('✅ Carpeta /dist actualizada para subida (5 archivos básicos).');
+console.log('   Archivos listos en: ' + DIST);

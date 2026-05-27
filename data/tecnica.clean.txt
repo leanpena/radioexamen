@@ -1,0 +1,1800 @@
+PREGUNTA: 1 | ¿Con qué elemento bloqueamos el paso de una corriente continua entre dos puntos de un circuito ?
+
+A) Resistor.
+B) Inductor.
+C) Capacitor.
+D) Termistor
+
+CORRECTA: C
+EXPLICACION:
+El **Capacitor** (C) es el componente diseñado para bloquear la corriente continua (CC) permitiendo el paso de la alterna. Esto se debe a que sus placas están separadas por un aislante. El **Resistor** (A) solo limita la corriente pero no la bloquea; el **Inductor** (B) permite el paso de CC con baja resistencia; y el **Termistor** (D) varía con la temperatura pero no es un bloqueador de CC.
+---
+
+PREGUNTA: 2 | ¿Cuál es el cable coaxil menos recomendado para VHF y UHF por sus mayores pérdidas?
+
+A) RG-58
+B) RG-8
+C) RG-213
+D) RG-11
+
+CORRECTA: A
+EXPLICACION:
+El cable **RG-58** (A) es el menos recomendado para VHF/UHF debido a su pequeño diámetro y materiales, lo que genera pérdidas de señal (atenuación) muy altas en esas frecuencias. Los cables **RG-8** (B) y **RG-213** (C) son mucho más eficientes por ser más gruesos y tener mejor blindaje. El **RG-11** (D) es de 75 ohms y también tiene menos pérdidas que el RG-58.
+---
+
+PREGUNTA: 3 | Una resistencia está identificada con los siguientes colores:   Rojo-Naranja-Rojo ¿Qué valor tiene ?
+
+A) 670 KΩ.
+B) 230 Ω.
+C) 2,3 KΩ.
+D) 23 KΩ.
+
+CORRECTA: C
+EXPLICACION:
+Según el código de colores: **Rojo** (2), **Naranja** (3) y **Rojo** (multiplicador x100) da como resultado **2300 Ω**, lo que equivale a **2,3 KΩ** (C). Las otras opciones (A, B, D) no corresponden a esta combinación de colores y multiplicador.
+---
+
+PREGUNTA: 4 | La banda de color dorado que se encuentra en un resistor, ¿qué tolerancia indica?
+
+A) 5 %
+B) 10 %
+C) 20 %
+D) 30 %
+
+CORRECTA: A
+EXPLICACION:
+La banda **Dorada** (A) en un resistor indica una tolerancia del **5%**. La banda plateada indicaría 10% (B), y la ausencia de banda indicaría 20% (C). El 30% (D) no es un valor estándar de tolerancia por colores.
+---
+
+PREGUNTA: 5 | ¿En qué unidad se mide la inductancia de una bobina?
+
+A) Faradio.
+B) Joulio.
+C) Henrio.
+D) Coulombio
+
+CORRECTA: C
+EXPLICACION:
+La unidad de medida de la inductancia es el **Henrio** (C). El **Faradio** (A) es para capacidad, el **Joulio** (B) es para energía y el **Coulombio** (D) es para carga eléctrica.
+---
+
+PREGUNTA: 6 | Enuncie la ley de Ohm:
+
+A) La intensidad de una corriente eléctrica es inversamente proporcional al cuadrado de la diferencia de potencial y directamente proporcional a su resistencia.
+B) La intensidad de una corriente eléctrica es directamente proporcional a la diferencia de potencial entre los extremos del conductor e inversamente proporcional a su resistencia.
+C) La intensidad de una corriente eléctrica es directamente proporcional a su resistencia e inversamente proporcional a la diferencia de potencial entre los extremos del conductor.
+D) La intensidad de una corriente eléctrica es directamente proporcional a su resistencia y directamente proporcional a la diferencia de potencial entre los extremos del conductor.
+
+CORRECTA: B
+EXPLICACION:
+La **Ley de Ohm** (B) establece que la intensidad es directamente proporcional a la tensión e inversamente proporcional a la resistencia (I = V / R). Las opciones A, C y D proponen relaciones matemáticas inversas o incorrectas que no se ajustan a la realidad física del circuito.
+---
+
+PREGUNTA: 7 | ¿Cuál es la unidad de medida de la intensidad de corriente?
+
+A) Voltio.
+B) Amperio
+C) Vatio.
+D) Henrio
+
+CORRECTA: B
+EXPLICACION:
+La intensidad de corriente se mide en **Amperios** (B). El **Voltio** (A) mide tensión, el **Vatio** (C) mide potencia y el **Henrio** (D) mide inductancia.
+---
+
+PREGUNTA: 8 | ¿Cuál es la unidad de medida de la tensión?
+
+A) Voltio.
+B) Amperio
+C) Vatio
+D) Henrio
+
+CORRECTA: A
+EXPLICACION:
+La tensión eléctrica se mide en **Voltios** (A). El **Amperio** (B) mide intensidad, el **Vatio** (C) potencia y el **Henrio** (D) inductancia.
+---
+
+PREGUNTA: 9 | Tenemos un circuito con 3 resistencias en serie de 10 Ω cada una, conectadas a una fuente de alimentación de corriente continua con 30 V de tensión. ¿Qué valor de intensidad de corriente eléctrica circula por el circuito ?
+
+A) 10 Amperio.
+B) 100 Amperio.
+C) 1 Amperio.
+D) 0,1 Amperio
+
+CORRECTA: C
+EXPLICACION:
+En **serie**, R_total = 10+10+10 = 30 Ω. **I = V/R = 30/30 = 1 A** (C). Las opciones A, B y D no aplican la ley de Ohm correctamente.
+---
+
+PREGUNTA: 10 | ¿Con qué instrumento se mide la tensión en un circuito eléctrico y como se conecta dicho instrumento ?
+
+A) Amperímetro. Se conecta en serie.
+B) Voltímetro. Se conecta en serie.
+C) Voltímetro. Se conecta en paralelo.
+D) Amperímetro. Se conecta en paralelo
+
+CORRECTA: C
+EXPLICACION:
+La **tensión** se mide con **voltímetro en paralelo** (C) con el elemento. En serie (B) mediría caída incorrecta; amperímetro (A, D) mide corriente.
+---
+
+PREGUNTA: 11 | ¿Con qué instrumento se mide la intensidad de corriente en un circuito eléctrico y como se conecta dicho instrumento ?
+
+A) Voltímetro.  Se conecta en serie.
+B) Amperímetro. Se conecta en paralelo.
+C) Amperímetro. Se conecta en serie.
+D) Amperímetro. Se conecta en paralelo
+
+CORRECTA: C
+EXPLICACION:
+La **corriente** se mide con **amperímetro en serie** (C). En paralelo (B, D) cortocircuitaría; voltímetro (A) mide tensión.
+---
+
+PREGUNTA: 12 | ¿Cuál es la unidad de medida de la potencia eléctrica ?
+
+A) Amperio.
+B) Voltio.
+C) Vatio.
+D) Henrio
+
+CORRECTA: C
+EXPLICACION:
+La **potencia eléctrica** se mide en **vatios (W)** (C). Amperio (A), voltio (B) y henrio (D) son otras magnitudes.
+---
+
+PREGUNTA: 13 | ¿Qué potencia se producirá en una resistencia de 400 Ω, si la tensión aplicada es de 20V?
+
+A) 10 Vatio.
+B) 100 Vatio.
+C) 1 Vatio
+D) 20 Vatio
+
+CORRECTA: C
+EXPLICACION:
+**P = V²/R = 20²/400 = 400/400 = 1 W** (C). 10 W, 100 W y 20 W (A, B, D) no resultan de esa fórmula.
+---
+
+PREGUNTA: 14 | Se conectan en paralelo tres capacitores de 22, 33 y 5 microfaradios respectivamente . ¿Cuál es la capacidad total del circuito ?
+
+A) 3 uf
+B) 60 uf
+C) 45 uf
+D) 70 uf
+
+CORRECTA: B
+EXPLICACION:
+Capacitores en **paralelo**: C_total = 22+33+5 = **60 µF** (B). En serie sería menor (A); 45 y 70 µF (C, D) son erróneos.
+---
+
+PREGUNTA: 15 | ¿Qué tipo de antena puede ser una buena elección como parte de un equipo portable parabandas de HF,  para ser instalada en caso de emergencia ?
+
+A) Quad de 3 elementos.
+B) Yagi de 3 elementos.
+C) Dipolo de 1/2 longitud de onda
+D) Helicoidal
+
+CORRECTA: C
+EXPLICACION:
+Para HF portátil/emergencia suele elegirse un **dipolo de λ/2** (C), liviano y fácil de tender. Yaguis o quads (A, B) son más voluminosos.
+---
+
+PREGUNTA: 16 | ¿Cuál es el ángulo ideal entre ramas de una antena dipolo tipo “V” invertida ?
+
+A) 135º
+B) 45º
+C) 90º
+D) 180°
+
+CORRECTA: C
+EXPLICACION:
+En dipolo **“V” invertida** el ángulo típico entre ramas es **90°** (C), con alimentación en el vértice inferior.
+---
+
+PREGUNTA: 17 | En un  receptor el demodulador.
+
+A) Produce una señal eléctrica oscilatoria de amplitud y frecuencia fija denominada portadora.
+B) Extrae el mensaje a partir de la señal modulada.
+C) Modifica la amplitud o la frecuencia de la portadora pura, conforme a la señal del mensaje
+D) Amplifica la señal modulada.
+
+CORRECTA: B
+EXPLICACION:
+El **demodulador** (B) extrae el mensaje (audio o datos) de la señal modulada recibida. La portadora fija (A) la genera el oscilador del transmisor; modificar la portadora (C) es tarea del modulador; amplificar (D) no recupera el mensaje.
+---
+
+PREGUNTA: 18 | ¿Qué elemento de los señalados, permite elevar por si solo, una tensión alterna ?
+
+A) Resistencia
+B) Transformador
+C) Diodo
+D) Impedancia
+
+CORRECTA: B
+EXPLICACION:
+El **transformador** (B) eleva o reduce tensión alterna por acoplamiento magnético entre bobinas. La resistencia (A) limita corriente; el diodo (C) rectifica; la impedancia (D) no es un dispositivo de elevación por sí solo.
+---
+
+PREGUNTA: 19 | En un transmisor, el modulador:
+
+A) Amplifica la señal proveniente de la antena para que su nivel sea mucho mayor al del ruido interno de las etapas subsiguientes.
+B) Produce una señal eléctrica oscilatoria de amplitud y frecuencia fija denominada portadora.
+C) Modifica la amplitud o frecuencia de la portadora pura, conforme a la señal del mensaje.
+D) Amplifica la señal modulada para enviarla a la antena.
+
+CORRECTA: C
+EXPLICACION:
+El **modulador** (C) impone el mensaje sobre la portadora variando amplitud o frecuencia. Generar portadora pura (B) es del oscilador; amplificar hacia antena (D) es etapa de potencia; preamplificar RF (A) no modula.
+---
+
+PREGUNTA: 20 | El valor máximo de una corriente alterna es de 200 mA. ¿Cuál es su valor eficaz ?
+
+A) 130 mA.
+B) 141,1 mA.
+C) 158 mA.
+D) 282,8 mA.
+
+CORRECTA: B
+EXPLICACION:
+En corriente alterna sinusoidal, **I_eficaz = I_máx / √2**. Con 200 mA pico: 200/1,414 ≈ **141 mA** (B). 130 mA (A) y 158 mA (C) no cumplen la relación; 282,8 mA (D) sería el valor pico a pico, no el eficaz.
+---
+
+PREGUNTA: 21 | Para proteger un equipo de 220 Voltios y 1 KW de consumo, ¿qué valor de fusible sería conveniente instalar en la línea de alimentación ?
+
+A) 500 mA
+B) 1 A
+C) 3 A
+D) 6 A
+
+CORRECTA: D
+EXPLICACION:
+Potencia 1000 W a 220 V: **I ≈ P/V ≈ 4,55 A**. Conviene un fusible **6 A** (D), ligeramente superior al consumo nominal. 500 mA, 1 A y 3 A (A–C) fundirían en operación normal.
+---
+
+PREGUNTA: 22 | En un capacitor, ¿qué fenómeno se produce entre la tensión y la corriente ?
+
+A) La tensión adelanta a la corriente.
+B) La corriente adelanta a la tensión.
+C) La tensión y la corriente están en fase.
+D) La corriente está desfasada 360°
+
+CORRECTA: B
+EXPLICACION:
+En un capacitor ideal la **corriente adelanta 90° a la tensión** (B). La tensión adelantando a la corriente (A) corresponde a un inductor; en fase (C) a resistencia pura; 360° (D) equivale a estar en fase.
+---
+
+PREGUNTA: 23 | ¿Cuándo existe resonancia en un  circuito ?
+
+A) Cuando la reactancia capacitiva es igual a la corriente eléctrica.
+B) Cuando la reactancia inductiva es igual  a la tensión aplicada.
+C) Cuando la reactancia capacitiva es igual a la reactancia inductiva.
+D) Cuando la reactancia inductiva es igual a la corriente eléctrica
+
+CORRECTA: C
+EXPLICACION:
+Hay **resonancia** cuando la reactancia inductiva iguala a la capacitiva: **X_L = X_C** (C), y la impedancia del circuito serie es mínima. Las demás opciones no definen resonancia.
+---
+
+PREGUNTA: 24 | ¿Cómo se denomina el material que separa las placas de un capacitor ?
+
+A) Conductor
+B) Dieléctrico.
+C) Cátodo.
+D) Ánodo
+
+CORRECTA: B
+EXPLICACION:
+Entre las placas del capacitor está el **dieléctrico** (B), material aislante que permite almacenar carga. Conductor (A) cortocircuitaría; cátodo/ánodo (C) son de baterías.
+---
+
+PREGUNTA: 25 | ¿Los diodos comunes permiten circulación de corriente en ambas direcciones ?
+
+A) no.
+B) si
+C) sólo en fuentes de alimentación
+D) sólo los diodos zener
+
+CORRECTA: A
+EXPLICACION:
+Los diodos comunes **solo conducen bien en polarización directa** (A), no en ambos sentidos como una resistencia. La opción B es falsa para el diodo rectificador típico.
+---
+
+PREGUNTA: 26 | ¿De qué elemento se compone un puente rectificador ?
+
+A) Capacitores.
+B) Diodos.
+C) Fets.
+D) Bobinas
+
+CORRECTA: B
+EXPLICACION:
+Un **puente rectificador** se compone de **cuatro diodos** (B) en configuración puente. Capacitores (A), FET (C) o bobinas (D) no forman el puente clásico.
+---
+
+PREGUNTA: 27 | ¿Qué elementos indispensables componen un transformador ?
+
+A) Dos capacitores.
+B) Un capacitor y una bobina.
+C) Dos bobinas.
+D) Una bobina y un diodo
+
+CORRECTA: C
+EXPLICACION:
+Un transformador requiere **dos bobinas acopladas** (primario y secundario) (C). Capacitores (A), diodos solos (D) o mezclas incorrectas (B) no bastan.
+---
+
+PREGUNTA: 28 | ¿Qué elementos indispensables componen una fuente de alimentación típica de 12 Volts c.c.  para una  estación de radioaficionado.?
+
+A) Transformador, Capacitor, regulador y fusible.
+B) Puente de diodos, Regulador,  capacitor y fusible.
+C) Transformador, puente de diodos, capacitor, regulador y fusible.
+D) Transformador, resistencias, capacitor y fusible
+
+CORRECTA: C
+EXPLICACION:
+Una fuente de 12 V CC típica incluye **transformador, rectificador (puente), filtro y regulador**, más protección como fusible (C). Solo resistencias (D) o etapas incompletas (A, B) no regulan 12 V.
+---
+
+PREGUNTA: 29 | ¿Qué tipo de corriente entrega una fuente de alimentación típica, usada en transceptores ?
+
+A) Pulsante.
+B) Continua.
+C) Alterna.
+D) Monofásica
+
+CORRECTA: B
+EXPLICACION:
+Los transceptores se alimentan con **corriente continua (CC)** (B) tras la fuente conmutada o lineal. La red es alterna (C); pulsante (A) es intermedia sin filtrar.
+---
+
+PREGUNTA: 30 | ¿Cuál es una de las funciones mas importantes que realiza un transistor ?
+
+A) Amplificar señales débiles.
+B) Rectificar la tensión de línea.
+C) Regula la frecuencia del oscilador
+D) Atenuar señales débiles
+
+CORRECTA: A
+EXPLICACION:
+Función principal del **transistor**: **amplificar** (o conmutar) señales (A). Rectificar red (B), regular oscilador (C) o atenuar (D) no son su uso principal en RF.
+---
+
+PREGUNTA: 31 | ¿Cómo se denominan los elementos que conforman un transistor ?
+
+A) Ánodo, emisor y grilla.
+B) Placa, pantalla y base.
+C) Colector, base y emisor.
+D) Colector, base y cátodo
+
+CORRECTA: C
+EXPLICACION:
+En transistores bipolares los terminales son **colector, base y emisor** (C). Ánodo/grilla (A) y placa/pantalla (B) son de válvulas; cátodo (D) no es terminal estándar del BJT.
+---
+
+PREGUNTA: 32 | Tres capacitores  de 6 nf son conectados en serie, ¿qué capacidad presenta el conjunto?
+
+A) 1,0 nf
+B) 2,0 nf
+C) 6,0 nf
+D) 18 nf
+
+CORRECTA: B
+EXPLICACION:
+Tres capacitores de 6 nF en **serie**: 1/Ct = 3×(1/6) → **Ct = 2 nF** (B). En serie la capacidad total es menor que cada una; 18 nF (D) sería en paralelo.
+---
+
+PREGUNTA: 33 | El primario de un transformador tiene 60 espiras el secundario 300 espiras, si aplicamos al primario  12 V c.a., ¿qué tensión tendremos en el secundario?
+
+A) 40 V
+B) 50 V
+C) 60 V
+D) 70 V
+
+CORRECTA: D
+EXPLICACION:
+Por proporción de espiras **V₂/V₁ = N₂/N₁**. Con 12 V, 60 y 300 espiras: V₂ = 12×(300/60) = **60 V** (opción C). La clave del banco marca **D) 70 V**; seguí la clave oficial del simulador.
+---
+
+PREGUNTA: 34 | Se desea utilizar en la banda de 80 mts. una antena dipolo de ½ longitud de onda alimentada en su centro por un cable coaxil de 75 Ω, en la que se midieron los siguientes valores de ROE: En 3500 Khz. ROE=1,1. En 3600 Khz.: ROE=2. En 3700 Khz.: ROE=3. En 3750 Khz.: ROE=4 ¿Qué debemos hacer con dicha antena?
+
+A) Alargarla
+B) Acortarla
+C) Aumentar la impedancia del coaxil
+D) Inclinarla
+
+CORRECTA: B
+EXPLICACION:
+La ROE sube al aumentar frecuencia respecto al punto de resonancia: la antena está **demasiado larga** para el tramo usado → conviene **acortarla** (B). Alargarla (A) empeoraría la adaptación.
+---
+
+PREGUNTA: 35 | Las señales emitidas en la banda de 80 m:
+
+A) No llegan a refractarse y escapan de la atmósfera.
+B) Se absorben en la capa ionosférica “D” durante el mediodía
+C) Sólo permiten comunicaciones seguras a más de 500 Km debido a la zona de silencio
+D) Sólo permiten comunicaciones seguras a más de 2000 Km. Debido a la zona de silencio2
+
+CORRECTA: B
+EXPLICACION:
+En 80 m, de día la **capa D absorbe** gran parte de la energía y limita propagación por ionósfera (B). No “escapan” todas (A); las distancias de las opciones C y D no describen el efecto principal del mediodía.
+---
+
+PREGUNTA: 36 | Se dispone de cuatro resistencias (R1= 50 Ω, R2= 10 Ω, R3= 120  Ω y R4= 4700 Ω conectadas en paralelo a una fuente de alimentación de 12 V. ¿Cuál será la tensión aplicada sobre R4 ?
+
+A) 12 V
+B) 0,00 25 V
+C) 47 V
+D) 6 V
+
+CORRECTA: A
+EXPLICACION:
+En **paralelo** la tensión es la misma en todas las ramas: sobre R4 hay **12 V** (A). 47 V o 6 V (C, D) violan la ley de nodos con fuente de 12 V.
+---
+
+PREGUNTA: 37 | Para obtener una buena relación de ROE,  ¿qué es conveniente?
+
+A) Alta potencia reflejada y baja potencia incidente
+B) Baja potencia reflejada y alta potencia incidente
+C) Alta potencia reflejada y alta potencia incidente
+D) Baja potencia reflejada y baja potencia incidente
+
+CORRECTA: B
+EXPLICACION:
+Buena ROE implica **poca potencia reflejada y mucha incidente** hacia la antena (B). Alta reflexión (A, C) indica desadaptación; baja incidente (D) no es objetivo al transmitir.
+---
+
+PREGUNTA: 38 | Describir en bloque un receptor superheterodino en clase de emisión A3E :
+
+A) Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Amplificador de Audio y parlante.
+B) Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Detector, Amplificador de audio y  parlante.
+C) Amplificador de RF, mezclador, Amplificador de FI, Detector, Amplificador de audio y parlante.
+D) Amplificador de RF, Detector de producto, Mezclador, Detector, Amplificador de audio y  parlante.
+
+CORRECTA: B
+EXPLICACION:
+Receptor **AM (A3E) superheterodino**: RF → mezclador + oscilador → FI → **detector** → audio → parlante (B). Falta detector en C; detector de producto en D es para SSB/CW.
+---
+
+PREGUNTA: 39 | Definición de selectividad :
+
+A) El receptor tiene la capacidad de evitar las interferencias de estaciones potentes y cercanas a la frecuencia de trabajo.
+B) El receptor tiene la capacidad de escuchar  las señales muy débiles.
+C) El receptor tiene la capacidad de escuchar  las señales muy fuertes
+D) El receptor tiene la capacidad de bloquear las señales muy débiles
+
+CORRECTA: A
+EXPLICACION:
+**Selectividad** (A): separar la frecuencia deseada de canales cercanos. Escuchar señales débiles (B) es sensibilidad; las opciones C y D no definen selectividad.
+---
+
+PREGUNTA: 40 | Definición de sensibilidad :
+
+A) El receptor tiene la capacidad de evitar las interferencias de estaciones potentes y cercanas a la frecuencia de trabajo.
+B) El receptor tiene la capacidad de escuchar las señales muy débiles.
+C) El receptor tiene la capacidad de escuchar  las señales muy fuertes
+D) El receptor tiene la capacidad de bloquear las señales muy débiles
+
+CORRECTA: B
+EXPLICACION:
+**Sensibilidad** (B): capacidad de recibir señales **débiles** útiles. Evitar interferencias (A) es selectividad; bloquear débiles (D) sería squelch, no sensibilidad.
+---
+
+PREGUNTA: 41 | Describir en bloque un receptor de F3E :
+
+A) Amplificador de RF, mezclador, filtro pasa bajos amplificador de FI. limitador, discriminador de frecuencia, amplificador de audio y parlante.
+B) Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Detector, Amplificador de audio y  parlante.
+C) Amplificador de RF, Detector de producto, Mezclador, Detector, Amplificador de audio y parlante.
+D) Amplificador de RF, Mezclador, Oscilador de RF, Filtro, Amplificador de FI, Limitador, Discriminador de frecuencia, amplificador de audio y parlante.
+
+CORRECTA: D
+EXPLICACION:
+Receptor **FM (F3E)**: RF, mezclador, oscilador, FI, **limitador**, **discriminador**, audio (D). La cadena AM (B) o incompleta (A, C) no corresponde a FM.
+---
+
+PREGUNTA: 42 | ¿Para qué se emplea el amplificador de FI ?
+
+A) Para aumentar la ganancia de la primera etapa amplificadora de RF
+B) Para usarlo como discriminador de frecuencia.
+C) Para obtener ganancia y selectividad.
+D) Para aumentar la ganancia de la ultima etapa amplificadora de AF
+
+CORRECTA: C
+EXPLICACION:
+El **amplificador de FI** aporta **ganancia y selectividad** (C) a frecuencia intermedia fija. RF inicial (A) o audio final (D) cumplen otras funciones; discriminador (B) va después.
+---
+
+PREGUNTA: 43 | ¿Qué función cumple el mezclador en un receptor superheterodino ?
+
+A) Mezclar la frecuencia de la FI con la de la señal recibida
+B) Conversión de la señal captada en otra señal de las mismas características pero de frecuencia distinta para que pueda ser filtrada y amplificada con mayor facilidad.
+C) Conversión de la señal captada en otra señal de características totalmente distintas a las dadas.
+D) Ninguna es correcta
+
+CORRECTA: B
+EXPLICACION:
+El **mezclador** traslada la señal recibida a otra frecuencia (FI) para filtrar y amplificar con facilidad (B). Mezclar FI con RF al revés (A) no describe el primer mezclado.
+---
+
+PREGUNTA: 44 | Se dispone de cuatro resistencias (R1= 50 Ω, R2= 10 Ω, R3= 120 Ω y R4= 4700 Ω conectadas en paralelo a una fuente de alimentación de 12 V. ¿Cuál será la potencia disipada por la resistencia  R1  ?
+
+A) 2,88 Vatio
+B) 1,44 Vatio
+C) 0,72 Vatio
+D) 0,36 Vatio
+
+CORRECTA: A
+EXPLICACION:
+En paralelo, R1 tiene 12 V: **P = V²/R = 144/50 = 2,88 W** (A). Los demás valores no aplican la fórmula correcta.
+---
+
+PREGUNTA: 45 | Defina en bloques, un transmisor de Banda Lateral Unica (J3E) :
+
+A) Oscilador de RF, Amplificador de micrófono, filtro, mezclador, amplificador lineal.
+B) Oscilador de RF, Modulador balanceado, Amplificador de micrófono, filtro, mezclador, amplificador  lineal.
+C) Amplificador de RF, Mezclador, Oscilador de RF, Filtro, Amplificador de FI, Limitador, Discriminador de frecuencia, amplificador de audio y parlante.
+D) Amplificador de RF, Mezclador, Oscilador de RF, Amplificador de FI, Detector, Amplificador de audio y  parlante.
+
+CORRECTA: B
+EXPLICACION:
+Transmisor **SSB (J3E)**: oscilador, **modulador balanceado**, audio, filtro, mezclador, lineal (B). La cadena de receptor (C, D) no corresponde.
+---
+
+PREGUNTA: 46 | El ancho de banda ocupado por una emisión J3E aproximadamente es:
+
+A) Aprox. 3 Khz.
+B) Aprox.   6 Khz.
+C) Aprox.  16 Khz.
+D) Aprox.  1,5  Khz
+
+CORRECTA: A
+EXPLICACION:
+Voz en **SSB (J3E)** ocupa aprox. **3 kHz** (A). 6 kHz (B) sería doble banda; 16 kHz (C) típico de FM ancha.
+---
+
+PREGUNTA: 47 | El ancho de banda de una emisión de F3E banda angosta, habitual en la banda de 2 mts. es:
+
+A) Aprox. 6 Khz.
+B) Aprox. 16 Khz.
+C) Aprox. 25 Khz.
+D) Aprox.  3 Khz.
+
+CORRECTA: B
+EXPLICACION:
+FM banda angosta en 2 m: ancho cercano a **16 kHz** (B). 3 kHz (A) es SSB; 1,5 kHz (D) demasiado estrecho para fonía FM.
+---
+
+PREGUNTA: 48 | En clase de emisión  F3E :
+
+A) La portadora varía su amplitud con la señal de micrófono.
+B) La señal de micrófono  hace variar la frecuencia de la portadora.
+C) La portadora no varía de frecuencia, varían los armónicos.
+E) Se transmite la portadora modulada en frecuencia con tres tonos.
+
+CORRECTA: B
+EXPLICACION:
+En **F3E (FM)** la **frecuencia de la portadora** varía con el mensaje (B). Variar amplitud (A) es AM; las demás no describen FM.
+---
+
+PREGUNTA: 49 | Disponemos de un transformador cuyo primario  es alimentado con 220 V c.a. y tiene 1100  Espiras. El secundario nos deberá  suministrar 15 V c.a., cuantas espiras deberá tener?
+
+A) 50 espiras.
+B) 60 espiras.
+C) 75 espiras.
+D) 85 espiras.
+
+CORRECTA: C
+EXPLICACION:
+Espiras secundarias: **N₂ = N₁ × V₂/V₁ = 1100 × (15/220) ≈ 75** (C).
+---
+
+PREGUNTA: 50 | En clase de emisión A1A:
+
+A) La portadora se modula con el micrófono.
+B) Se transmite portadora al ritmo que marca el manipulador.
+C) El manipulador corta la alimentación del amplificador lineal.
+D) Se transmiten tres tonos para modular en amplitud la portadora.
+
+CORRECTA: B
+EXPLICACION:
+**A1A** es telegrafía sin onda continua (CW): portadora encendida/apagada (B). J3E (C) es SSB; A3E (D) es AM con portadora.
+---
+
+PREGUNTA: 51 | En clase de emisión J3E :
+
+A) La portadora es modulada por el audio proveniente del amplificador de RF.
+B) La portadora es modulada por el audio proveniente del OFV.
+C) La portadora es modulada por el audio proveniente del amplificador de micrófono.
+D) La señal de micrófono hace variar la frecuencia de la portadora.
+
+CORRECTA: C
+EXPLICACION:
+**J3E** es **banda lateral única (SSB)** (C). A3E (D) lleva portadora completa; A1A (B) es CW.
+---
+
+PREGUNTA: 52 | En clase de emisión  A3E :
+
+A) La portadora es modulada en fase.
+B) La portadora es modulada en amplitud.
+C) La portadora es modulada por los armónicos.
+D) La señal de micrófono hace variar la frecuencia de la portadora.
+
+CORRECTA: B
+EXPLICACION:
+**A3E** es **amplitud modulada (AM)** con portadora (B). F3E (A) es FM; J3E (C) es SSB.
+---
+
+PREGUNTA: 53 | ¿Qué instrumento se utiliza para ver la forma de onda en un circuito eléctrico ?
+
+A) Amperímetro.
+B) Formametro.
+C) Osciloscopio.
+D) Ondámetro
+
+CORRECTA: C
+EXPLICACION:
+La **osciloscopio** (C) muestra forma de onda en el tiempo. Voltímetro (A) mide nivel; vatímetro (B) potencia; frecuencímetro (D) frecuencia.
+---
+
+PREGUNTA: 54 | ¿Qué instrumento se utiliza para medir la potencia de un transmisor ?
+
+A) Amperímetro.
+B) Potenciómetro.
+C) Vatímetro
+D) Medidor de ROE
+
+CORRECTA: C
+EXPLICACION:
+La **potencia del transmisor** se mide con **vatímetro** (C). Osciloscopio (A) muestra forma; multímetro (B) no es específico de potencia RF.
+---
+
+PREGUNTA: 55 | Para fonía el ancho del mensaje transmitido es:
+
+A) 50 hz.
+B) 200 hz.
+C) 3.000 hz.
+D) 20  Khz.
+
+CORRECTA: C
+EXPLICACION:
+Fonía humana útil suele ocupar hasta unos **3 kHz** (C). 300 Hz (A) es solo graves; 16 kHz (D) es ancho de canal FM.
+---
+
+PREGUNTA: 56 | ¿Qué ventaja tiene una señal de BLU (SSB) con respecto a una señal AM?
+
+A) No se pierde inteligibilidad para pequeños corrimientos en la sintonía.
+B) La cantidad de sonido es superior.
+C) La portadora ayuda a tener un mayor alcance
+D) El ancho de banda es la mitad y por lo tanto se hace un mejor aprovechamiento del espectro radioeléctrico.
+
+CORRECTA: D
+EXPLICACION:
+**SSB** usa menos ancho de banda y potencia que **AM** al no llevar portadora completa (D). AM (A) es más ancha y ineficiente en potencia.
+---
+
+PREGUNTA: 57 | ¿Con qué instrumento se mide la frecuencia ?
+
+A) Amperímetro.
+B) Vatímetro
+C) Frecuencímetro.
+D) Potenciómetro
+
+CORRECTA: C
+EXPLICACION:
+La **frecuencia** se mide con **frecuencímetro** o contador (C). Osciloscopio (A) ve forma; vatímetro (B) potencia.
+---
+
+PREGUNTA: 58 | El ancho de banda de una señal de BLU (SSB) es:
+
+A) La mitad de la correspondiente al mensaje.
+B) El doble de la correspondiente al mensaje.
+C) Igual de la correspondiente del mensaje.
+D) Igual al valor de la portadora.
+
+CORRECTA: C
+EXPLICACION:
+Ancho típico de **BLU/SSB** para voz: **≈ 3 kHz** (C). 16 kHz (D) es FM; 6 kHz (B) sería doble banda.
+---
+
+PREGUNTA: 59 | Cuándo se aplica una tensión de 150 V a un circuito, la corriente medida es de 2,5 A ¿Cuál es la resistencia del circuito ?
+
+A) 50 Ω.
+B) 90 Ω.
+C) 375 Ω.
+D) ninguna  es correcta.
+
+CORRECTA: D
+EXPLICACION:
+**R = V/I = 150/2,5 = 60 Ω** (D).
+---
+
+PREGUNTA: 60 | ¿Qué intensidad de corriente circula por una resistencia de 5000 Ω si se le aplica 250 V?
+
+A) 0,90 A
+B) 10 A
+C) 0,05 A
+D) 0,5 A
+
+CORRECTA: C
+EXPLICACION:
+**I = V/R = 250/5000 = 0,05 A = 50 mA** (C).
+---
+
+PREGUNTA: 61 | Si se conectan en paralelo una resistencia  de 500 Ω con otra de 1200 Ω. Cuál es la resistencia total del circuito ?
+
+A) 353 Ω.
+B) 500 Ω
+C) 700 Ω.
+D) 1700 Ω
+
+CORRECTA: A
+EXPLICACION:
+En paralelo: **1/Rt = 1/500 + 1/1200 ≈ 0,00283 → Rt ≈ 353 Ω** (A). Sumar resistencias (D) sería serie.
+---
+
+PREGUNTA: 62 | La corriente que circula por una resistencia de 20 kΩ es de 150 mA. ¿Cuál es la  caída de tensión que se provoca en ella ?
+
+A) 2500 V
+B) 3000 V
+C) 000 V
+D) 13333 V
+
+CORRECTA: B
+EXPLICACION:
+**V = I × R = 0,15 A × 20 000 Ω = 3000 V** (B).
+---
+
+PREGUNTA: 63 | ¿Qué elemento se utiliza para adaptar  una antena dipolo con una línea de alimentación  desbalanceada ?
+
+A) Transistor.
+B) Diodo.
+C) Balún.
+D) Transmatch
+
+CORRECTA: C
+EXPLICACION:
+El **balún** (C) adapta antena balanceada (dipolo) a línea coaxial desbalanceada. Transmatch (D) ajusta impedancia pero no hace balanceo; transistor/diodo (A, B) no.
+---
+
+PREGUNTA: 64 | Un dipolo de media onda, ¿cómo irradia ?
+
+A) En forma unidireccional.
+B) En forma omnidireccional.
+C) En forma bidireccional.
+D) En forma isotrópica.
+
+CORRECTA: C
+EXPLICACION:
+Dipolo de **media onda** irradia **bidireccionalmente** en el plano perpendicular al hilo (C). Omnidireccional (B) es la vertical; unidireccional (A) es Yagui.
+---
+
+PREGUNTA: 65 | ¿Cuántos elementos se necesitan (como mínimo) para construir una antena del tipo Yagui ?
+
+A) 1
+B) 2
+C) 3
+D) 4
+
+CORRECTA: B
+EXPLICACION:
+Yagui mínimo: **activo + director o reflector = 2 elementos** (B). Tres elementos (C) es el diseño clásico de 3, pero el mínimo teórico es 2.
+---
+
+PREGUNTA: 66 | ¿Qué función cumple un oscilador?
+
+A) Elimina alguna parte del contenido espectral de una señal, obteniéndose una nueva señal que es una aproximación de la original.
+B) Decrementa la amplitud de una señal manteniendo su forma de onda.
+C) Convierte una señal electromagnética  en eléctrica.
+D) Genera internamente señales eléctricas y tiene una salida pero ninguna entrada.
+
+CORRECTA: D
+EXPLICACION:
+Un **oscilador** genera señal periódica sin entrada externa de señal (D). Filtrar (A,C) o convertir antena (B) son otras etapas.
+---
+
+PREGUNTA: 67 | ¿Cuál es la longitud de onda correspondiente a una frecuencia de 3657 Khz ?
+
+A) 154,46 m
+B) 94,57 m
+C) 82,03 m
+D) 75,01 m
+
+CORRECTA: C
+EXPLICACION:
+**λ ≈ 300/f(MHz) = 300/3,657 ≈ 82 m** (C).
+---
+
+PREGUNTA: 68 | ¿Cuál es la longitud de una antena dipolo de 1/2 onda para operar  en 28950 Khz.?
+
+A) 5,34 m
+B) 6,23 m
+C) 4,9 m
+D) 9,84 m
+
+CORRECTA: C
+EXPLICACION:
+Dipolo λ/2: **L ≈ 143/f(MHz) = 143/28,95 ≈ 4,9 m** (C).
+---
+
+PREGUNTA: 69 | ¿Cuál es la longitud de una de las ramas del dipolo de 1/2  onda para la frecuencia de 7043 Khz ?
+
+A) 10,11 m
+B) 9,23 m
+C) 12,56 m
+D) 20,22 m
+
+CORRECTA: A
+EXPLICACION:
+Cada rama del dipolo λ/2 mide **λ/4**; con f = 7043 kHz, λ ≈ 42,6 m → rama ≈ **10,1 m** (A).
+---
+
+PREGUNTA: 70 | Un filtro :
+
+A) Genera internamente señales eléctricas, tiene una salida pero ninguna entrada.
+B) Decrementa la amplitud de una señal manteniendo su forma de onda.
+C) Elimina alguna parte del contenido  espectral de una señal, obteniéndose una nueva señal  que es una aproximación de la original.
+D) Convierte una señal electromagnética en eléctrica.
+
+CORRECTA: C
+EXPLICACION:
+Un **filtro** atenúa bandas no deseadas del espectro (C). Oscilar (A) es oscilador; atenuar todo sin selectividad (B) es atenuador; antena (D) convierte.
+---
+
+PREGUNTA: 71 | Una antena vertical de 1/4 de onda para la frecuencia de 146 MHz. deberá tener una longitud aproximada de:
+
+A) 48,8 cm
+B) 24,4 cm
+C) 97,7 cm
+D) 2 mts
+
+CORRECTA: A
+EXPLICACION:
+λ/4 en 146 MHz: **300/146/4 ≈ 0,51 m ≈ 49 cm** (A).
+---
+
+PREGUNTA: 72 | ¿Cómo irradia una antena vertical ?
+
+A) Unidireccionalmente.
+B) Omnidireccionalmente.
+C) Bidireccionalmente
+D) Isotrópicamente
+
+CORRECTA: B
+EXPLICACION:
+Antena **vertical** de λ/4 irradia **omnidireccional** en azimut (B).
+---
+
+PREGUNTA: 73 | ¿Cómo irradia una antena común,  tipo Yagui de 3 elementos ?
+
+A) Omnidireccionalmente.
+B) Direccionalmente.
+C) Isotrópicamente.
+D) Con polarización circular.
+
+CORRECTA: B
+EXPLICACION:
+Yagui de 3 elementos irradia **direccionalmente** (B).
+---
+
+PREGUNTA: 74 | Una antena direccional de 3 elementos tipo Yagui,  bien construida y optimizada para la banda de VHF.  ¿Qué  ganancia tiene (respecto antena isotrópica) ?
+
+A) Aproximadamente de 3 a 5 dB.
+B) Aproximadamente de 6 a 8 dB
+C) Aproximadamente de 8 a 10 dB.
+D) Aproximadamente de 9a 11dB
+
+CORRECTA: B
+EXPLICACION:
+Yagui VHF bien hecho suele dar **≈ 6–8 dBi** (B).
+---
+
+PREGUNTA: 75 | Un amplificador:
+
+A) Incrementa la amplitud de una señal manteniendo su forma de onda.
+B) Elimina alguna parte del contenido espectral de una señal, obteniéndose una nueva señal que es una aproximación de la original.
+C) Genera internamente señales eléctricas y tiene una salida pero ninguna entrada.
+D) Convierte una señal eléctrica en electromagnética.
+
+CORRECTA: A
+EXPLICACION:
+Un **amplificador** aumenta amplitud conservando la forma de onda (A).
+---
+
+PREGUNTA: 76 | El cable coaxil RG-58U tiene una impedancia característica de:
+
+A) 50 Ω.
+B) 75 Ω.
+C) 300 Ω.
+D) 600 Ω.
+
+CORRECTA: A
+EXPLICACION:
+**RG-58** tiene impedancia característica **50 Ω** (A). 75 Ω (B) es RG-59/TV.
+---
+
+PREGUNTA: 77 | Se desea enviar como mensaje un tono de 3 Khz., en una señal de BLU banda inferior  (BLI) cuya frecuencia es 3.500 Khz, la frecuencia de la señal modulada estará dada por:
+
+A) Una componente a 3.497 Khz, una componente a 3.500 Khz y una componente a 3.503 Khz.
+B) Una componente a 3.497 Khz y una componente a 3.500 Khz.
+C) Una componente a 3.497 Khz.
+D) Una componente a 3.500 Khz.
+
+CORRECTA: C
+EXPLICACION:
+En **BLI/LSB** con portadora suprimida a 3500 kHz y tono de 3 kHz, la banda lateral inferior queda en **3500 − 3 = 3497 kHz** (C). No aparece la portadora ni el lado superior (A, B, D).
+---
+
+PREGUNTA: 78 | El cable coaxil RG-8-U y el RG-213U tienen una impedancia característica de:
+
+A) Aproximadamente 50 Ω.
+B) Aproximadamente 75 Ω.
+C) Aproximadamente 300 Ω.
+D) Aproximadamente 600 Ω.
+
+CORRECTA: A
+EXPLICACION:
+**RG-8 y RG-213** son líneas de **50 Ω** (A).
+---
+
+PREGUNTA: 79 | Un transmisor en 146 Mhz. alimenta en un extremo una línea coaxil RG-58-U de 100 mts. y  en el otro extremo se conecta una antena. Colocándose vatímetros en ambas puntas, ¿qué se verifica ?
+
+A) La potencia que llega a la antena es igual a la que sale del transmisor.
+B) La potencia que llega a la antena es  menor que la que sale del transmisor.
+C) La potencia que llega a la antena es mayor que la que sale del transmisor.
+D) La potencia que llega a la antena es inversamente proporcional a la que sale del transmisor.
+
+CORRECTA: B
+EXPLICACION:
+En 100 m de RG-58 a 146 MHz hay **atenuación**: menos potencia en antena que en transmisor (B).
+---
+
+PREGUNTA: 80 | Cuando se recepcionan dos señales de BLU (SSB) que están en una misma frecuencia:
+
+A) Se cancelan entre sí y se escucha solamente ruido.
+B) Se interferirán y se escuchara un sonido inteligible.
+C) Se escucharan las dos, de acuerdo a la intensidad que se reciben.
+D) La que llegue con mayor intensidad tapara a la otra
+
+CORRECTA: C
+EXPLICACION:
+Dos SSB en la misma frecuencia suenan **con voz distorsionada/ininteligible** por superposición de bandas laterales (C).
+---
+
+PREGUNTA: 81 | ¿Qué permite realizar el sintonizador de antena (transmatch) ?
+
+A) Amplificar la potencia.
+B) Adaptar impedancias entre transmisor y línea de alimentación.
+C) Adaptar impedancias entre línea de alimentación y antena.
+D) Enfasar dos antenas direccionales.
+
+CORRECTA: B
+EXPLICACION:
+El **transmatch/sintonizador** adapta impedancia antena–línea–equipo (B).
+---
+
+PREGUNTA: 82 | ¿A qué se le llama I.T.V .?
+
+A) Interferencia de chispas de automotor.
+B) interferencia a teléfonos.
+C) Interferencia a televisores.
+D) Interferencia total en VHF
+
+CORRECTA: C
+EXPLICACION:
+**ITV**: Identificación de Transmisión de Voz (C).
+---
+
+PREGUNTA: 83 | ¿Qué antena tiene mas ganancia en estaciones VHF móviles ?
+
+A) 1/4 de onda
+B) 5/8 de onda.
+C) Cola de chancho (0 dB)
+D) 1,5 dBi
+
+CORRECTA: B
+EXPLICACION:
+En móvil VHF suele ganar una **antena λ/4** sobre el techo frente a dipolo pequeño (B).
+---
+
+PREGUNTA: 84 | ¿Cuál es habitualmente, la impedancia de salida de los transceptores que se comercializan para uso de radioaficionados ?
+
+A) 75 Ω.
+B) 300 Ω.
+C) 50 Ω.
+D) 35 Ω.
+
+CORRECTA: C
+EXPLICACION:
+Salida típica de transceptores ham: **50 Ω** (C).
+---
+
+PREGUNTA: 85 | Si por error se selecciona la BLI (SLB) en BLU (SSB) para recibir una señal de banda superior:
+
+A) Se escuchará una señal con tonalidad más aguda.
+B) Se escuchara una señal ininteligible.
+C) Se podrá escuchar la señal sin dificultad en caso de estar el receptor en la frecuencia correcta, caso contrario se escuchará la voz distorsionada.
+D) Se escuchará una señal con tonalidad más grave.
+
+CORRECTA: B
+EXPLICACION:
+Recibir USB con selector en LSB produce **voz “Donald Duck”/invertida** (B).
+---
+
+PREGUNTA: 86 | ¿Cuál es la impedancia en el centro de una antena dipolo de 1/2 longitud de onda, tipo “V” invertida con sus ramas a 90º ?
+
+A) 75 Ω.
+B) 52 Ω.
+C) 35 Ω.
+D) 125 Ω.
+
+CORRECTA: B
+EXPLICACION:
+Dipolo “V” invertida 90° en centro suele presentar **≈ 75 Ω** (B).
+---
+
+PREGUNTA: 87 | La frecuencia de trabajo de un transmisor es de 21.000 Khz. ¿Cuál es su frecuencia en MHz.?
+
+A) 0,21 MHz.
+B) 21 MHz.
+C) 210 MHz
+D) 2,1 MHz
+
+CORRECTA: B
+EXPLICACION:
+**21 000 kHz = 21 MHz** (B).
+---
+
+PREGUNTA: 88 | Un resistor variable es llamado:
+
+A) Potenciómetro
+B) Capacitor.
+C) Termistor.
+D) Variac
+
+CORRECTA: A
+EXPLICACION:
+Resistor ajustable: **potenciómetro/reóstato** (A).
+---
+
+PREGUNTA: 89 | En una antena direccional tipo Yagui de tres elementos,  ¿cómo se denominan sus elementos ?
+
+A) Director, Balún, Excitado.
+B) Director, Excitado, Reflector.
+C) Director, Excitado, Pasivo.
+D) Director, Activo, Pasivo.
+
+CORRECTA: B
+EXPLICACION:
+Yagui 3 elem.: **reflector, activo, director** (B).
+---
+
+PREGUNTA: 90 | ¿Cuál es la fórmula aproximada de cálculo de una antena vertical  de 1/4 de longitud de onda ?
+
+A) 142,5/Frecuencia (MHz)
+B) 72/Frecuencia (MHz)
+C) 142,5/Velocidad de la luz.
+D) Frecuencia (MHz) / 72
+
+CORRECTA: B
+EXPLICACION:
+Vertical λ/4: **L ≈ 75/f(MHz)** metros (regla práctica) (B).
+---
+
+PREGUNTA: 91 | La propagación de las ondas de radio por reflexión  ionosférica en bandas de HF está influida principalmente por:
+
+A) El ciclo de manchas solares.
+B) La meteorología en el trayecto de la comunicación.
+C) Ninguna de las opciones a) ó b).
+D) La posición planetaria
+
+CORRECTA: A
+EXPLICACION:
+HF por ionósfera depende de **actividad solar y capas D/E/F** (A).
+---
+
+PREGUNTA: 92 | ¿A qué se denomina polarización de una onda ?
+
+A) Al componente de iones positivos y negativos de la misma
+B) A que la misma llega a los polos
+C) A la posición relativa (vertical u horizontal) de su campo electromagnético
+D) A la polaridad (positiva ó negativa) de la señal aplicada
+
+CORRECTA: C
+EXPLICACION:
+**Polarización**: orientación del campo eléctrico de la onda (C).
+---
+
+PREGUNTA: 93 | La densidad, composición y altura de las capas ionosféricas:
+
+A) Cambia con la luna y el estado meteorológico.
+B) Cambia con el ciclo solar, la época del año, la hora y la latitud del lugar.
+C) Es permanente y no cambia.
+D) Cambia en relación a la posición planetaria
+
+CORRECTA: B
+EXPLICACION:
+Densidad y altura de capas ionosféricas **varían con hora y ciclo solar** (B).
+---
+
+PREGUNTA: 94 | La banda de 80 mts ofrece razonables posibilidades de comunicarse con la Antártida:
+
+A) En invierno y a la media noche.
+B) En cualquier época del año al mediodía.
+C) Las respuestas a) y b) son correctas.
+D) La banda de 80 mts. no ofrece ninguna posibilidad de comunicarse con la Antártida.
+
+CORRECTA: A
+EXPLICACION:
+80 m permite contactos **en horario nocturno/crítico** hacia lejanos como Antártida según condiciones (A del banco).
+---
+
+PREGUNTA: 95 | ¿Qué ventajas ofrece el oscilador a cristal de cuarzo sobre otro con inductancia y condensador?
+
+A) Que es un circuito más sencillo
+B) Que el oscilador de cristal está  libre de armónicos y el otro no
+C) Que su estabilidad de frecuencia es mucho mayor
+D) Que es mas económico.
+
+CORRECTA: C
+EXPLICACION:
+Oscilador a **cristal** es mucho más **estable en frecuencia** que LC (C).
+---
+
+PREGUNTA: 96 | ¿Cómo se propagan usualmente las señales de VHF?
+
+A) Se curvan en la ionosfera.
+B) Se mueven en círculos.
+C) Viajan en línea recta.
+D) Viajan en ángulos rectos
+
+CORRECTA: C
+EXPLICACION:
+VHF/UHF en FM local se propagan chiefly por **línea de vista** (C).
+---
+
+PREGUNTA: 97 | ¿Cómo es la frecuencia de una armónica respecto a la frecuencia fundamental ?
+
+A) Es apenas algo más alta.
+B) Es apenas algo más baja.
+C) Es exactamente un múltiplo.
+D) Ninguna de las opciones indicadas
+
+CORRECTA: C
+EXPLICACION:
+Una **armónica** tiene frecuencia **múltiplo entero** de la fundamental (C).
+---
+
+PREGUNTA: 98 | Si los extremos de un dipolo de media onda horizontal señalan al Este y al Oeste, ¿en qué dirección irradia la antena ?
+
+A) Fundamentalmente de Norte a Sur.
+B) Fundamentalmente de Este a Oeste.
+C) Fundamentalmente de arriba hacia abajo.
+D) En todas direcciones por ser omnidireccional
+
+CORRECTA: A
+EXPLICACION:
+Dipolo horizontal E–O irradia máximo **Norte–Sur** (perpendicular al hilo) (A).
+---
+
+PREGUNTA: 99 | ¿Qué elemento se utiliza para irradiar energía ?
+
+A) Líneas de transmisión.
+B) Antena.
+C) Transmisores.
+D) Amplificadores de RF.
+
+CORRECTA: B
+EXPLICACION:
+Elemento que **irradia** energía: la **antena** (B).
+---
+
+PREGUNTA: 100 | Un transceptor es un equipo:
+
+A) Transmisor especifico.
+B) Que reúne las funciones de transmisor y receptor.
+C) Receptor especifico.
+D) Receptor bibanda
+
+CORRECTA: B
+EXPLICACION:
+**Transceptor** combina transmisor y receptor (B).
+---
+
+PREGUNTA: 101 | El  PTT de un equipo es:
+
+A) La etapa de transmisión.
+B) El interruptor que se debe presionar para recibir.
+C) El interruptor que se debe presionar para transmitir.
+D) La fuente de alimentación (Power To Transmiter)
+
+CORRECTA: C
+EXPLICACION:
+**PTT** (Push To Talk) activa transmisión (C).
+---
+
+PREGUNTA: 102 | La antena puede ser desconectada del transmisor y operar en vacío:
+
+A) Cuando se quiere hacer comunicados de corta distancia.
+B) Cuando el transmisor esta en clase C.
+C) Nunca.
+D) Cuando se opera en VHF ó UHF
+
+CORRECTA: C
+EXPLICACION:
+Transmitir **sin antena** puede dañar la etapa de potencia por alta ROE/reflexión (C).
+---
+
+PREGUNTA: 103 | En un receptor, ¿qué  etapa  está inmediatamente después de la antena ?
+
+A) Mezclador.
+B) Amplificador de FI.
+C) Amplificador de RF.
+D) Amplificador de AF
+
+CORRECTA: C
+EXPLICACION:
+Tras antena viene normalmente **preamplificador de RF** (C).
+---
+
+PREGUNTA: 104 | En un transformador reductor, el número de vueltas del primario es:
+
+A) Menor que el secundario
+B) Mayor que el secundario
+C) Igual que las del secundario.
+D) La mitad que las del secundario.
+
+CORRECTA: B
+EXPLICACION:
+En transformador **reductor**, el primario tiene **más vueltas** que el secundario (B).
+---
+
+PREGUNTA: 105 | Una señal de BLS (USB) ubicada en los 3.750 Khz. , ocupa el sector de frecuencias comprendido entre:
+
+A) 3.747 y 3.750 Khz.
+B) 3.750 y 3.753 Khz.
+C) 3.747 y 3.753 Khz.
+D) 3.748 y 3.752 Khz.
+
+CORRECTA: B
+EXPLICACION:
+USB en 3750 kHz ocupa banda **por encima** de la portadora (frecuencias mayores) según clave (B).
+---
+
+PREGUNTA: 106 | ¿Qué ventaja tiene una señal de BLS (USB) con respecto a una señal BLI (LSB)?
+
+A) No pierde inteligibilidad para pequeños corrimientos en la sintonía.
+B) Tiene mucha mayor inmunidad al ruido.
+C) No tiene ninguna ventaja ni desventaja, solo presentan diferencias técnicas en el transmisor y el receptor.
+D) Es más fácil obtener el mensaje a partir de la señal modulada.
+
+CORRECTA: C
+EXPLICACION:
+USB vs LSB: en bandas altas a veces se prefiere USB por interferencia de estaciones (C del banco).
+---
+
+PREGUNTA: 107 | ¿Qué significa la sigla ALC ?
+
+A) Control automático de nivel.
+B) Control anual de nivel.
+C) Control manual de audio.
+D) Amplificador lineal controlado.
+
+CORRECTA: A
+EXPLICACION:
+**ALC**: Automatic Level Control de potencia (A).
+---
+
+PREGUNTA: 108 | ¿Qué relación existe entre la frecuencia y su correspondiente longitud de onda ?
+
+A) Son directamente proporcionales, al aumentar una la otra también aumenta.
+B) Son inversamente proporcionales, al aumentar una la otra disminuye.
+C) La frecuencia es directamente proporcional al cuadrado de la longitud de onda.
+D) La frecuencia es directamente proporcional a la mitad de la longitud de onda.
+
+CORRECTA: B
+EXPLICACION:
+**Frecuencia y longitud de onda son inversamente proporcionales**: λ = v/f (B).
+---
+
+PREGUNTA: 109 | ¿Qué polarización se utiliza habitualmente para la comunicación por repetidoras en  la banda de 2 m ?
+
+A) Circular.
+B) Vertical.
+C) Horizontal.
+D) Oblicua a 45°
+
+CORRECTA: B
+EXPLICACION:
+Repetidoras 2 m suelen usar polarización **vertical** (B).
+---
+
+PREGUNTA: 110 | ¿Qué polarización de antena se utiliza habitualmente para la comunicación de dos estaciones en la banda de VHF y UHF para el modo  Banda Lateral Unica ?
+
+A) Circular.
+B) Vertical.
+C) Horizontal.
+D) Oblicua a 45°
+
+CORRECTA: C
+EXPLICACION:
+SSB en VHF entre estaciones fijas suele usarse **horizontal** (C).
+---
+
+PREGUNTA: 111 | ¿Qué significa la sigla R.O.E. ?
+
+A) Relación de polarización Oblicua Espacial.
+B) Red Observadores Espaciales.
+C) Relación de Ondas Especiales.
+D) Relación de Ondas Estacionarias.
+
+CORRECTA: D
+EXPLICACION:
+**ROE**: Relación de Ondas Estacionarias (D).
+---
+
+PREGUNTA: 112 | ¿Con qué instrumento medimos la R.O.E. ?
+
+A) Frecuencímetro.
+B) Amperímetro.
+C) Medidor de ondas estacionarias.
+D) Osciloscopio
+
+CORRECTA: C
+EXPLICACION:
+La **ROE** se mide con **puente o ROE-metro** (C).
+---
+
+PREGUNTA: 113 | Si se duplica la frecuencia de la corriente que atraviesa una inductancia , ¿qué sucede con la reactancia ?
+
+A) Se duplica.
+B) Se reduce a la mitad.
+C) Se cuadriplica.
+D) Queda igual.
+
+CORRECTA: A
+EXPLICACION:
+Reactancia inductiva **X_L = 2πfL**; al **duplicar f** se duplica X_L (A).
+---
+
+PREGUNTA: 114 | Desde la antena, en un receptor, ¿cuál es la etapa que antecede al amplificador de F.I.?
+
+A) Amplificador de R.F.
+B) Mezclador.
+C) Detector.
+D) Amplificador de AF
+
+CORRECTA: B
+EXPLICACION:
+Antes del amplificador de FI está el **mezclador** (con oscilador local) (B).
+---
+
+PREGUNTA: 115 | Desde la antena, en un receptor, ¿cuál es la etapa que está inmediatamente después del detector ?
+
+A) Amplificador de R.F.
+B) Amplificador de F.I.
+C) Amplificador de audio.
+D) Mezclador
+
+CORRECTA: C
+EXPLICACION:
+Después del detector sigue el **amplificador de audio** (C).
+---
+
+PREGUNTA: 116 | Desde la antena, en un receptor, ¿cuál es la etapa que está inmediatamente antes de la etapa  detectora ?
+
+A) Amplificador de R.F.
+B) Amplificador de F.I.
+C) Amplificador de AF.
+D) Ninguna de las nombradas.
+
+CORRECTA: B
+EXPLICACION:
+Inmediatamente **antes del detector** está el **amplificador de FI** (B).
+---
+
+PREGUNTA: 117 | ¿Cuál es la velocidad de las ondas electromagnéticas  en el espacio libre?
+
+A) 3.000.000 Km./seg.
+B) 300.000 Km./seg.
+C) 300/Frecuencia (Mhz.).
+D) 142,5/Frecuencia (MHz).
+
+CORRECTA: B
+EXPLICACION:
+Velocidad en el vacío **≈ 3×10⁸ m/s** (300 000 km/s) (B).
+---
+
+PREGUNTA: 118 | Los coaxiles son líneas de transmisión:
+
+A) Balanceadas.
+B) Desbalanceadas.
+C) De muy alta impedancia
+D) Para conectar en el punto de máxima tensión de la antena
+
+CORRECTA: B
+EXPLICACION:
+Coaxiales son líneas con **dos conductores** (vivo y malla) (B).
+---
+
+PREGUNTA: 119 | Las líneas abiertas son líneas de transmisión:
+
+A) Balanceadas.
+B) Desbalanceadas.
+C) De muy baja impedancia.
+D) Para conectar en el punto de máxima corriente de la antena.
+
+CORRECTA: A
+EXPLICACION:
+Líneas abiertas: **dos conductores paralelos** sin blindaje (A).
+---
+
+PREGUNTA: 120 | ¿Cómo están formadas las ondas de radio ?.
+
+A) Por campos eléctricos.
+B) Por campos magnéticos.
+C) Por campos eléctricos y magnéticos.
+D) Por campos electroestáticos.
+
+CORRECTA: C
+EXPLICACION:
+Ondas de radio son **campos eléctrico y magnético** perpendiculares (C).
+---
+
+PREGUNTA: 121 | Si la señal de una estación en VHF llega muy débil, al límite del umbral del Squelch, ¿qué señal le daría?
+
+A) Busy
+B) S-1
+C) S-9
+D) S-5
+
+CORRECTA: B
+EXPLICACION:
+Señal muy débil en VHF: reporte **S-1** (B). S-9 (C) es fuerte.
+---
+
+PREGUNTA: 122 | Los “Handies”  bibanda utilizados por los radioaficionados,  ¿en qué clase de emisión emiten ?
+
+A) F3E
+B) A3E
+C) J3E
+D) J2D
+
+CORRECTA: A
+EXPLICACION:
+Handies FM emiten **F3E** (A).
+---
+
+PREGUNTA: 123 | Si una estación en la banda de 80 metros llega con muy buena señal, ¿qué señal le daría ?
+
+A) S-3 + 9 dB
+B) S-9 + 20 dB
+C) S-20 + 9 dB
+D) S-3
+
+CORRECTA: B
+EXPLICACION:
+Señal muy buena en 80 m: **S-9 + 20 dB** (B).
+---
+
+PREGUNTA: 124 | En el símbolo de la batería, la línea mas corta , ¿qué terminal indica ?
+
+A) Positivo.
+B) Negativo.
+C) Neutro.
+D) Fase
+
+CORRECTA: B
+EXPLICACION:
+En símbolo de batería, línea **corta = negativo** (B).
+---
+
+PREGUNTA: 125 | Se dispone de cuatro resistencias (R1= 50 Ω, R2= 10 Ω R3= 120 Ω y R4= 4700 Ω conectadas en paralelo a una fuente de alimentación de 12 Volts. ¿Qué corriente circulará  por R2 ?
+
+A) 1200 mA.
+B) 120 mA.
+C) 12 mA.
+D) 1,2 mA.
+
+CORRECTA: A
+EXPLICACION:
+Paralelo 12 V en R2=10 Ω: **I = 12/10 = 1,2 A = 1200 mA** (A).
+---
+
+PREGUNTA: 126 | Se dispone de cuatro resistencias (R1= 50 Ω, R2= 10 Ω, R3= 120 Ω y R4= 4700 Ω) conectadas  en  paralelo  a una  fuente de alimentación de 12 Volts. ¿Qué corriente circulará  por R1 ?
+
+A) 10 mA
+B) 240 mA
+C) 1000 mA
+D) 24 mA
+
+CORRECTA: B
+EXPLICACION:
+Paralelo 12 V en R1=50 Ω: **I = 12/50 = 0,24 A = 240 mA** (B).
+---
+
+PREGUNTA: 127 | ¿En qué posición un dipolo de 80 m, transmite mas intensamente hacia un lado ?
+
+A) “V” invertida.
+B) Inclinado.
+C) Horizontal
+D) Vertical.
+
+CORRECTA: B
+EXPLICACION:
+Dipolo 80 m **inclinado** concentra radiación hacia un lado (B).
+---
+
+PREGUNTA: 128 | En un receptor, el amplificador de audio frecuencia:
+
+A) Amplifica la señal modulada para enviarla a la antena.
+B) Extrae el mensaje a partir de la señal demodulada.
+C) Modifica la amplitud o la frecuencia de la portadora pura, conforme a la señal del mensaje .
+D) Amplifica la señal demodulada.
+
+CORRECTA: D
+EXPLICACION:
+Amplificador de **audio** lleva la señal al parlante (D).
+---
+
+PREGUNTA: 129 | Se dispone de cuatro resistencias (R1= 50 Ω, R2= 10 Ω, R3= 120 Ω y R4= 4700 Ω) conectadas en  paralelo  a una  fuente de alimentación de 12 Volts. ¿Qué corriente circulará  por R4 ?
+
+A) 2,55 mA.
+B) 25,53 mA.
+C) 255,31mA.
+D) 2,55 A.
+
+CORRECTA: A
+EXPLICACION:
+Paralelo 12 V en R4=4700 Ω: **I ≈ 12/4700 ≈ 2,55 mA** (A).
+---
+
+PREGUNTA: 130 | En un transceptor, por medio del comando RF GAIN
+
+A) Se controla la ganancia de la sección de radio frecuencia del transmisor.
+B) Se controla la ganancia de la sección de radio frecuencia del receptor.
+C) Se controla la ganancia de la sección de audio frecuencia del transmisor.
+D) Se controla la ganancia de la sección de audio frecuencia del receptor.
+
+CORRECTA: B
+EXPLICACION:
+**RF GAIN** controla ganancia de radiofrecuencia (B).
+---
+
+PREGUNTA: 131 | Las líneas abiertas tienen:
+
+A) Menor perdida que las líneas coaxiles.
+B) Igual perdida que las líneas coaxiles.
+C) Mayor pérdida que las líneas coaxiles.
+D) Tiene el doble de pérdida que las líneas coaxiles.
+
+CORRECTA: A
+EXPLICACION:
+Líneas abiertas tienen **pérdidas mayores** que coaxial en muchos casos (A del banco).
+---
+
+PREGUNTA: 132 | ¿Cuál es la constante práctica que se utiliza para el cálculo de antenas dipolos de 1/2 longitud de onda  según la formula  Longitud = K/f (MHz) ?
+
+A) K=72
+B) K=132,5
+C) K=142,5
+D) K=300
+
+CORRECTA: C
+EXPLICACION:
+Constante práctica dipolo: **K ≈ 143** m·MHz en L = K/f (C).
+---
+
+PREGUNTA: 133 | En un transceptor,  por medio del comando AF GAIN:
+
+A) Se controla la ganancia de la sección de audio frecuencia del transmisor.
+B) Se controla la ganancia de la sección de audio frecuencia del receptor.
+C) Se controla la ganancia de la sección de radio frecuencia del transmisor.
+D) Se controla la ganancia de la sección de radio frecuencia del receptor.
+
+CORRECTA: B
+EXPLICACION:
+**AF GAIN** controla volumen de audio (B).
+---
+
+PREGUNTA: 134 | En un transceptor, por medio del comando SQUELCH:
+
+A) Se atenúa el ruido de las estaciones que llegan con señales débiles.
+B) Se atenúa el ruido de las estaciones que llegan con señales fuertes.
+C) Se silencia el audio cuando a la entrada del receptor no se detecta señal en la frecuencia de trabajo.
+D) Aumenta la ganancia del receptor para estaciones débiles y la disminuye para estaciones fuertes.
+
+CORRECTA: C
+EXPLICACION:
+**SQUELCH** silencia ruido sin señal (C).
+---
+
+PREGUNTA: 135 | En un transceptor, por medio del comando MODE:
+
+A) Se selecciona los modo de operación AM, BLU (SSB), BLU (LSB), CW y FM.
+B) Se selecciona la frecuencia de operación de acuerdo a las memorias programadas.
+C) Se controla la amplitud de la portadora a transmitir en AM, BLU (SSB), BLU (LSB) y FM.
+D) Se selecciona la banda de operación.
+
+CORRECTA: A
+EXPLICACION:
+**MODE** selecciona AM/FM/SSB/CW (A).
+---
+
+PREGUNTA: 136 | ¿A qué se llama amplificador lineal ?
+
+A) A la etapa que amplifica una fuente de alimentación.
+B) A la etapa que amplifica la potencia de RF de un transmisor.
+C) A la etapa que  opera únicamente con componentes lineales
+D) A la etapa que multiplica “n” veces la tensión domiciliaria.
+
+CORRECTA: B
+EXPLICACION:
+**Amplificador lineal** amplifica señal ya modulada sin distorsionarla (B).
+---
+
+PREGUNTA: 137 | ¿Qué simboliza la “flecha” en un transistor tipo PNP ?
+
+A) La flecha es el colector y apunta hacia adentro del círculo.
+B) La flecha es la base y apunta hacia adentro del círculo.
+C) La flecha es el emisor  y apunta hacia adentro del círculo.
+D) La flecha es el colector y apunta hacia fuera del círculo.
+
+CORRECTA: C
+EXPLICACION:
+Flecha en **PNP** indica sentido de corriente de emisor (hacia el transistor) (C).
+---
+
+PREGUNTA: 138 | ¿Cuál es la longitud de onda correspondiente a una frecuencia de 50,050 MHz ?
+
+A) 6,85 m
+B) 5,99 m
+C) 6,10 m
+D) 7,98 m
+
+CORRECTA: B
+EXPLICACION:
+λ = 300/50,05 ≈ **5,99 m** (B).
+---
+
+PREGUNTA: 139 | ¿Cuál es la longitud de onda correspondiente a una frecuencia de 430,130 MHz ?
+
+A) 0,662 m
+B) 0,595 m
+C) 0,697 m
+D) 0,98 m
+
+CORRECTA: C
+EXPLICACION:
+λ = 300/430,13 ≈ **0,70 m** (C).
+---
+
+PREGUNTA: 140 | ¿Cuál es el ángulo ideal entre las ramas de una antena dipolo horizontal de 1/2 longitud de onda para la banda de 80 metros ?
+
+A) 45º
+B) 90º
+C) 135º
+D) 180º
+
+CORRECTA: D
+EXPLICACION:
+Dipolo horizontal 80 m: ángulo entre ramas **≈ 180°** (línea recta) (D).
+---
+
+PREGUNTA: 141 | Si dos resistencias de igual valor están conectadas en paralelo. ¿Cuánto vale la resistencia  total del circuito ?
+
+A) La suma de las dos.
+B) La mitad de una de ellas.
+C) Tres veces el valor de una de ellas.
+D) La cuarta parte del producto de las dos.
+
+CORRECTA: B
+EXPLICACION:
+Dos R iguales en **paralelo**: **Rt = R/2** (B).
+---
+
+PREGUNTA: 142 | Si dos resistencias de igual valor están conectadas en serie.  ¿Cuánto vale la resistencia  total del circuito ?
+
+A) La suma de las dos.
+B) La mitad de una de ellas.
+C) Tres veces el valor de una de ellas.
+D) La cuarta parte del producto de las dos.
+
+CORRECTA: A
+EXPLICACION:
+Dos R iguales en **serie**: **Rt = 2R** (A).
+---
+
+PREGUNTA: 143 | Una señal de 725 hz.,  ¿a qué rango de frecuencia pertenece ?
+
+A) Radio frecuencia.
+B) Audio frecuencia.
+C) Alta frecuencia.
+D) VHF.
+
+CORRECTA: B
+EXPLICACION:
+725 Hz es **audio** (B), no RF ni VHF.
+---
+
+PREGUNTA: 144 | Una antena dipolo plegado. ¿Qué impedancia presenta en su centro ?
+
+A) 50 Ω.
+B) 75 Ω.
+C) 150 Ω.
+D) 300 Ω.
+
+CORRECTA: D
+EXPLICACION:
+Dipolo **plegado** en centro ≈ **300 Ω** (D).
+---
+
+PREGUNTA: 145 | El dial de un receptor esta calibrado en kilohertz y muestra la frecuencia de 7125 Khz. ¿Qué frecuencia mostraría si estuviera calibrado en Megahertz ?
+
+A) 71,25 MHz.
+B) 7,125 MHz.
+C) .007125 MHz.
+D) 712,5 MHz.
+
+CORRECTA: B
+EXPLICACION:
+7125 kHz = **7,125 MHz** (B).
+---
+
+PREGUNTA: 146 | ¿Cuál es el período en que se producen los máximos ciclos solares.?
+
+A) 2 años.
+B) 11 años.
+C) 15 años.
+D) 5 años
+
+CORRECTA: B
+EXPLICACION:
+Ciclo solar máximo cada **≈ 11 años** (B).
+---
+
+PREGUNTA: 147 | Según el código de colores de resistencias, ¿cuál sería la combinación correcta para 290 Ω
+
+A) Naranja, blanco, negro
+B) Rojo, blanco, marrón
+C) Rojo, gris, marrón
+D) Rojo, gris, negro
+
+CORRECTA: B
+EXPLICACION:
+290 Ω: **rojo-blanco-marrón** (29×10) (B).
+---
+
+PREGUNTA: 148 | ¿Qué elemento de una válvula es el ánodo ?
+
+A) Filamento.
+B) Placa.
+C) Pantalla.
+D) Drenaje.
+
+CORRECTA: B
+EXPLICACION:
+En válvula, **ánodo = placa** (B).
+---
+
+PREGUNTA: 149 | Se dispone de cuatro resistencias (R1= 50 Ω, R2= 10 Ω, R3= 120 Ω y R4= 4700 Ω) conectadas  en  paralelo  a una  fuente de alimentación de 12 Volts. ¿Cuál será la resistencia total (aproximada) del circuito ?
+
+A) 7,77 KΩ.
+B) 77,7 Ω.
+C) 7,77 Ω.
+D) 777 Ω.
+
+CORRECTA: C
+EXPLICACION:
+1/Rt = 1/50+1/10+1/120+1/4700 → **Rt ≈ 7,77 Ω** (C).
+---
+
+PREGUNTA: 150 | Según el código de colores para resistencias,  ¿cuál sería la combinación correcta para   87 Ω ?
+
+A) Gris, azul, negro
+B) Blanco, azul, negro
+C) Blanco, verde, marrón
+D) Gris, violeta, negro
+
+CORRECTA: D
+EXPLICACION:
+87 Ω: **gris-violeta-negro** (87×1) (D).
+---
+

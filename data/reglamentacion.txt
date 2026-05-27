@@ -1,0 +1,1701 @@
+BANCO DE PREGUNTAS y RESPUESTAS PARA EXÁMEN SOBRE REGLAMENTACIÓN Y ÉTICA OPERATIVA
+El presente documento está basado en el REGLAMENTO GENERAL DE RADIOAFICIONADOS aprobado por Resolución ENACOM N° 3635 de fecha 30 de octubre de 2017.
+El presente banco de preguntas y respuestas representa los contenidos básicos en materia reglamentaria y ética, que los Radio Clubes e Instituciones Autorizadas deberán incorporar en los exámenes para el otorgamiento y el ascenso de categoría, sin perjuicio que éstos puedan ampliarlo conforme a su criterio, considerando además los aspectos técnicos y de práctica operativa que no se detallan en el presente.
+
+Las preguntas sobre Asignación de Frecuencias y Modos – Plan de bandas de frecuencias se encuentran clasificadas en preguntas de índole general y otras específicas por categoría de Radioaficionado.
+
+
+TABLA DE CONTENIDO
+Capítulo I – Disposiciones Generales	2
+Capítulo II – Facultades de la Autoridad de Aplicación	15
+Capítulo III – Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas	15
+Capítulo IV – Radioaficionados: Categorías y Requisitos	18
+Capítulo V – Radioescuchas	20
+Capítulo VI – Radioaficionados Extranjeros	20
+Capítulo VII - Permisos Internacionales (IARP – CEPT)	21
+Capítulo VIII – Señales Distintivas e Identificación	22
+Capítulo IX – Estaciones Fijas, Móviles, Espaciales y Terrenas	24
+Capítulo X – Estaciones Repetidoras	26
+Capítulo XI – Radiobalizas (Radiofaros)	29
+Capítulo XII – Cursos, Prácticas Operativas y Exámenes para Ingreso y Ascenso de Categoría	30
+Anexo A – Asignación de frecuencias y modos – Plan de Bandas de Frecuencias	37
+PREGUNTAS GENERALES	37
+PREGUNTAS ESPECÍFICAS PARA CATEGORÍA NOVICIO	39
+PREGUNTAS ESPECÍFICAS PARA CATEGORÍA GENERAL	42
+PREGUNTAS ESPECÍFICAS PARA CATEGORÍA SUPERIOR	46
+TABLA DE RESPUESTAS CORRECTAS	50
+
+Indique la/las opciones correctas.
+Capítulo I – Disposiciones Generales
+
+        I.1 ¿Cuál es el objeto del “Reglamento General de Radioaficionados”?
+    a) Regular la actividad de los Radioaficionados, Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas.
+    b) Atribuir y reglamentar el uso de las bandas de frecuencias para el Servicio de Aficionados y el Servicio de Aficionados por Satélite, teniendo en consideración las condiciones de diseño, instalación y operación de estaciones radioeléctricas en sus respectivas bandas de frecuencias, resultantes de los avances tecnológicos, a fin de facilitar el acceso y el desarrollo de la actividad.
+    c) Establecer criterios técnicos para el diseño de equipamiento destinado a la actividad de los Radioaficionados.
+
+
+        I.2 ¿Cuál es el alcance del “Reglamento General de Radioaficionados”?
+    a) Servicio de Aficionados.
+    b) Servicio de Aficionados por Satélite.
+    c) Servicio de Aficionados y Servicio de Aficionados por Satélite.
+
+
+        I.3 ¿Cuál es la Autoridad de Aplicación para el “Reglamento General de Radioaficionados”?
+    a) SECRETARÍA DE COMUNICACIONES (SC).
+    b) COMISIÓN NACIONAL DE COMUNICACIONES (CNC).
+    c) ENTE NACIONAL DE COMUNICACIONES (ENACOM).
+    d) MINISTERIO DE COMUNICACIONES (MINCOM).
+    
+    
+    
+
+
+        I.4 A los fines del Reglamento vigente en la República Argentina, los términos “aficionados” y “aficionados por satélite” ¿son considerados equivalentes a “radioaficionados” y “radioaficionados por satélite”, respectivamente?
+            a) Sí.
+            b) No.
+
+        I.5 Defina “SERVICIO DE RADIOAFICIONADOS”:
+    a) Servicio de radiocomunicación privado que tiene por objeto la instrucción de operadores comerciales.
+    b) Servicio de radiocomunicación público que tiene por objeto los estudios técnicos efectuados por operadores comerciales.
+    c) Servicio de radiocomunicación que tiene por objeto la instrucción individual, la intercomunicación y los estudios técnicos efectuados por Radioaficionados.
+    d) Servicio de radiocomunicación privado que tiene por objeto la instrucción de operadores de radiodifusión.
+
+
+        I.6 Defina “SERVICIO DE RADIOAFICIONADOS POR SATÉLITE”:
+    a) Servicio de radiocomunicación privado que tiene por objeto la instrucción de operadores comerciales.
+    b) Servicio de radiocomunicación que utiliza estaciones espaciales situadas en satélites. artificiales de la Tierra para los mismos fines que el Servicio de Radioaficionados.
+    c) Servicio de radiocomunicación privado que tiene por objeto la instrucción de operadores de radiodifusión.
+    d) Servicio de radiocomunicación en el cual las señales emitidas o retransmitidas por estaciones espaciales están destinadas a la recepción directa por el público en general.
+
+
+        I.7 Defina “RADIOAFICIONADO”:
+    a) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente individual, sin fines de lucro y que realiza con su estación actividades de instrucción, de intercomunicación y estudios técnicos.
+    b) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente comercial, con fines de lucro y que realiza con su estación actividades de instrucción, de intercomunicación y estudios técnicos.
+    c) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente individual, con fines de lucro y que realiza con su estación actividades de instrucción, de intercomunicación y estudios técnicos.
+    d) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente individual, sin fines de lucro y que realiza con su estación actividades de intercomunicación con fines particulares.
+
+
+        I.8 Defina “RADIO CLUB”:
+    a) Asociación Civil, integrada por cualquier operador de radio habilitado, cuyos objetivos fundamentales se apoyan en la agrupación de los mismos para propender a la difusión y fomento de la actividad radial.
+
+    b) Asociación Civil, integrada por entidades que agrupan a operadores de radio, cuyos objetivos fundamentales se basan en la enseñanza y práctica de la actividad comercial.
+    c) Persona Jurídica de Orden Privado cuya composición se tipifica dentro de la figura de Asociación Civil sin fines de lucro y sus objetivos fundamentales se apoyan en la agrupación de los Radioaficionados para fomentar el ingreso, enseñanza, difusión y práctica de la actividad.
+    d) Asociación Civil, integrada por usuarios del Servicios de Banda Ciudadana cuyos objetivos fundamentales se apoyan en la agrupación de los mismos para propender a la difusión y fomento de la actividad radial.
+
+
+        I.9 Defina “INSTITUCIÓN AUTORIZADA”:
+    a) Aquella institución, distinta de los Radio Clubes y de las Instituciones Reconocidas, autorizada por la Autoridad de Aplicación para dictar cursos sobre técnica, reglamentación y ética operativa, telegrafía y todo otro curso afín a la actividad, como así también, tomar exámenes para ingreso y ascenso de categorías de Radioaficionados.
+    b) Aquella institución, distinta de los Radio Clubes, autorizada por la Autoridad de Aplicación para fomentar el ingreso, difusión y práctica de la actividad, a través de Prácticas Operativas
+
+
+        I.10 Defina “INSTITUCIÓN RECONOCIDA”:
+    a) Aquella institución, distinta de los Radio Clubes y de las Instituciones Autorizadas, reconocida por la Autoridad de Aplicación para fomentar el ingreso, difusión y práctica de la actividad, a través de Prácticas Operativas
+    b) Aquella institución, distinta de los Radio Clubes, autorizada por la Autoridad de Aplicación para dictar cursos sobre técnica, reglamentación y ética operativa, telegrafía y todo otro curso afín a la actividad, como así también, tomar exámenes para ingreso y ascenso de categorías de Radioaficionados.
+
+
+        I.11 Defina “LICENCIA DE RADIOAFICIONADO”:
+    a) Autorización que otorga un Radio Club reconocido a todas aquellas personas físicas o jurídicas que han cumplido con los requisitos reglamentarios.
+    b) Autorización que otorga la Autoridad de Aplicación a todas aquellas personas jurídicas que hayan cumplido con los requisitos reglamentarios para obtener licencia, no facultando a instalar y operar estaciones del Servicio de Radioaficionados.
+    c) Autorización que otorga la Autoridad de Aplicación a todas aquellas personas físicas y jurídicas que han cumplido con los requisitos establecidos en el Reglamento. Su otorgamiento las faculta a instalar y operar estaciones en sus respectivas bandas de frecuencia, categorías y condiciones.
+
+    d) Autorización que otorga la Autoridad de Aplicación a todas aquellas personas jurídicas que han cumplido con los requisitos reglamentarios para obtener licencia y lo faculta para instalar y operar estaciones de Radioaficionado.
+
+
+        I.12 ¿Cuál es la sigla del PERMISO INTERNACIONAL DE RADIOAFICIONADOS?
+    a) I.A.R.P.
+    b) P.I.R.A.
+    c) I.R.P.A.
+
+
+        I.13 Defina “PERMISO INTERNACIONAL DE RADIOAFICIONADOS”:
+    a) Autorización extendida por la Autoridad de Aplicación de acuerdo con lo previsto en la Ley 24.730 y la Resolución 3745 SC/1997.
+    b) Autorización extendida por la Autoridad de Aplicación de acuerdo con lo previsto en la Resolución SC 50/1998.
+
+
+        I.14 Defina “SEÑAL DISTINTIVA”:
+    a) Identificación otorgada por la Autoridad de Aplicación a un Radioaficionado, Radio Club, Institución Autorizada o Institución Reconocida.
+    b) Identificación otorgada por IARU a un Radioaficionado, Radio Club, Institución Autorizada o Institución Reconocida.
+    c) Código que representa una clase de emisión, compuesta por el tipo de modulación, anchura de banda y naturaleza de la información.
+
+
+        I.15 Defina “CATEGORÍA” de Radioaficionado:
+    a) Es el nivel de calificación que otorga la Autoridad de Aplicación a los titulares de licencias comerciales que hayan cumplido con los requisitos establecidos.
+    b) Es el nivel de calificación que otorgan los a los titulares de licencia de Radioaficionado que hayan cumplido con los requisitos que para cada una de ellas se exige.
+    c) Nivel de calificación que otorga la Autoridad de Aplicación a aquel Radioaficionado que cumpla con los requisitos establecidos en el Reglamento. Cada categoría conlleva derechos y obligaciones asociados a la misma.
+    d) Es el nivel de calificación que otorga la Autoridad de Aplicación a los titulares de licencia de radiodifusión.
+
+        I.16 Defina “CONTACTO DE DX”:
+    a) Se conviene en denominar así a aquellos comunicados de duración ilimitada en donde se intercambian datos, comentarios técnicos y nombre de los operadores.
+    b) Comunicados entre estaciones que, por la distancia que las separa, inaccesibilidad geográfica, u otro factor de dificultad, no resulte frecuente la comunicación. Se realizan en los segmentos de bandas en que los contactos DX tienen prioridad y se limitan exclusivamente a intercambios de comunicación mínima e indispensable, con el objeto de facilitar la mayor cantidad de contactos posibles.
+    c) Se conviene en denominar así a aquellos comunicados con varios Radioaficionados a la vez, en los que se intercambian datos técnicos, nombre de los operadores, domicilios y números de orden.
+    d) Se conviene en denominar así a aquellos comunicados en los que se intercambian datos, comentarios generales, nombre de los operadores y datos de las estaciones.
+
+
+        I.17 Defina “ESTACIÓN REPETIDORA DE AFICIONADO”:
+    a) Estación destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados, reservada únicamente al titular de la misma.
+    b) Estación destinada a la transmisión de comunicaciones que se realicen en la actividad comercial de radio y abierta a todos los usuarios.
+    c) Estación fija, destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados y abierta al tráfico general de los mismos, caracterizada por la señal distintiva del titular de la estación, posición geográfica, sub-tono y frecuencia asignada.
+    d) Estación destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados, reservada únicamente a los Radio Clubes titulares de la misma.
+
+
+        I.18 Defina “REPETIDOR DIGITAL (Digipeater)”:
+    a) Estación capaz de recibir y retransmitir información digital por paquete (Packet - Radio), en tiempo real, en la misma frecuencia, con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+    b) Estación capaz de recibir información digital, en distinta frecuencia, con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+    c) Estación capaz de recibir y retransmitir información emitida en cualquier modo, en tiempo real, en la misma frecuencia y con capacidad para enlazar varias estaciones a la vez.
+    d) Estación capaz de recibir información analógica, en distinta frecuencia con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+
+        I.19 Defina “CONTROLADOR NODO TERMINAL (TNC)”:
+    a) Es una unidad o programa que permite la conexión radial entre transceptores para el envío de datos analógicos. Se identifica con la señal distintiva del titular.
+    b) Unidad o programa que permite la conexión entre computadoras y equipos de radio, para la recepción y transmisión de datos digitales mediante un módem, en las bandas y modos atribuidos al Servicio de Radioaficionados. Se identifica con la señal distintiva del titular.
+    c) Es un equipo que permite la retransmisión automática de mensajes analógicos emitidos desde un radioaficionado a otro.
+    d) Es un transceptor que permite la retransmisión automática de mensajes analógicos emitidos desde un radioaficionado a otro.
+
+
+        I.20 Defina “SISTEMA DE BOLETINES Y BASE DE DATOS (BBS)”:
+    a) Sistema automático, compuesto por computadoras, equipos radioeléctricos y Controladores Nodo Terminal que permite el almacenamiento y la distribución de mensajes y archivos de Radioaficionados. El ingreso y utilización del mismo por parte de los Radioaficionados es sin ningún tipo de limitación de acceso o de impedimento de uso. Su responsable es el titular de la licencia y se identifica con la señal distintiva del mismo.
+    b) Sistema manual, compuesto de transceptor y computadora, que agiliza el tránsito de paquetes digitales y distribuye información relativa a la actividad.
+    c) Sistema automático, atendido o no, compuesto de uno o más equipos, que permite el contacto entre dos estaciones que emiten comunicaciones analógicas.
+    d) Sistema manual, compuesto de transceptor y antena, que agiliza el tránsito de paquetes analógicos y distribuye información relativa a la actividad.
+
+
+        I.21 Defina “SISTEMA DE MENSAJES PERSONALES (PMS/PBBS)”:
+    a) Controlador Nodo Terminal (CNT) para almacenamiento de mensajes personales. Realiza correo electrónico y se identifica con la señal distintiva del titular.
+    b) Transceptor que posibilita el envío de mensajes generales dentro del correo electrónico entre Radioaficionados.
+    c) TNC para almacenamiento de mensajes abiertos al tráfico general del correo electrónico de radioescuchas.
+    d) Transceptor que posibilita el envío de mensajes en general dentro del correo electrónico entre estaciones de banda ciudadana.
+
+
+        I.22 Defina “DISTRIBUCIÓN DE MENSAJES (Forwarding)”:
+    a) Mecanismo utilizado por los BBS´s para la distribución de mensajes con otros BBS´s
+
+    b) Mecanismo utilizado por los digipeaters y TNC´s para almacenar mensajes.
+    c) Mecanismo utilizado por las repetidoras del Servicio de Radioaficionados para distribuir y almacenar mensajes analógicos.
+    d) Mecanismo utilizado por los Nodos para almacenar mensajes personales.
+
+
+        I.23 Defina “TARJETA QSL”:
+    a) Confirmación (postal o virtual) que intercambian los Radioaficionados por sus comunicados realizados y los Radioescuchas por los comunicados recepcionados.
+    b) Confirmación que intercambian los Radioaficionados en todos sus comunicados realizados y los radioescuchas por los comunicados recepcionados de estaciones de Radioaficionados.
+    c) Confirmación que intercambian los Radioaficionados en todos sus comunicados realizados y los radioescuchas por los comunicados bilaterales con estaciones de Radioaficionados.
+    d) Confirmación que intercambian los Radioaficionados por sus primeros comunicados realizados y los radioescuchas por los comunicados bilaterales con estaciones de Radioaficionado.
+
+
+        I.24 Defina “INSTRUCTORES”:
+    a) Miembros del Radio Club que tomará los exámenes y que se desempeñaron como Instructores de cursos. No podrán intervenir, junto con los miembros de comisión directiva y veedores en la evaluación de los exámenes.
+    b) Radioaficionado nombrado por el Radio Club, Institución Autorizada o Institución Reconocida, que por su capacidad, experiencia y estudio acredita la competencia necesaria para el dictado de cursos y/o coordinación de Prácticas Operativas, y que estará presente durante la toma y evaluación de los exámenes, según corresponda.
+    c) Miembros de otro Radio Club que, pese a no haber actuado como instructores, podrán intervenir junto con los miembros de comisión directiva en la evaluación de los exámenes.
+    d) Miembros de otro Radio Club que, pese a no haberse desempeñado como Instructores, podrán intervenir, junto con los Veedores Voluntarios en la evaluación de los exámenes.
+
+
+        I.25 Defina “CÓDIGO MORSE”:
+    a) Comunicados entre estaciones que, por la distancia que las separa, inaccesibilidad geográfica, u otro factor de dificultad, no resulte frecuente la comunicación. Se realizan en los segmentos de bandas en que los contactos DX tienen prioridad y se limitan exclusivamente a intercambios de comunicación mínima e indispensable, con el objeto de facilitar la mayor cantidad de contactos posibles.
+
+    b) Sistema de escritura, estandarizado conforme a la Recomendación UIT-R M.1677-1 o sucesivas, que representa las letras del alfabeto, números y otros signos mediante una combinación de sonidos cortos (“puntos”), sonidos largos (“rayas”) y silencios (“espacios”).
+    c) Condición de operación en que la estación transmite con una potencia máxima de 5 W (CINCO WATTS) (CW) o de 10 W (DIEZ WATTS) (SSB).
+
+
+        I.26 Defina “ESTACIÓN DEL SERVICIO DE RADIOAFICIONADO”:
+    a) Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados. La misma podrá ser “Fija”, instalada en un domicilio, o cuando no tenga capacidad de trasladarse mientras se encuentra en operación; “Móvil”, instalada y con capacidad de operación en un vehículo terrestre, marítimo o aéreo; "Móvil de mano", cuando sea transportable manualmente, con fuente de alimentación autónoma y antena incorporada, con capacidad de operación.
+    b) Estación fija, destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados y abierta al tráfico general de los mismos, caracterizada por la señal distintiva del titular de la estación, posición geográfica, sub-tono y frecuencia asignada.
+    c) Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados por Satélite. La misma podrá ser “Terrena”, situada en la superficie de la Tierra, con sus variantes “Fija” y “Móvil”, o “Espacial”, situada a bordo de satélites artificiales cuyo cuerpo de referencia es la Tierra.
+
+
+        I.27 Defina “RADIOBALIZA (RADIOFARO)”:
+    a) Estación capaz de recibir y retransmitir información digital por paquetes (Packet - Radio), en tiempo real, en la misma frecuencia, con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+    b) Estación transmisora del Servicio de Radioaficionados, utilizada para determinar las condiciones de propagación y/o ajuste de antenas, etc., que emite a intervalos regulares y en una única frecuencia fija, su señal distintiva y datos referidos, entre otros, a su potencia, antena y altura.
+    c) Estación fija, destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados y abierta al tráfico general de los mismos, caracterizada por la señal distintiva del titular de la estación, posición geográfica, sub-tono y frecuencia asignada.
+
+        I.28 Defina	“ESTACIÓN	DEL	SERVICIO	DE	RADIOAFICIONADO	POR SATÉLITE”:
+    a) Estación fija, destinada a la retransmisión automática de las comunicaciones que se realicen en el Servicio de Radioaficionados y abierta al tráfico general de los mismos, caracterizada por la señal distintiva del titular de la estación, posición geográfica, sub-tono y frecuencia asignada.
+    b) Estación capaz de recibir y retransmitir información digital por paquetes (Packet - Radio), en tiempo real, en la misma frecuencia, con capacidad de enlazar dos estaciones automáticamente. Se identifica con la señal distintiva del titular.
+    c) Estación radioeléctrica compuesta por uno o más transmisores, receptores o transceptores, incluyendo los sistemas irradiantes y las instalaciones accesorias, necesarios para operar en el Servicio de Radioaficionados por Satélite. La misma podrá ser “Terrena”, situada en la superficie de la Tierra, con sus variantes “Fija” y “Móvil”, o “Espacial”, situada a bordo de satélites artificiales cuyo cuerpo de referencia es la Tierra.
+
+        I.29 Defina “PROYECTO INTERNACIONAL DE BALIZAS (IBP)”:
+    a) Autorización extendida por la Autoridad de Aplicación de acuerdo con lo previsto en la Ley 24.730 y la Resolución 3745 SC/1997.
+    b) Red mundial de radiofaros en alta frecuencia (HF) organizado por IARU, compartiendo en la misma única frecuencia por banda entre las transmisoras (en 20, 17, 15, 12 y 10 metros).
+    c) Método de comunicación empleado por los Radioaficionados, en el que se utiliza la superficie lunar como elemento reflector de ondas de radio.
+
+
+        I.30 Defina “DESASTRE”:
+    a) Interacción entre una amenaza y una población vulnerable que, por su magnitud, crea una interrupción en el funcionamiento de una sociedad y/o sistema a partir de una desproporción entre los medios necesarios para superarla y aquellos medios a disposición de la comunidad afectada conforme a Ley Nº 27.287, Artículo 2º.
+    b) Situación, daño provocado por un evento adverso de origen natural o provocado por los seres humanos que, por su magnitud, puede ser atendida por los medios disponibles localmente, conforme a Ley Nº 27.287, Artículo 2º.
+
+
+        I.31 Defina “EMERGENCIA”:
+    a) Interacción entre una amenaza y una población vulnerable que, por su magnitud, crea una interrupción en el funcionamiento de una sociedad y/o sistema a partir de una desproporción entre los medios necesarios para superarla y aquellos medios a disposición de la comunidad afectada conforme a Ley Nº 27.287, Artículo 2º.
+
+    b) Situación, daño provocado por un evento adverso de origen natural o provocado por los seres humanos que, por su magnitud, puede ser atendida por los medios disponibles localmente, conforme a Ley Nº 27.287, Artículo 2º.
+
+
+        I.32 Defina “CONCURSO”:
+    a) Evento nacional y/o internacional en donde se ponen a prueba las habilidades de los Radioaficionados. Sus bases y condiciones son informadas mediante los boletines y revistas de los Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas.
+    b) Comunicados entre estaciones que, por la distancia que las separa, inaccesibilidad geográfica, u otro factor de dificultad, no resulte frecuente la comunicación. Se realizan en los segmentos de bandas en que los contactos DX tienen prioridad y se limitan exclusivamente a intercambios de comunicación mínima e indispensable, con el objeto de facilitar la mayor cantidad de contactos posibles.
+    c) Sistema de escritura, estandarizado conforme a la Recomendación UIT-R M.1677-1 o sucesivas, que representa las letras del alfabeto, números y otros signos mediante una combinación de sonidos cortos (“puntos”), sonidos largos (“rayas”) y silencios (“espacios”).
+
+
+        I.33 Defina “ÉTICA OPERATIVA”:
+    a) Es el conjunto de deberes, obligaciones, conductas y principios establecidos en el Reglamento y en las disposiciones, recomendaciones y procedimientos fijados por la Unión Internacional de Radioaficionados (IARU), que rigen el normal desenvolvimiento de la actividad de los Radioaficionados.
+    b) Es el conjunto de símbolos, alfabetos y códigos establecidos en el Reglamento y en las disposiciones, recomendaciones y procedimientos fijados por la Unión Internacional de Radioaficionados (IARU), que rigen el normal desenvolvimiento de la actividad de los Radioaficionados.
+
+
+        I.34 Defina “VEEDOR”:
+    a) Radioaficionado nombrado por el Radio Club, Institución Autorizada o Institución Reconocida, que por su capacidad, experiencia y estudio acredita la competencia necesaria para el dictado de cursos y/o coordinación de Prácticas Operativas, y que estará presente durante la toma y evaluación de los exámenes, según corresponda.
+    b) Radioaficionado de categoría GENERAL o SUPERIOR, designado por un Radio Club o Institución Autorizada, para estar presente en la sesión de exámenes, firmar las actas y certificados correspondientes e informar anormalidades si las hubiere.
+    c) Responsable de evaluar a los aspirantes al ingreso y ascenso de categorías de conformidad con los procedimientos y condiciones establecidas en el presente Reglamento.
+
+
+
+        I.35 La licencia habilita a su titular a instalar y/u operar estaciones de:
+    a) Servicio de Radioaficionados.
+    b) Servicio de Radioaficionados por Satélite.
+    c) Servicio de Radioaficionados y Radioaficionados por Satélite.
+
+
+        I.36 Las estaciones del Servicio de Radioaficionados y de Radioaficionados por Satélite que operen actualmente y las que se autoricen e instalen en el futuro, dentro o fuera de las zonas de protección de las actuales o futuras Estaciones de Comprobación Técnica de Emisiones, estarán sujetas a lo dispuesto por:
+    a) Resolución SC 329/2000 o aquellas que la reemplacen o modifiquen.
+    b) LEY N° 27078.
+    c) Resolución SC 50/1998 o aquellas que la reemplacen o modifiquen.
+
+
+        I.37 En qué circunstancias las estaciones las estaciones del Servicio de Radioaficionados y de Radioaficionados por Satélite estarán autorizadas a conectar inductiva o acústicamente, o por cualquier otro medio disponible, sus equipos radioeléctricos a las líneas telefónicas.
+    a) Exclusivamente ante emergencias.
+    b) En situaciones de interés comunitario.
+    c) En eventos propios de la actividad.
+    d) En ninguna circunstancia.
+
+
+        I.38 ¿Cuál es la vigencia de la licencia de radioaficionados?
+    a) 1 año.
+    b) 5 años.
+    c) 10 años.
+    d) Depende de la categoría.
+
+
+        I.39 ¿Por qué período de tiempo se puede renovar la licencia de radioaficionados y en qué condiciones?
+    a) 5 años, con renovación automática.
+    b) Indefinido.
+    c) 5 años, al realizar el trámite de renovación, rehabilitación o exámen de ascenso de categoría.
+
+
+
+        I.40 ¿Cuál es la vigencia de la autorización de una Estación Repetidora?
+    a) 1 año.
+    b) 5 años.
+    c) 5 años o hasta la cancelación o caducidad de la licencia del titular.
+    d) Depende de la categoría.
+
+
+        I.41 ¿Con qué intervalo de tiempo un Radioaficionado debe transmitir su señal distintiva?
+    a) 5 minutos.
+    b) 10 minutos.
+    c) 30 minutos.
+    d) Cuando lo desee.
+
+
+        I.42 ¿En qué frecuencias y bajo qué condiciones se permite el funcionamiento de redes de Emergencia y/o Desastre?
+    a) En todas las bandas, en aquellos casos y en los plazos que determine la Autoridad competente en materia de protección pública, defensa civil y operaciones de socorro.
+    b) En las frecuencias designadas a tal fin, en aquellos casos y en los plazos que determine la Autoridad competente en materia de protección pública, defensa civil y operaciones de socorro
+    c) En las frecuencias designadas a tal fin, cuando el Radioaficionado lo considere necesario.
+
+
+        I.43 ¿Cuál es el plazo en que un radioaficionado deberá desinstalar en su totalidad las estaciones radioeléctricas y/o Repetidoras que pudiera poseer instaladas, una vez producida la caducidad de su licencia?
+    a) 30 días.
+    b) 60 días.
+    c) 90 días.
+    d) 1 año.
+    e) Sin plazo, ante requerimiento de la Autoridad de Aplicación.
+
+        I.44 ¿Cuál es el plazo en que un radioaficionado deberá desinstalar en su totalidad las estaciones radioeléctricas y/o Repetidoras que pudiera poseer instaladas, ante la cancelación de su licencia?
+    a) 10 días.
+    b) 30 días.
+    c) 90 días.
+    d) 1 año.
+    e) Sin plazo, ante requerimiento de la Autoridad de Aplicación.
+
+
+        I.45 ¿De acuerdo al documento “Ética y Procedimientos Operativos para el Radioaficionado” de IARU, cuáles son los principios básicos que rigen el Código de Conducta del Radioaficionado?
+    a) Sentido social y espíritu fraternal.
+    b) Lealtad.
+    c) Comprensión.
+    d) No discriminación.
+    e) Buenos modales.
+    f) Objetividad.
+    g) Tolerancia.
+
+
+        I.46 ¿Cuál es la organización de Radioaficionados que representa sus intereses ante los foros internacionales?
+    a) American Radio Relay League (A.R.R.L.).
+    b) International Telecommunicationsc Union (I.T.U.).
+    c) International Amateur Radio Union (I.A.R.U.).
+    d) Comisión Interamericana de Telecomunicaciones (C.I.T.E.L.).
+
+
+        I.47 ¿Qué orden de observancia tiene la siguiente reglamentación para los Radioaficionados de la República Argentina?
+    a) Reglamento General de Radioaficionados - Disposiciones, recomendaciones y procedimientos de la Unión Internacional de Radioaficionados (IARU). Reglamentación UIT.
+    b) Disposiciones, recomendaciones y procedimientos de la Unión Internacional de Radioaficionados (IARU). Reglamento General de Radioaficionados, y Reglamentación UIT.
+    c) Reglamentación UIT, Disposiciones, recomendaciones y procedimientos de la Unión Internacional de Radioaficionados (IARU).y Reglamento General de Radioaficionados.
+
+
+
+Capítulo II – Facultades de la Autoridad de Aplicación
+
+II.1 Son facultades de la Autoridad de Aplicación:
+    a) Limitar, denegar, suspender o cancelar la licencia de Radioaficionado.
+    b) Asignar o modificar las señales distintivas.
+    c) Tomar exámenes de ingreso y ascenso de categorías.
+    d) Dictar cursos y fomentar la actividad a través de Prácticas Operativas.
+
+
+Capítulo III – Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas
+        III.1 ¿Qué categoría se le otorga a los Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas?
+    a) Novicio
+    b) General
+    c) Superior
+
+
+        III.2 ¿Cómo debe identificarse el Radioaficionado cuando opere en forma personal la estación del Radio Club?
+    a) Señal distintiva del Radio Club y señal distintiva propia.
+    b) Señal distintiva propia y señal distintiva del Radio Club.
+    c) Señal distintiva propia.
+    d) Señal distintiva del Radio Club.
+
+
+III. 3 Cuando el Radioaficionado opere en forma personal la estación del Radio Club,
+¿en qué bandas puede operar?
+    a) En las bandas autorizadas a su categoría.
+    b) En las bandas correspondientes a la categoría Superior.
+
+        III.4 En condiciones de Práctica Operativa por parte de aspirantes a obtener licencia,
+¿cómo se deben identificar?
+    a) Con señal distintiva del Radio Club, aclarando “en Práctica Operativa”.
+    b) Con señal distintiva del Instructor.
+
+
+        III.5 ¿Quiénes podrán otorgar Certificados de Radioescuchas?
+    a) Radio Clubes.
+    b) Instituciones Autorizadas.
+    c) Instituciones Reconocidas.
+
+
+        III.6 ¿El Radioaficionado puede realizar trámites en forma personal ante la Autoridad de Aplicación?
+    a) Sí.
+    b) No.
+
+
+        III.7 ¿El Radio Club podrá poseer filiales?
+    a) Sí.
+    b) No.
+
+
+        III.8 ¿Bajo qué condiciones la Autoridad de Aplicación podrá autorizar filiales a un Radio Club?
+    a) En localidades dentro de la misma provincia en las que no hubiera Radio Club.
+    b) En localidades de otra provincia en las que no hubiera Radio Club.
+
+
+        III.9 ¿Qué categoría debe tener el Radioaficionado a cargo de la filial?
+    a) Novicio
+    b) General
+    c) Superior
+
+        III.10 ¿El Radioaficionado a cargo de la filial debe estar habilitado en el Libro de Actas del Radio Club?
+    a) Sí.
+    b) No.
+
+
+        III.11 ¿Cómo debe operarse la estación en una filial de un Radio Club?
+    a) Señal distintiva del Radio Club, agregando una barra, la palabra “filial” y el nombre de la localidad.
+    b) Señal distintiva del Radioaficionado, agregando una barra, la palabra “filial” y el nombre de la localidad.
+
+
+        III.12 ¿Podrán las filiales de los Radio Clubes efectuar algún tipo de trámite ante la Autoridad de Aplicación?
+    a) Sí.
+    b) No.
+
+
+        III.13 ¿Las Instituciones Autorizadas están habilitadas por la Autoridad de Aplicación para dictar cursos sobre técnica, reglamentación y ética operativa, telegrafía y todo otro curso afín a la actividad, como así también tomar exámenes para ingreso y ascenso de categorías de Radioaficionados.?
+
+    a) Sí.
+    b) No.
+
+
+        III.14 ¿Las Instituciones Reconocidas están autorizadas por la Autoridad de Aplicación para dictar cursos sobre técnica, reglamentación y ética operativa, telegrafía y todo otro curso afín a la actividad?
+
+            a) Sí.
+            b) No.
+
+        III.15 ¿Las Instituciones Reconocidas están autorizadas por la Autoridad de Aplicación para tomar exámenes para ingreso y ascenso de categorías de Radioaficionados?
+
+            a) Sí.
+            b) No.
+
+
+        III.16 ¿Las Instituciones Autorizadas pueden gestionar ante la Autoridad de Aplicación la documentación para ingreso y ascenso de categorías de Radioaficionados?
+
+    c) Sí.
+    d) No.
+
+
+Capítulo IV – Radioaficionados: Categorías y Requisitos
+
+        IV.1 Identifique	las	categorías	de	radioaficionados	de	acuerdo	a	la	nueva reglamentación:
+    a) Inicial
+    b) Novicio
+    c) Intermedia
+    d) General
+    e) Superior
+    f) Especial
+
+
+        IV.2 ¿Quién tramita ante el ENACOM?
+    a) Radio Clubes
+    b) Radioaficionados
+    c) Instituciones Reconocidas
+    d) Instituciones Autorizadas
+
+
+        IV.3 ¿Cuál es la edad mínima para la categoría Novicio?
+    a) 12 años
+    b) 9 años
+    c) 18 años
+
+        IV.4 ¿Cuál es la edad mínima para la categoría General?
+    a) 13 años
+    b) 16 años
+    c) 18 años
+
+
+        IV.5 ¿Cuál es la potencia de RF máxima permitida para la categoría Novicio?
+    a) 50 vatios.
+    b) 100 vatios.
+    c) 150 vatios.
+    d) 200 vatios.
+
+
+        IV.6 Cuántos años de actividad en forma ininterrumpida en categoría NOVICIO hay que acreditar para ascender a categoría GENERAL?
+    a) 2 años.
+    b) 1 año.
+    c) 5 años.
+    d) 3 años.
+
+
+        IV.7 ¿Cada cuántos años debe renovarse la licencia de Radioaficionado?
+    a) 2 años.
+    b) 4 años.
+    c) 5 años.
+    d) 10 años.
+
+
+        IV.8 ¿Cuáles son los requerimientos para obtener la categoría ESPECIAL?
+    e) Categoría Superior con 60 años de actividad ininterrumpida.
+    f) Categoría Superior con 20 años de actividad ininterrumpida
+    g) Categoría Superior con 50 años de actividad ininterrumpida.
+    h) Categoría Superior con 50 años de antigüedad.
+
+        IV.9 Transcurridos 5 (CINCO) años a partir de la fecha del otorgamiento de la licencia, renovación, rehabilitación o ascenso de categoría, de qué plazo dispondrá el Radioaficionado para solicitar la renovación de la licencia por un nuevo período de 5 (CINCO) años.
+    a) 3 meses
+    b) 12 meses
+    c) 6 meses
+
+
+Capítulo V – Radioescuchas
+
+        V.1 Defina RADIOESCUCHA:
+    a) Persona debidamente autorizada que se interesa en la radiotecnia con carácter exclusivamente personal y sin fines de lucro, y que realiza actividades de instrucción, de intercomunicación y estudios técnicos. En el presente Reglamento, se asimila el término “Radioaficionado” al que internacionalmente se conoce como “Aficionado”, conforme al Reglamento de Radiocomunicaciones (RR) (Edición de 2016) de la Unión Internacional de Telecomunicaciones (UIT).
+    b) Persona física autorizada exclusivamente a la recepción de emisiones en las bandas de frecuencia atribuidas a los Servicios de Radioaficionados y de Radioaficionados por Satélite. Para acceder a dicha autorización no es necesario contar con una Licencia de Radioaficionado.
+
+
+        V.2 En el momento en que un Radioescucha tramita y obtiene su licencia de radioaficionado, ¿qué ocurre con su Certificado de Radioescucha?
+    a) Continúa teniendo vigencia.
+    b) Automáticamente queda dado de baja.
+    c) Le será requerido para el ascenso de categoría.
+    d) Ninguna es correcta.
+
+
+Capítulo VI – Radioaficionados Extranjeros
+
+        VI.1 Los Radioaficionados extranjeros “en tránsito” o con “residencia temporaria” en la República Argentina, ¿ante quién deben gestionar la autorización para operar desde nuestro país?
+    a) Ante los RADIO CLUBES.
+    b) Directamente ante la Autoridad de Aplicación.
+    c) La Sociedad Nacional miembro de I.A.R.U.
+
+    d) El Comité Federal de Radiodifusión.
+
+
+        VI.2 ¿Qué radioaficionado extranjero se encuentra exceptuado de gestionar la autorización para operar en el territorio nacional?
+    a) Los que pertenecen a algún país signatario del IARP.
+    b) Cualquier radioaficionado extranjero.
+
+
+Capítulo VII - Permisos Internacionales (IARP – CEPT)
+
+        VII.1 ¿Qué es el Permiso Internacional de Aficionado (I.A.R.P.)?
+    a) Un documento que permite a su tenedor operar sin restricciones en todos los países del mundo.
+    b) Un documento que faculta a su tenedor operar en los países de América signatarios del Convenio Interamericano sobre el IARP.
+
+
+        VII.2 ¿En cuántas Clases se emite el I.A.R.P. de acuerdo a la Resolución SC 3745/1997?
+    a) Una Clase.
+    b) Dos Clases.
+    c) Tres Clases.
+    d) Cuatro Clases.
+
+
+        VII.3 ¿Qué categoría de Radioaficionado se debe tener para poder obtener el IARP de acuerdo a la Resolución SC 3745/1997?
+    a) Sólo Superior.
+    b) General y Superior.
+    c) Intermedia, General y Superior.
+    d) No hay restricciones.
+
+        VII.4 El IARP de Clase 1 faculta a operar:
+    a) Sólo en bandas por sobre 30 MHz.
+    b) Sólo en bandas de 10, 15 y 20 metros.
+    c) En todas las bandas.
+    d) Sólo en bandas por debajo de 30 MHz.
+
+        VII.5 El IARP de Clase 2 faculta a operar:
+    a) En todas las bandas.
+    b) Sólo en bandas por sobre 30 MHz.
+    c) En todas las bandas.
+    d) En bandas de 80, 40 y 20 metros.
+
+Capítulo VIII – Señales Distintivas e Identificación
+
+        VIII.1 ¿En la señal distintiva a qué corresponde el prefijo?
+    a) Al país.
+    b) A la provincia.
+    c) A la categoría del radioaficionado.
+
+
+        VIII.2 ¿Cuál es el prefijo correspondiente a la República Argentina?
+    a) LU/LW.
+    b) CX.
+    c) PY.
+
+
+        VIII.3 La/s primera/s letras del sufijo de la señal distintiva corresponden a:
+    a) País.
+    b) Provincia.
+    c) Categoría.
+
+
+        VIII.4 ¿Cuál es el criterio de asignación por parte de la Autoridad de Aplicación del sufijo de la señal distintiva en caso de poseer sólo estaciones móviles?
+    a) Domicilio de emplazamiento de la estación fija.
+    b) Domicilio indicado en el DNI del Radioaficionado.
+
+
+        VIII.5 ¿Cuál es el criterio de asignación por parte de la Autoridad de Aplicación del sufijo de la señal distintiva en caso de poseer estación fija y móviles?
+    a) Domicilio de emplazamiento de la estación fija.
+    b) Domicilio del DNI del Radioaficionado.
+
+        VIII.6 ¿A qué categoría se le puede asignar una señal distintiva con un sufijo de 2 letras?
+    a) Categoría General.
+    b) Categoría Superior y Especial.
+    c) Cualquier categoría.
+
+
+        VIII.7 ¿En qué otro caso a lo planteado en la pregunta VIII.6 se puede asignar una señal distintiva con un sufijo de 2 letras?
+    a) Por fallecimiento del titular, a un familiar que la reclame.
+    b) Por pedido del titular hacia un tercero.
+
+
+        VIII.8 ¿Por cuánto tiempo queda reservada la señal distintiva por fallecimiento del titular?
+    a) 2 años.
+    b) 1 año.
+    c) 5 años.
+
+
+        VIII.9 ¿Por cuánto tiempo se otorga la Señal Distintiva Especial?
+    a) 2 años.
+    b) 1 año.
+    c) 5 años.
+
+
+        VIII.10 ¿Quiénes podrán solicitar Señales Distintivas Especiales?
+    a) Radioaficionados categoría General o Superior.
+    b) Radio Clubes, Instituciones Autorizadas, Instituciones Reconocidas.
+    c) Radioaficionados categoría Novicio.
+
+        VIII.11 ¿En ocasión de eventos que requieran de Señal Distintiva Especial, puede un radioaficionado de cualquier categoría que forme parte de un equipo de operación, operar en todas las bandas autorizadas al titular del equipo?
+    a) Sí.
+    b) No.
+
+        VIII.12 ¿Cuáles son las condiciones que deberá acreditar el Radioaficionado para solicitar una Señal Distintiva Especial?
+    a) Haber participado en tres concursos distintos con su señal distintiva propia.
+    b) Haber realizado en cada uno de ellos un mínimo de 500 contactos.
+    c) Haber sido titular de equipo de operación .
+
+
+        VIII.13 ¿Se pueden tener dos o más Señales Distintivas Especiales vigentes al mismo tiempo?
+    a) Sí.
+    b) No.
+
+
+Capítulo IX – Estaciones Fijas, Móviles, Espaciales y Terrenas
+
+        IX.1 ¿En qué casos los titulares de licencia de Radioaficionado están autorizados a instalar y operar estaciones móviles?
+    a) Sólo en caso de emergencias.
+    b) Sólo en período de vacaciones.
+    c) Cuando posea licencia de conductor.
+    d) No hay restricciones.
+
+
+        IX.2 ¿Quién puede operar una estación radioeléctrica correspondiente al Servicio de Radioaficionado y al Servicio de Radioaficionado por Satélite?
+    a) Su titular u otro Radioaficionado que él mismo autorice.
+    b) Cualquier Radioaficionado.
+    c) Ningún Radioaficionado distinto a su titular.
+
+
+        IX.3 Cuando un Radioaficionado opera una estación radioeléctrica de la cual no es titular, ¿cómo se debe identificar?
+    a) Haciendo mención de la señal distinta del titular y de la propia, en ese orden, seguido de una barra y la letra correspondiente a la división política.
+    b) Haciendo mención de la señal distinta propia y la del titular, en ese orden, seguido de una barra y la letra correspondiente a la división política.
+    c) Haciendo mención de la señal distinta propia.
+
+        IX.4 Cuando un Radioaficionado opera una estación radioeléctrica de la cual no es titular, ¿en qué bandas lo hace?
+    a) En las permitidas según la categoría del Titular.
+    b) En las permitidas según la categoría del Operador.
+
+
+        IX.5 ¿Quiénes podrán operar simultáneamente múltiples estaciones de su titularidad durante el dictado de cursos, Práctica Operativa, toma de exámenes, contactos DX o concursos, según corresponda a sus competencias?
+    a) Radioaficionados.
+    b) Radio Clubes, Instituciones Autorizadas e Instituciones Reconocidas.
+
+
+        IX.6 En caso que el Radioaficionado posea más de una estación fija, ¿es necesario declararlas a todas?
+    a) Sí.
+    b) No.
+
+
+        IX.7 ¿En caso de trasladar una estación fija por un período mayor a 120 días corridos, se deberá solicitar el cambio de domicilio de emplazamiento?
+    a) Sí.
+    b) No.
+
+
+IX. 8 Con relación a la altura de la estructura soporte de antenas que pretende instalar el Radioaficionado, ¿ante qué Organismo debe realizar el trámite pertinente de autorización?
+    a) ENACOM.
+    b) ANAC.
+
+
+    IX. 9 ¿Cómo se debe operar una estación móvil?
+        a) Se deberá mencionar su señal distintiva, su ubicación geográfica y su condición de móvil.
+        b) Se deberá mencionar su señal distintiva, su ubicación geográfica.
+
+        IX.10 ¿Qué categoría debe poseer el titular de la licencia de Radioaficionado que deseara diseñar, construir, lanzar y/o constituirse como responsable primario de una estación espacial del Servicio de Radioaficionados por Satélite?
+    a) GENERAL o SUPERIOR.
+    b) ESPECIAL.
+    c) NOVICIO.
+
+
+        IX.11 En caso de poseer Estaciones Terrenas pertenecientes al Servicio de Radioaficionados por Satélite, ¿es necesario registrarlas ante la Autoridad de Aplicación?
+    a) Sí.
+    b) No.
+
+
+Capítulo X – Estaciones Repetidoras
+
+        X.1 ¿La Estación Repetidora tiene que estar autorizada ante la Autoridad de Aplicación?
+    a) Sí.
+    b) No.
+
+
+        X.2 ¿Se podrá solicitar autorización para una Estación Repetidora para que opere en bandas cruzadas VHF/UHF?
+    a) Sí.
+    b) No.
+
+
+        X.3 ¿En qué circunstancias la Autoridad de Aplicación podrá otorgar la autorización para el uso de una Estación Repetidora en bandas cruzadas VHF/UHF?
+    a) En determinadas zonas geográficas.
+    b) Cuando no haya disponibilidad espectral.
+    c) Cuando el solicitante sea un Radioaficionado de categoría Superior.
+
+        X.4 ¿Cuál es el plazo máximo para poner en funcionamiento una Estación Repetidora ya autorizada por la Autoridad de Aplicación?
+    a) 72 horas.
+    b) 30 días.
+    c) 60 días.
+    d) 90 días.
+
+
+        X.5 En el caso en que una Estación Repetidora autorizada se encuentra totalmente fuera de servicio, ¿cuál es el plazo máximo en que puede permanecer inactiva, antes que se produzca su caducidad automática?
+    a) 72 horas.
+    b) 30 días.
+    c) 60 días.
+    d) 90 días.
+
+
+    X. 6 ¿Puede haber en nuestro país Estaciones Repetidoras del Servicio de Radioaficionados con acceso codificado mediante subtonos?
+        a) No, porque la Reglamentación lo prohibe.
+        b) No, porque los equipos para Radioaficionados no disponen de subtonos.
+        c) Sí, siempre que el código sea aprobado previamente por la Autoridad de Aplicación y sea de conocimiento público.
+        d) Sí, si el código es únicamente de conocimiento previo de la Autoridad de Aplicación.
+
+
+        X.7 ¿Cómo se identifican las Estaciones Repetidoras?
+    a) Con la señal distintiva del titular y la localidad del emplazamiento de la Estación Repetidora.
+    b) Con la señal distintiva del titular.
+    c) Con la señal distintiva del titular, la localidad de emplazamiento de la estación fija y la localidad del emplazamiento de la Estación Repetidora.
+
+
+        X.8 ¿De cuánto tiempo dispone el titular de la Estación repetidora para comunicar a la Autoridad de Aplicación el inicio de su operación?
+    a) 15 días corridos.
+    b) 30 días corridos.
+    c) 60 días corridos.
+
+
+        X.9 ¿Ante qué casos caducará la autorización de una Estación Repetidora?
+    a) No haber informado dentro de los 15 días corridos, el inicio de su operación.
+    b) Inactividad comprobada en un período mayor a los 60 días corridos
+    c) No haber renovado la licencia del titular o la autorización de la Estación Repetidora en el período estipulado en el Reglamento vigente.
+    d) Cuando el titular reciba un apercibimiento por parte de la Autoridad de Aplicación por infracción en el uso de la Estación Repetidora.
+
+
+        X.10 ¿Para dar de baja una Estación Repetidora de cuánto tiempo se dispone desde el cese de las emisiones?
+    a) 15 días corridos.
+    b) 30 días corridos.
+    c) 60 días corridos.
+
+
+X. 11 ¿Cuando se solicita la baja de una Estación Repetidora, se deben desmantelar las instalaciones radioeléctricas?
+    a) Siempre.
+    b) Sólo cuando la Autoridad de Aplicación lo requiera.
+    c) Nunca.
+
+
+        X.12 ¿Qué se requiere para la autorización de un enlace de 2 o más Estaciones Repetidoras por parte de la Autoridad de Aplicación?
+    a) La conformidad por escrito de los titulares de las Estaciones Repetidoras.
+    b) Sólo el estudio técnico del cálculo de enlace.
+    c) El estudio técnico del cálculo de enlace y la conformidad por escrito de los titulares de las Estaciones Repetidoras.
+
+
+        X.13 ¿Es obligatorio contar con un sistema de apagado de la Estación Repetidora?
+    a) Sí
+    b) No
+
+        X.14 En caso de optarse por control remoto de la Estación Repetidora mediante vínculo radioeléctrico, ¿éste deberá contar con la autorización de la Autoridad de Aplicación?
+    a) Sí.
+    b) No.
+
+
+        X.15 ¿La frecuencia de transmisión para el control remoto de una Estación Repetidora mediante vínculo radioeléctrico, podrá encontrarse dentro de una banda de radioaficionados?
+    a) Sí
+    b) No
+
+
+Capítulo XI – Radiobalizas (Radiofaros)
+
+        XI.1 ¿Qué  categoría se requiere para instalar y poner en funcionamiento una Radiobaliza (Radiofaro)?
+    a) Novicio.
+    b) General.
+    c) Superior.
+    d) No se requiere una categoría determinada.
+
+
+        XI.2 ¿Cuántas señales de Radiobalizas pueden emitirse desde el mismo lugar de emplazamiento?
+    a) Sólo una.
+    b) Dos.
+    c) Tres.
+    d) No hay limitaciones.
+
+        XI.3 ¿Con cuántos días de anticipación a la instalación el Radioaficionado deberá notificar a la Autoridad de Aplicación la puesta en funcionamiento de la Radiobaliza, en forma fehaciente, la frecuencia de operación, el domicilio de emplazamiento y potencia de transmisión?
+    a) 10 días.
+    b) 15 días
+    c) 30 días.
+    d) No se necesita notificar.
+
+
+Capítulo XII – Cursos, Prácticas Operativas y Exámenes para Ingreso y Ascenso de Categoría
+
+        XII.1 ¿Quiénes podrán dictar cursos y/o tomar examen para ingreso y ascenso de categoría?
+    a) Radio Clubes.
+    b) Instituciones Autorizadas.
+    c) Instituciones Reconocidas.
+
+
+        XII.2 ¿Se podrá rendir examen en condición de libre, sin realizar cursos en Radio Clubes e Instituciones Autorizadas?
+    a) Sí.
+    b) No.
+
+
+        XII.3 ¿Cómo deberán tomarse los exámenes para ingreso o ascenso de categoría?
+    a) En forma escrita únicamente.
+    b) En forma oral únicamente.
+    c) En forma escrita, y para aspirantes no videntes o imposibilitados para escribir, en forma oral.
+
+
+        XII.4 ¿Quiénes están autorizados a dar prácticas operativas?
+    a) Radio Clubes.
+    b) Instituciones Autorizadas.
+    c) Instituciones Reconocidas.
+
+        XII.5 ¿Quién supervisa las prácticas operativas?
+    a) Veedor.
+    b) Instructor.
+    c) Autoridades del Radio Club, Institución Autorizada y/o Instituciones Reconocidas.
+
+
+        XII.6 El Instructor designado por el Radio Club, Institución Autorizada o Institución Reconocida, ¿debe estar registrado en el Libro de Actas y debe dar fe por medio de un certificado que el aspirante cumplió con los requisitos solicitados durante la práctica operativa?
+
+    a) Sí
+    b) No
+
+
+        XII.7 ¿Las prácticas operativas destinadas a recepción deben cumplirse por cuántas horas?
+
+    a) 6 hs.
+    b) 12 hs.
+
+
+        XII.8 ¿Las prácticas operativas deben asentarse en el Libro de Guardia?
+
+    a) Sí.
+    b) No.
+
+
+        XII.9 ¿En caso de mediar distancias excesivas o dificultades geográficas para acceder a un Radio Club, Institución Autorizada o Institución Reconocida, las prácticas operativas podrán realizarse en las filiales de los Radio Clubes o en el domicilio de un Instructor?
+
+    a) Sí.
+    b) No.
+
+        XII.10 ¿Con qué señal distintiva operará el Instructor a distancia?
+
+    a) Señal distintiva del Radio Club
+    b) Señal distintiva propia del Instructor
+
+
+        XII.11 	¿La autorización del Radio Club, Institución Autorizada o Institución Reconocida al Instructor a distancia deberá estar plasmada en el Libro de Actas (con validez expresamente detallada)?
+
+    a) Sí.
+    b) No.
+
+
+        XII.12 ¿Cuáles son las funciones de Instructor?
+
+    a) Dictar cursos.
+    b) Tomar exámenes.
+    c) Coordinar las prácticas operativas.
+    d) Organizar concursos.
+    e) Firmar los Certificados de Aprobación de Examen.
+
+
+        XII.13 ¿Qué categoría mínima debe tener el Instructor?
+
+    a) Novicio.
+    b) General.
+    c) Superior.
+    d) Especial.
+
+
+        XII.14 ¿Puede un Radioaficionado que ha sido sancionado alguna vez por la Autoridad de Aplicación ser instructor?
+
+    a) Sí.
+    b) No.
+
+        XII.15 ¿Puede un instructor tomar examen a familiares directos?
+
+    a) Sí.
+    b) No.
+
+
+        XII.16 Ante un requerimiento de una Institución Autorizada a un Radio Club para formar parte de la mesa examinadora, el Radio Club debe designar a un radioaficionado de categoría mínima:
+
+    a) General
+    b) Superior
+    c) Especial
+
+
+        XII.17 ¿Cuántos meses de validez tiene el Certificado de Aprobación de examen firmado por las autoridades del Radio Club o Institución Autorizada para ser presentado ante la Autoridad de Aplicación?
+
+    a) 3 meses.
+    b) 6 meses.
+    c) 12 meses.
+
+
+        XII.18 ¿Toda certificación de aprobación de examen autoriza a un aspirante a instalar y poner en funcionamiento equipos radioeléctricos, hasta tanto la Autoridad de Aplicación otorgue la licencia correspondiente?
+
+            a) Sí.
+            b) No.
+
+
+        XII.19 Para la categoría Novicio, el examen de telegrafía será:
+
+    a) Teórico.
+    b) Práctico.
+
+        XII.20 ¿En el examen de Telegrafía, ¿cuántos caracteres se consideran una palabra?
+
+    a) 5.
+    b) 10.
+    c) Más de 10.
+
+
+        XII.21 En el examen de Telegrafía, ¿cuántos caracteres se consideran una letra de la A a la Z?
+
+    a) 1.
+    b) 2.
+    c) Más de 2.
+
+
+        XII.22 En el examen de Telegrafía, ¿cuántos caracteres se consideran un número y signo de puntuación?
+
+    a) 1.
+    b) 2.
+    c) Más de 2.
+
+
+        XII.23 En el Libro de Guardia se deberá consignar:
+
+    a) Fecha, hora de comienzo y finalización del comunicado.
+    b) Clase de emisión empleada.
+    c) Potencia transmitida.
+    d) Señal distintiva de la estación corresponsal.
+
+
+        XII.24 ¿Cuál es la función de un veedor?
+
+    a) Participar en la confección del examen.
+    b) Firmar el acta de examen.
+    c) Firmar el certificado de aprobación de examen.
+    d) Atender consultas de los examinados durante el examen.
+
+        XII.25 ¿Cuáles son los requisitos y obligaciones de un veedor?
+
+    a) Ser Radioaficionado argentino o residente con cualquier categoría.
+    b) No haber sido sancionado por la Autoridad de Aplicación.
+    c) Ser designado por el Radio Club o Institución Autorizada.
+    d) Abstenerse de participar en la toma de exámenes a familiares directos de primer grado.
+
+
+XII.25 ¿El veedor deberá pertenecer al mismo Radio Club o Institución Autorizada que toma el examen?
+    a) Sí.
+    b) No.
+    c) Indistinto.
+
+
+Capítulo XIII – Régimen de Infracciones y Sanciones - Procedimiento
+
+        XIII.1 Se consideran infracciones de carácter general:
+
+    a) Operar la estación sin licencia vigente.
+    b) Ceder el micrófono a otro Radioaficionado.
+    c) Comunicar con estaciones no autorizadas.
+    d) Grabar emisiones de terceros y retransmitirlas.
+    e) Referirse a temas de índole política, religiosa o racial.
+    f) Transmitir música.
+
+
+        XIII.2 Se consideran infracciones de identificación:
+
+    a) Identificarse con una señal distintiva perteneciente a otro Radioaficionado.
+    b) Omitir mencionar junto con la señal distintiva de la estación móvil, el lugar geográfico de su actual ubicación.
+    c) Mencionar la señal distintiva del Radioaficionado titular y la propia cuando se utilice su estación.
+    d) Utilizar una Señal Distintiva Especial vencida o no autorizada por la Autoridad de Aplicación.
+    e) Mencionar la señal distintiva del Radio Club y la propia cuando se utilice la estación de dicho Radio Club.
+    f) Omitir mencionar que se está operando en “Practica Operativa” cuando corresponda.
+
+        XIII.3 Se consideran infracciones operativas:
+
+    a) Transmitir en frecuencia y/o potencia no autorizada para la categoría.
+    b) Transmitir textos encriptados.
+    c) Realizar o participar en concursos de Radioaficionados sobre frecuencias no autorizadas al efecto.
+    d) Trasladar la estación fija por 90 días sin notificar a la Autoridad de Aplicación.
+
+
+        XIII.4 Se consideran infracciones relativas a Estaciones Repetidoras:
+
+    a) No contar con dispositivos de identificación.
+    b) Utilizar frecuencias diferentes a las autorizadas.
+    c) Entrelazar Estaciones Repetidoras sin la autorización correspondiente.
+    d) Ceder la autorización de una estación repetidora a otro Radioaficionado.
+
+
+        XIII.5 Se consideran infracciones relativas a Radiobalizas:
+
+    a) Operar una Radiobaliza no notificada a la Autoridad de Aplicación.
+    b) Emitir simultáneamente más de una Radiobaliza en la misma banda y desde el mismo emplazamiento.
+    c) Operar con potencias superiores a las autorizadas en el Reglamento.
+    d) Operar con una potencia de 50 W en la banda de 2 m.
+
+
+XIII.5 Se consideran infracciones relativas a Radiobalizas:
+
+    a) Operar una radiobaliza no notificada a la Autoridad de Aplicación.
+    b) Emitir simultáneamente más de una radiobaliza en la misma banda y desde el mismo emplazamiento.
+    c) Operar con potencias superiores a las autorizadas en el Reglamento.
+    d) Operar con una potencia de 50 W en la banda de 2 m.
+
+
+XIII.6 El orden de las sanciones al cometer y reiterar infracciones es:
+
+    a) Llamado de atención – Apercibimiento – Sanción económica – Suspensión – Cancelación de la licencia.
+    b) Llamado de atención – Sanción económica – Suspensión – Cancelación de la licencia.
+    c) Llamado de atención – Sanción económica – Cancelación de la licencia.
+
+
+Anexo A – Asignación de frecuencias y modos – Plan de Bandas de Frecuencias
+
+PREGUNTAS GENERALES
+
+PB.1 ¿Puede un Radioaficionado transmitir en los extremos de las bandas asignadas a su categoría, y por qué?
+
+    a) Sí, porque está en una frecuencia autorizada de acuerdo a la clase de emisión.
+    b) No, porque debido a la anchura de banda de la transmisión, saldría fuera del sector o banda autorizada.
+    c) Sí, porque está en la banda autorizada para su categoría.
+    d) Ninguna es correcta.
+
+
+PB.2 ¿A qué tipo/modulación corresponde la clase de emisión A3E?
+
+    a) Telefonía. Amplitud Modulada. Doble Banda Lateral.
+    b) Telefonía. Modulación de Frecuencia.
+    c) Telefonía. Banda Lateral Única con Portadora Suprimida.
+    d) Teletipo. Telegrafía por Desplazamiento de Frecuencia.
+
+
+PB.3 ¿A qué tipo/modulación corresponde la clase de emisión A1A?
+
+    a) Telefonía. Modulación de Frecuencia.
+    b) Teletipo. Telegrafía por Desplazamiento de Frecuencia.
+    c) Telegrafía. Código Morse.
+    d) Telefonía. Banda Lateral Única con Portadora Suprimida.
+
+
+PB.4 ¿A qué tipo/modulación corresponde la clase de emisión J3E?
+
+    a) Telegrafía. Código Morse.
+    b) Telefonía. Banda Lateral Única con Portadora Suprimida.
+    c) Televisión. Modulación de Frecuencia.
+    d) Televisión. Doble Banda Lateral.
+
+
+
+PB.5 ¿A qué tipo/modulación corresponde la clase de emisión F3E?
+
+    a) Facsímil.
+    b) Telegrafía. Código Morse.
+    c) Telefonía. Modulación de Frecuencia. Doble Banda Lateral.
+    d) Teletipo. Telegrafía por Desplazamiento de Frecuencia.
+
+
+PB.6 ¿A qué modo de emisión corresponde la clase J2D?
+
+    a) AM.
+    b) PACKET.
+    c) CW.
+    d) APRS.
+
+
+PB.7 ¿A qué modo de emisión corresponde la clase J3E?
+
+    a) SSB.
+    b) RTTY.
+    c) SSTV.
+    d) ATV.
+
+
+PB.8 ¿A qué modo de emisión corresponde la clase A1A?
+
+    a) SSB.
+    b) CW.
+    c) RTTY.
+    d) PACKET.
+
+
+PB.9 ¿A qué modo de emisión corresponde la clase F3E?
+
+    a) ATV.
+    b) FM.
+    c) FAX.
+    d) AM.
+
+
+PB.10 ¿A qué modo de emisión corresponde la clase F1B?
+
+    a) FAX.
+    b) CW.
+    c) RTTY.
+    d) PACKET.
+
+
+PB.11 ¿En qué caso puede una estación de Radioaficionado reclamar protección por interferencias perjudiciales en una banda atribuida con carácter secundario?
+
+    a) Sólo si la interferencia proviene de una estación comercial.
+    b) Sólo si la interferencia proviene de una estación de un servicio oficial.
+    c) Sólo si la interferencia proviene de una estación del mismo servicio o de otros servicios con atribución también secundaria.
+    d) Puede reclamar protección en cualquier caso.
+
+
+PB.12		Un	Radioaficionado	puede	efectuar	transmisiones	del	Servicio	de Radioaficionados por satélite:
+
+    a) En todas las bandas de frecuencias atribuidas al Servicio de Radioaficionados.
+    b) En cualquier frecuencia de las bandas atribuidas al Servicio de Radioaficionados por Satélite.
+    c) En los segmentos autorizados para uso satelital dentro de las bandas atribuidas al Servicio de Radioaficionados por Satélite.
+
+
+PREGUNTAS ESPECÍFICAS PARA CATEGORÍA NOVICIO
+
+PBN.1		¿En	cuál	de	las	siguientes	bandas	de	frecuencias	puede	operar	un Radioaficionado de categoría Novicio?
+
+    a) 60 metros.
+    b) 30 metros.
+    c) 12 metros.
+    d) 70 centímetros.
+
+PBN.2 ¿En cuál de las siguientes frecuencias puede operar un Radioaficionado de categoría Novicio?
+
+    a) 146000 kHz.
+    b) 10135 kHz.
+    c) 3550 kHz.
+    d) 14235 kHz.
+
+
+PBN.3 En la banda de 15 metros, un Radioaficionado de categoría Novicio:
+
+    a) Puede emitir en todos los segmentos.
+    b) Puede emitir sólo en algunos segmentos.
+    c) No puede emitir en esta banda.
+    d) Posee restricciones adicionales de potencia.
+
+
+PBN.4 ¿En qué porción de la banda de 20 metros NO pueden operar los titulares de licencia de categoría Novicio?
+    a) 14000 – 14070 kHz.
+    b) 14070 – 14095 kHz.
+    c) 14095 – 14099 kHz.
+
+
+PBN.5 ¿Cuál es la potencia máxima autorizada para la categoría Novicio en la banda de 30 metros?
+    a) 500 W.
+    b) 250 W.
+    c) No puede emitir en esta banda.
+    d) La autorizada para la categoría.
+
+
+PBN.6 ¿Cuál es la PIRE máxima autorizada para la categoría Novicio en la banda de 2200 metros?
+    a) 1 W.
+    b) 25 W.
+    c) La autorizada para la categoría.
+    d) No puede emitir en esta banda.
+
+PBN.7 ¿Cuál es la PIRE máxima autorizada para la categoría Novicio en la banda de 630 metros?
+    a) 1 W.
+    b) 5 W.
+    c) La autorizada para la categoría.
+    d) No puede emitir en esta banda.
+
+
+PBN.8 ¿Cuál es la PIRE máxima autorizada para la categoría Novicio en la banda de 60 metros?
+    a) 25 W.
+    b) 100 W.
+    c) La autorizada para la categoría.
+    d) No puede emitir en esta banda.
+
+
+PBN.9 La banda de frecuencias de 80 metros:
+    a) Está atribuida al Servicio de Radioaficionados con carácter primario.
+    b) Está atribuida al Servicio de Radioaficionados con carácter secundario.
+    c) Está atribuida al Servicio de Radioaficionados con carácter primario o secundario según el segmento de frecuencias.
+
+
+PBN.10 ¿Cuál es la anchura de banda máxima para DIGIMODOS en la banda de 2 y 10 metros?
+    a) < = 3 kHz.
+    b) < = 16 kHz.
+    c) > = 16 kHz.
+    d) > = 3 kHz.
+
+
+PBN.11 ¿Cuál es la anchura de banda máxima para DIGIMODOS en la banda de 40 y 80 metros?
+    a) < = 3 kHz.
+    b) < = 50 kHz.
+    c) < = 100 kHz.
+    d) < = 200 kHz.
+
+PBN.12 ¿Cuál es la única actividad permitida a un Radioaficionado de categoría Novicio en la banda de 17 metros?
+    a) Emitir en RTTY.
+    b) Emitir en SSB.
+    c) Emitir una Radiobaliza.
+
+
+PBN.13 Una frecuencia indicada como de uso exclusivo para un modo de emisión puede utilizarse para:
+    a) Emitir en un modo diferente sólo si se encuentra desocupada.
+    b) Emitir únicamente en ese modo.
+    c) Queda supeditado a la categoría del Radioaficionado.
+
+
+PBN.14 ¿Puede un Radioaficionado de categoría Novicio efectuar transmisiones en AM en la banda de 3 centímetros?
+    a) Siempre que se trate de emisiones con baja potencia.
+    b) Siempre que se trate de emisiones de prueba.
+    c) Siempre, sin restricciones.
+    d) No están permitidas las emisiones en ese modo.
+
+
+PBN.15 ¿Puede un Radioaficionado de categoría Novicio efectuar transmisiones del Servicio de Radioaficionados por Satélite en la banda de 23 centímetros?
+    a) Sólo en sentido espacio – tierra, en el rango 1260 – 1270 MHz.
+    b) Sólo en sentido tierra – espacio, en el rango 1260 – 1270 MHz.
+    c) Sí, en ambos sentidos, en el rango 1260 – 1270 MHz.
+    d) No están permitidas.
+
+
+PREGUNTAS ESPECÍFICAS PARA CATEGORÍA GENERAL
+
+PBG.1 ¿En qué porción de la banda de 15 metros NO puede operar un Radioaficionado de categoría General?
+    a) 21000 – 21070 kHz.
+    b) 21125 – 21149 kHz.
+    c) 21151 – 21250 kHz.
+    d) 21.250 – 21.450 kHz.
+
+
+PBG.2 ¿En qué porción de la banda de 30 metros puede operar en CW un Radioaficionado de categoría General?
+    a) 10100 – 10130 kHz.
+    b) 10130 – 10140 kHz.
+    c) 10140 – 10150 kHz.
+    d) No puede operar en la banda de 30 metros.
+
+
+PBG.3 ¿Con qué potencia máxima puede operar en un Radioaficionado de categoría General en la banda de 30 metros?
+    a) 1 W.
+    b) 100 W.
+    c) 250 W.
+    d) La autorizada para la categoría.
+    e) No puede operar en la banda de 30 metros.
+
+
+PBG.4 La banda de frecuencias de 80 metros:
+    a) Está atribuida al Servicio de Radioaficionados con carácter primario.
+    b) Está atribuida al Servicio de Radioaficionados con carácter secundario.
+    c) Está atribuida al Servicio de Radioaficionados con carácter primario o secundario según el segmento de frecuencias.
+
+
+PBG.5 ¿Cuál es la PIRE máxima autorizada para la categoría General en la banda de 2200 metros?
+    a) 0,5 W.
+    b) 1 W.
+    c) La autorizada para la categoría.
+    d) No puede emitir en esta banda.
+
+
+PBG.6 ¿Cuáles son las condiciones de operación para la categoría General en la banda de 630 metros?
+    a) Modos: AM y DIGIMODOS; PIRE: 1 W; Anchura de banda: 500 Hz.
+    b) Modos: CW y DIGIMODOS; PIRE: 5 W; Anchura de banda: 500 Hz.
+    c) Modos: CW y FM; PIRE: 5 W; Anchura de banda: 500 Hz.
+    d) Modos: CW y DIGIMODOS; PIRE: 5 W; Anchura de banda: 200 Hz.
+
+
+PBG.7 ¿Cuál es la frecuencia de llamada en FM en la banda de 6 metros?
+    a) 50,11 MHz.
+    b) 51,50 MHz.
+    c) 52,00 MHz.
+    d) 53,11 MHz.
+
+
+PBG.8 ¿Qué porción de la banda de 6 metros es exclusiva para T.L.T.?
+    a) 50,00 – 50,05 MHz.
+    b) 50,05 – 50,10 MHz.
+    c) 50,10 – 50,60 MHz.
+    d) 51,00 – 51,10 MHz.
+
+
+PBG.9 ¿Cuál es la frecuencia internacional de llamada en SSB en la banda de 6 metros?
+    a) 50,11 MHz.
+    b) 51,50 MHz.
+    c) 52,00 MHz.
+    d) 53,11 MHz.
+
+
+PBG.10 ¿Qué porción de la banda de 6 metros es para uso exclusivo de radiofaros?
+    a) 52,000 – 52,050 MHz.
+    b) 50,050 – 50,100 MHz.
+    c) 50,000 – 50,050 MHz.
+    d) 50,060 – 51,000 MHz.
+
+
+PBG.11 ¿En qué sector de la banda de 80 metros puede un Radioaficionado de categoría General operar en CW, prioridad DX?
+    a) 3500 – 3515 kHz.
+    b) 3515 – 3525 kHz.
+    c) 3525 – 3570 kHz.
+    d) 3570 – 3580 kHz.
+
+PBG.12 ¿En qué porción de la banda de 20 metros puede operar en SSB un Radioaficionado de categoría General?
+    a) 14000 – 14070 kHz.
+    b) 14101 – 14119 kHz.
+    c) 14119 – 14160 kHz.
+    d) 14160 – 14350 kHz.
+
+
+PBG.13 ¿En qué porción de la banda de 20 metros puede operar en RTTY prioritario un Radioaficionado de categoría General?
+    a) 14070 – 14095 kHz.
+    b) 14095 – 14099 kHz.
+    c) 14099 – 14101 kHz.
+    d) 14160 – 14350 kHz.
+
+
+PBG.14 ¿Puede un Radioaficionado de categoría General efectuar transmisiones en AM en la banda de 5 centímetros?
+    a) Siempre que se trate de emisiones con baja potencia.
+    b) Siempre que se trate de emisiones de prueba.
+    c) Siempre, sin restricciones.
+    d) No están permitidas las emisiones en ese modo en la banda de 5 centímetros.
+
+
+PBG.15 ¿Puede un Radioaficionado de categoría General efectuar transmisiones del Servicio de Radioaficionados por satélite en la banda de 23 centímetros?
+    a) Sólo en sentido espacio – tierra, en el rango 1260 – 1270 MHz.
+    b) Sólo en sentido tierra – espacio, en el rango 1260 – 1270 MHz.
+    c) Sí, en ambos sentidos, en el rango 1260 – 1270 MHz.
+    d) No están permitidas.
+
+
+PBG.16 Los enlaces de repetidoras en la banda de 23 centímetros se autorizan:
+    a) Sólo si operan en ambos sentidos en la misma banda.
+    b) Sólo si operan en bandas cruzadas.
+    c) Si operan tanto en la misma banda como en bandas cruzadas.
+    d) No están permitidos.
+
+PBG.17 ¿Cuál es el centro de actividad global de emergencias IARU en la banda de 20 metros?
+    a) 14180 kHz.
+    b) 14210 kHz.
+    c) 14300 kHz.
+    d) No hay centro de actividad global de emergencias IARU en esta banda.
+
+
+PBG.18 La operación, por parte de un Radioaficionado de categoría General, del Servicio de Aficionados por Satélite en la banda de 15 metros:
+    a) No puede reclamar protección ante interferencias por tratarse de una banda atribuida con carácter secundario.
+    b) Puede reclamar protección ante interferencias por tratarse de una banda atribuida con carácter primario.
+    c) Sólo puede realizarse en el segmento 21200 – 21310 kHz.
+    d) Sólo puede realizarse en el segmento 21250 – 21450 kHz.
+
+
+PREGUNTAS ESPECÍFICAS PARA CATEGORÍA SUPERIOR
+
+PBS.1 ¿En qué porción de la banda de 2 metros NO está permitido ningún tipo de emisión?
+    a) 145 – 145,2 MHz.
+    b) 145,79 – 145,8 MHz.
+    c) 145,8 – 146 MHz.
+    d) 147,4 – 147,6 MHz.
+
+
+PBS.2 ¿Cuál es el destino del segmento 220 – 220,05 MHz de la banda de 1,25 metros?
+    a) CW
+    b) T.L.T y SSB.
+    c) Radiofaros y T.L.T.
+    d) DV.
+    e) CW T.L.T exclusivo.
+
+
+PBS.3 ¿Con qué carácter se encuentra atribuida la banda de 70 cm?
+    a) Servicio de Radioaficionados primario – Servicio de Radioaficionados por Satélite primario.
+
+    b) Servicio de Radioaficionados primario – Servicio de Radioaficionados por Satélite secundario.
+    c) Servicio de Radioaficionados secundario – Servicio de Radioaficionados por Satélite primario.
+    d) Servicio de Radioaficionados secundario – Servicio de Radioaficionados por Satélite secundario.
+
+
+PBS.4 Indique las bandas de frecuencias atribuidas al Servicio de Radioaficionados por Satélite:
+    a) Banda de 160 m.
+    b) Banda de 80 m.
+    c) Banda de 15 m.
+    d) Banda de 10 m.
+    e) Banda de 6 m.
+    f) Banda de 2 m.
+    g) Banda de 23 cm.
+
+
+PBS.5 ¿Cuál es la PIRE máxima autorizada para la categoría Superior en la banda de 2200 metros?
+    a) 0,5 W.
+    b) 1 W.
+    c) La autorizada para la categoría.
+    d) No puede emitir en esta banda.
+
+
+PBS.6 ¿Cuál es la PIRE máxima autorizada para la categoría Superior en la banda de 630 metros?
+    a) 1 W.
+    b) 5 W.
+    c) La autorizada para la categoría.
+    d) No puede emitir en esta banda.
+
+
+PBS.7 ¿Cuáles son las condiciones de operación para la categoría Superior en la banda de 630 metros?
+    a) Modos: AM y DIGIMODOS; PIRE: 1 W; Anchura de banda: 500 Hz.
+    b) Modos: CW y DIGIMODOS; PIRE: 5 W; Anchura de banda: 500 Hz.
+    c) Modos: CW y FM; PIRE: 5 W; Anchura de banda: 500 Hz.
+    d) Modos: CW y DIGIMODOS; PIRE: 5 W; Anchura de banda: 200 Hz.
+
+
+
+PBS.8 ¿Cuál es el centro de actividad QRP en la banda de 160 metros?
+    a) 1810 kHz.
+    b) 1900 kHz.
+    c) 1910 kHz.
+    d) 2000 kHz.
+
+
+PBS.9 ¿Cuál es el centro de actividad para emergencias IARU en la banda de 80 metros?
+    a) 3560 kHz.
+    b) 3750 kHz.
+    c) 3690 kHz.
+    d) 3985 kHz.
+
+
+PBS.10 ¿En qué porciones de la banda de 10 metros, y en qué sentido, pueden utilizarse repetidoras?
+    a) 29300 – 29510 MHz Entrada / 29510 – 29590 MHz Salida.
+    b) 29510 – 29590 MHz Entrada / 29610 – 29700 MHz Salida.
+    c) 29510 – 29590 MHz Salida / 29610 – 29700 MHz Entrada.
+    d) 29590 – 29610 MHz Entrada / 29610 – 29700 MHz Salida.
+
+
+PBS.11 ¿Qué modo digital está permitido en el segmento 145,5 – 145,79 MHz en la banda de 2 metros?
+    a) PACKET.
+    b) FAX.
+    c) RTTY.
+    d) Todos.
+    e) Ninguno.
+
+
+PBS.12 ¿Qué sentido de transmisión está permitido en el segmento 5830 – 5850 MHz en la banda de 5 centímetros?
+    a) Espacio - Tierra.
+    b) Tierra - Espacio.
+    c) Ambos sentidos.
+    d) No es un segmento autorizado para el Servicio de Radioaficionados por Satélite.
+
+
+
+PBS.13 ¿En qué sector de la banda de 3 cm pueden operarse radiofaros?
+    a) 10 – 10,45 GHz.
+    b) 10,45 – 10,5 GHz.
+    c) 10,3683 – 10,3684 GHz.
+
+
+PBS.14 ¿Qué tienen en común las bandas de 13 cm, 5 cm y 1,2 cm?
+    a) Han sido identificadas en el Reglamento de Radiocomunicaciones 2016 para la implantación de IMT.
+    b) Están atribuidas al Servicio de Radioaficionados por Satélite con carácter primario.
+    c) Han sido identificadas en el Reglamento de Radiocomunicaciones 2016 para la aplicaciones ICM.
+    
+    
+TABLA DE RESPUESTAS CORRECTAS
+
+PREGUNTA REGLAMENTARIA N°	RESPUESTA
+I.1	a y b
+I.2	c
+I.3	c
+I.4	a
+I.5	c
+I.6	b
+I.7	a
+I.8	c
+I.9	a
+I.10	a
+I.11	c
+I.12	a
+I.13	a
+I.14	a
+I.15	c
+I.16	b
+I.17	c
+I.18	a
+I.19	b
+I.20	a
+I.21	a
+I.22	a
+I.23	a
+I.24	b
+I.25	b
+I.26	a
+I.27	b
+I.28	c
+I.29	b
+I.30	a
+I.31	b
+I.32	a
+I.33	a
+I.34	b
+I.35	c
+I.36	a
+I.37	a
+I.38	b
+I.39	c
+I.40	c
+I.41	b
+I.42	b
+I.43	c
+I.44	a
+I.45	a, c, e y g
+I.46	c
+
+I.47	a
+II.1	a y b
+III.1	b
+III.2	a
+III.3	a
+III.4	a
+III.5	a
+III.6	b
+III.7	a
+III.8	a
+III.9	b y c
+III.10	a
+III.11	a
+III.12	b
+III.13	a
+III.14	a
+III.15	b
+IV.1	b, d, e y f
+IV.2	a y d
+IV.3	b
+IV.4	a
+IV.5	d
+IV.6	d
+IV.7	c
+IV.8	b
+IV.9	b
+V.1	b
+V.2	a
+VI.1	a
+VI.2	a
+VII.1	b
+VII.2	b
+VII.3	d
+VII.4	c
+VII.5	b
+VIII.1	a
+VIII.2	a
+VIII.3	b
+VIII.4	b
+VIII.5	a
+VIII.6	b
+VIII.7	a
+VIII.8	a
+VIII.9	b
+VIII.10	a y b
+VIII.11	a
+VIII.12	a y b
+VIII.13	b
+IX.1	d
+IX.2	a
+IX.3	a
+IX.4	b
+
+IX.5	b
+IX.6	a
+IX.7	a
+IX.8	b
+IX.9	a
+IX.10	a
+IX.11	b
+X.1	a
+X.2	a
+X.3	a
+X.4	d
+X.5	c
+X.6	c
+X.7	a
+X.8	a
+X.9	a, b y c
+X.10	a
+X.11	a
+X.12	c
+X.13	a
+X.14	a
+X.15	b
+XI.1	d
+XI.2	a
+XI.3	b
+XII.1	a y b
+XII.2	a
+XII.3	c
+XII.4	a, b y c
+XII.5	b
+XII.6	a
+XII.7	a
+XII.8	a
+XII.9	a
+XII.10	b
+XII.11	a
+XII.12	a, b y c
+XII.13	b
+XII.14	b
+XII.15	b
+XII.16	a y b
+XII.17	b
+XII.18	b
+XII.19	a
+XII.20	a
+XII.21	a
+XII.22	b
+XII.23	a, b y d
+XII.24	b y c
+XII.25	b
+XIII.1	a, c, e y f
+XIII.2	a, b, d y f
+
+XIII.3	a, b y c
+XIII.4	a, b y c
+XIII.5	a, b y c
+XIII.6	a
+	
+
+
+
+PREGUNTA PLAN DE BANDAS DE
+FRECUENCIAS N°	RESPUESTA
+PB.1	b
+PB.2	a
+PB.3	c
+PB.4	b
+PB.5	c
+PB.6	b y d
+PB.7	a
+PB.8	b
+PB.9	b
+PB.10	c
+PB.11	c
+PB.12	c
+
+PREGUNTA PLAN DE BANDA NOVICIO N°	RESPUESTA
+PBN.1	a y d
+PBN.2	a y c
+PBN.3	b
+PBN.4	a
+PBN.5	c
+PBN.6	a
+PBN.7	b
+PBN.8	a
+PBN.9	c
+PBN.10	b
+PBN.11	a
+PBN.12	c
+PBN.13	b
+PBN.14	d
+PBN.15	b
+
+
+PREGUNTA PLAN DE BANDA GENERAL N°	RESPUESTA
+PBG.1	d
+PBG.2	d
+PBG.3	e
+PBG.4	c
+PBG.5	b
+PBG.6	b
+PBG.7	b
+PBG.8	a
+PBG.9	a
+
+PBG.10	b
+PBG.11	a
+PBG.12	b y d
+PBG.13	a
+PBG.14	d
+PBG.15	b
+PBG.16	c
+PBG.17	c
+PBG.18	b y c
+	
+
+PREGUNTA PLAN DE BANDA SUPERIOR N°	RESPUESTA
+PBS.1	b
+PBS.2	e
+PBS.3	b
+PBS.4	c, d, f y g
+PBS.5	b
+PBS.6	b
+PBS.7	b
+PBS.8	c
+PBS.9	b y d
+PBS.10	b
+PBS.11	c
+PBS.12	a
+PBS.13	c
+PBS.14	c
+
