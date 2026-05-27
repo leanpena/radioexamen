@@ -4,6 +4,12 @@ Simulador web para preparar el examen de **Licencia de Radioaficionado en Argent
 
 El proyecto está orientado a práctica realista del banco de preguntas de **Técnica** y **Reglamentación**, con modos de entrenamiento, examen y repaso de errores.
 
+## Demo
+
+Podés ver la aplicación funcionando en:
+
+- [https://radioexamen.free.nf/](https://radioexamen.free.nf/)
+
 ## Objetivo
 
 Brindar una herramienta simple, rápida y usable desde navegador para:
@@ -123,5 +129,7 @@ Ver archivo `LICENSE`.
 ## Autor
 
 Proyecto: **RadioExamen Argentina**  
+Autor: **Leandro Pena**  
+Realizada para: **Radio Club Miramar (LU7DZL)**  
 Callsign en la app: **LU7DZL**
 
